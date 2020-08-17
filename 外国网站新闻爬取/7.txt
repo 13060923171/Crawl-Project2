@@ -1,0 +1,716 @@
+/*O_o*/
+google.search.cse.api2105({
+  "cursor": {
+    "currentPageIndex": 7,
+    "estimatedResultCount": "1580000",
+    "moreResultsUrl": "http://www.google.com/cse?oe=utf8&ie=utf8&source=uds&q=2020+election&safe=off&start=70&sort=&cx=017476104391584697148:yfiniwqwjp4",
+    "resultCount": "1,580,000",
+    "searchResultTime": "0.50",
+    "pages": [
+      {
+        "label": 1,
+        "start": "0"
+      },
+      {
+        "label": 2,
+        "start": "10"
+      },
+      {
+        "label": 3,
+        "start": "20"
+      },
+      {
+        "label": 4,
+        "start": "30"
+      },
+      {
+        "label": 5,
+        "start": "40"
+      },
+      {
+        "label": 6,
+        "start": "50"
+      },
+      {
+        "label": 7,
+        "start": "60"
+      },
+      {
+        "label": 8,
+        "start": "70"
+      },
+      {
+        "label": 9,
+        "start": "80"
+      },
+      {
+        "label": 10,
+        "start": "90"
+      }
+    ]
+  },
+  "context": {
+    "title": "*.mlive.com",
+    "total_results": "0"
+  },
+  "results": [
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:_-O5phZtq34J:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/news/flint/2020/01/cynthia-neeley-wins-special-democratic-primary-for-flint-state-house-seat.html&sa=U&ved=2ahUKEwjR2LrRjI3rAhUOQd4KHVaJBho4RhAWMAB6BAgCEAE&usg=AOvVaw0Lzl5Qk1DhRrHY6bLWQAo7",
+      "content": "Updated Jan 08, \u003cb\u003e2020\u003c/b\u003e; Posted Jan 07, \u003cb\u003e2020\u003c/b\u003e. 15. Voters cast ballots in \u003cb\u003eelection\u003c/b\u003e for \nthe 34th District state Rep. seat ... Adam Ford are moving on to the primary \n\u003cb\u003eelection\u003c/b\u003e for Flint&#39;s 34th District state house seat after voters hit the polls Tuesday, \nJan.",
+      "contentNoFormatting": "Updated Jan 08, 2020; Posted Jan 07, 2020. 15. Voters cast ballots in election for \nthe 34th District state Rep. seat ... Adam Ford are moving on to the primary \nelection for Flint's 34th District state house seat after voters hit the polls Tuesday, \nJan.",
+      "title": "Cynthia Neeley wins special Democratic primary for Flint state ...",
+      "titleNoFormatting": "Cynthia Neeley wins special Democratic primary for Flint state ...",
+      "formattedUrl": "https://www.mlive.com/.../\u003cb\u003e2020\u003c/b\u003e/.../cynthia-neeley-wins-special-democratic- primary-for-flint-state-house-seat.html",
+      "unescapedUrl": "https://www.mlive.com/news/flint/2020/01/cynthia-neeley-wins-special-democratic-primary-for-flint-state-house-seat.html",
+      "url": "https://www.mlive.com/news/flint/2020/01/cynthia-neeley-wins-special-democratic-primary-for-flint-state-house-seat.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/eRsHiQQ1U-1yf0iiVqLM4mTCa6o=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/526JTJLCDZCY5ETUQ4SKWNUVVA.JPG"
+        },
+        "metatags": {
+          "sailthruDescription": "Cynthia Neeley and Adam Ford are moving on to the primary election for Flint’s 34th District state house seat.",
+          "twitterTitle": "Cynthia Neeley wins special Democratic primary for Flint state house seat",
+          "ogImageWidth": "1280",
+          "sailthruTags": "flint,campaigns and campaign finance,state and local elections,karen weaver,genesee county,gretchen whitmer,democratic house,percent",
+          "articleDateUpdated": "Wednesday, January 08, 2020, 02:34 PM",
+          "ogTitle": "Cynthia Neeley wins special Democratic primary for Flint state house seat",
+          "title": "Cynthia Neeley wins special Democratic primary for Flint state house seat",
+          "ogType": "article",
+          "articleTag": "@fl-river,@mlive-river",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "zahmad8695",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Zahra Ahmad | zahmad@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/news/flint/2020/01/cynthia-neeley-wins-special-democratic-primary-for-flint-state-house-seat.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2020-01-08T03:22:05.381Z",
+          "twitterImage": "https://www.mlive.com/resizer/eRsHiQQ1U-1yf0iiVqLM4mTCa6o=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/526JTJLCDZCY5ETUQ4SKWNUVVA.JPG",
+          "sailthruDate": "Tuesday, January 07, 2020, 10:22 PM",
+          "ogDescription": "Cynthia Neeley and Adam Ford are moving on to the primary election for Flint’s 34th District state house seat.",
+          "ogImage": "https://www.mlive.com/resizer/eRsHiQQ1U-1yf0iiVqLM4mTCa6o=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/526JTJLCDZCY5ETUQ4SKWNUVVA.JPG",
+          "sections": "news/flint,news",
+          "articleDateOriginal": "Tuesday, January 07, 2020, 10:22 PM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "Cynthia Neeley and Adam Ford are moving on to the primary election for Flint’s 34th District state house seat.",
+          "ogUrl": "https://www.mlive.com/news/flint/2020/01/cynthia-neeley-wins-special-democratic-primary-for-flint-state-house-seat.html",
+          "articleModifiedTime": "2020-01-08T19:34:53.740Z",
+          "articleSection": "Flint",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "Cynthia Neeley wins special Democratic primary for Flint state house seat",
+          "machineTags": "@fl-river,@mlive-river",
+          "articleAuthor": "https://www.facebook.com/zahra.ahmad.37?ref=bookmarks"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRmRgtgBt7C7ucNYHoUQUJsDCh95jIWqirOZv8c46puqNO59eOhf36owxo",
+          "width": "259",
+          "height": "194"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "news",
+          "flint",
+          "2020/01",
+          "cynthia-neeley-wins-spe..."
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:3DKAUR7-sQMJ:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/news/saginaw-bay-city/2020/08/saginaw-county-sheriff-william-federspiel-wins-2020-democratic-primary.html&sa=U&ved=2ahUKEwjR2LrRjI3rAhUOQd4KHVaJBho4RhAWMAF6BAgIEAI&usg=AOvVaw3dD9399c7LXQHifwK7Y9dF",
+      "content": "3 days ago \u003cb\u003e...\u003c/b\u003e If Federspiel wins in the November \u003cb\u003eelection\u003c/b\u003e he will be sheriff for another four \nyears.",
+      "contentNoFormatting": "3 days ago ... If Federspiel wins in the November election he will be sheriff for another four \nyears.",
+      "title": "Saginaw County Sheriff William Federspiel wins \u003cb\u003e2020\u003c/b\u003e Democratic ...",
+      "titleNoFormatting": "Saginaw County Sheriff William Federspiel wins 2020 Democratic ...",
+      "formattedUrl": "https://www.mlive.com/.../\u003cb\u003e2020\u003c/b\u003e/.../saginaw-county-sheriff-william-federspiel- wins-\u003cb\u003e2020\u003c/b\u003e-democratic-primary.html",
+      "unescapedUrl": "https://www.mlive.com/news/saginaw-bay-city/2020/08/saginaw-county-sheriff-william-federspiel-wins-2020-democratic-primary.html",
+      "url": "https://www.mlive.com/news/saginaw-bay-city/2020/08/saginaw-county-sheriff-william-federspiel-wins-2020-democratic-primary.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/UEGY_bQ1RZqvS33zzgCJYJT-wz0=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2OGYEQPOHVBEXFLF5ZL4LZYPAE.JPG"
+        },
+        "metatags": {
+          "sailthruDescription": "If Federspiel wins in the November election he will be sheriff for another four years.",
+          "twitterTitle": "Saginaw County Sheriff William Federspiel wins 2020 Democratic primary",
+          "ogImageWidth": "1280",
+          "sailthruTags": "saginaw and bay city news,election-2020,kevin stevens,saginaw county,washington ave.,election,bay,midland",
+          "articleDateUpdated": "Wednesday, August 05, 2020, 01:58 AM",
+          "ogTitle": "Saginaw County Sheriff William Federspiel wins 2020 Democratic primary",
+          "title": "Saginaw County Sheriff William Federspiel wins 2020 Democratic primary",
+          "ogType": "article",
+          "articleTag": "@sa-app,@sa-news,@sa-river,@bc-river,election-2020",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "isimpson",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Isis Simpson-Mersha | isimpson@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/news/saginaw-bay-city/2020/08/saginaw-county-sheriff-william-federspiel-wins-2020-democratic-primary.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2020-08-05T05:58:58.476Z",
+          "twitterImage": "https://www.mlive.com/resizer/UEGY_bQ1RZqvS33zzgCJYJT-wz0=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2OGYEQPOHVBEXFLF5ZL4LZYPAE.JPG",
+          "sailthruDate": "Wednesday, August 05, 2020, 01:58 AM",
+          "ogDescription": "If Federspiel wins in the November election he will be sheriff for another four years.",
+          "ogImage": "https://www.mlive.com/resizer/UEGY_bQ1RZqvS33zzgCJYJT-wz0=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2OGYEQPOHVBEXFLF5ZL4LZYPAE.JPG",
+          "sections": "news/saginaw-bay-city",
+          "articleDateOriginal": "Wednesday, August 05, 2020, 01:58 AM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "If Federspiel wins in the November election he will be sheriff for another four years.",
+          "ogUrl": "https://www.mlive.com/news/saginaw-bay-city/2020/08/saginaw-county-sheriff-william-federspiel-wins-2020-democratic-primary.html",
+          "articleModifiedTime": "2020-08-05T05:58:58.476Z",
+          "articleSection": "Saginaw and Bay City News",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "Saginaw County Sheriff William Federspiel wins 2020 Democratic primary",
+          "machineTags": "@sa-app,@sa-news,@sa-river,@bc-river",
+          "articleAuthor": "https://www.facebook.com/isis.simpson.31"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTfgpjj2DNwCs1eKsjQBb8l_1dSlMv_EzNwnz2HrrHsZvPkYBMkOTHGA50",
+          "width": "275",
+          "height": "183"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "news",
+          "saginaw-bay-city",
+          "2020/08",
+          "saginaw-co..."
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:BVTMbYNmuKUJ:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/public-interest/2020/01/poll-michigan-women-unlikely-to-support-trump-in-2020.html&sa=U&ved=2ahUKEwjR2LrRjI3rAhUOQd4KHVaJBho4RhAWMAJ6BAgJEAI&usg=AOvVaw1nDYanKwgYgk8THy08Tbou",
+      "content": "22 Jan 2020 \u003cb\u003e...\u003c/b\u003e Only 27% of Michigan women would \u003cb\u003evote\u003c/b\u003e for Trump if the \u003cb\u003eelection\u003c/b\u003e were held \ntoday, according to polling released to MLive by Baldwin Wallace&nbsp;...",
+      "contentNoFormatting": "22 Jan 2020 ... Only 27% of Michigan women would vote for Trump if the election were held \ntoday, according to polling released to MLive by Baldwin Wallace ...",
+      "title": "Poll: Michigan women unlikely to support Trump in \u003cb\u003e2020\u003c/b\u003e - mlive.com",
+      "titleNoFormatting": "Poll: Michigan women unlikely to support Trump in 2020 - mlive.com",
+      "formattedUrl": "https://www.mlive.com/.../\u003cb\u003e2020\u003c/b\u003e/.../poll-michigan-women-unlikely-to-support -trump-in-\u003cb\u003e2020\u003c/b\u003e.html",
+      "unescapedUrl": "https://www.mlive.com/public-interest/2020/01/poll-michigan-women-unlikely-to-support-trump-in-2020.html",
+      "url": "https://www.mlive.com/public-interest/2020/01/poll-michigan-women-unlikely-to-support-trump-in-2020.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/MKimxI9AvrIkCXZsXNUYHUrcKCA=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/OZR7BC3NVVAJDO4ZRIOM3EDGNU.JPG"
+        },
+        "metatags": {
+          "sailthruDescription": "A new poll from Michigan and Ohio universities found Trump is unpopular among women in Great Lakes states.",
+          "twitterTitle": "Poll: Michigan women unlikely to support Trump in 2020",
+          "ogImageWidth": "1280",
+          "sailthruTags": "public interest,rights, discrimination and inequality,race and ethnicity,sex and gender,campaigns and campaign finance,culture and tradition,congressional elections,independent",
+          "articleDateUpdated": "Wednesday, January 22, 2020, 09:35 AM",
+          "ogTitle": "Poll: Michigan women unlikely to support Trump in 2020",
+          "title": "Poll: Michigan women unlikely to support Trump in 2020",
+          "ogType": "article",
+          "articleTag": "@mlive-river,@mlive-app,@jx-river,@sa-river,@fl-river,@aa-river,@kz-river,@gr-river,impact",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "mbarrett2",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Malachi Barrett | mbarret1@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/public-interest/2020/01/poll-michigan-women-unlikely-to-support-trump-in-2020.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2020-01-22T11:00:07.509Z",
+          "twitterImage": "https://www.mlive.com/resizer/MKimxI9AvrIkCXZsXNUYHUrcKCA=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/OZR7BC3NVVAJDO4ZRIOM3EDGNU.JPG",
+          "sailthruDate": "Wednesday, January 22, 2020, 06:00 AM",
+          "ogDescription": "A new poll from Michigan and Ohio universities found Trump is unpopular among women in Great Lakes states.",
+          "ogImage": "https://www.mlive.com/resizer/MKimxI9AvrIkCXZsXNUYHUrcKCA=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/OZR7BC3NVVAJDO4ZRIOM3EDGNU.JPG",
+          "sections": "public-interest,politics,news/saginaw-bay-city,news/muskegon,news/kalamazoo,news/jackson,news/grand-rapids,news/flint,news/ann-arbor,news",
+          "articleDateOriginal": "Wednesday, January 22, 2020, 06:00 AM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "A new poll from Michigan and Ohio universities found Trump is unpopular among women in Great Lakes states.",
+          "ogUrl": "https://www.mlive.com/public-interest/2020/01/poll-michigan-women-unlikely-to-support-trump-in-2020.html",
+          "articleModifiedTime": "2020-01-22T14:35:29.171Z",
+          "articleSection": "Public Interest",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "Poll: Michigan women unlikely to support Trump in 2020",
+          "machineTags": "@mlive-river,@mlive-app,@jx-river,@sa-river,@fl-river,@aa-river,@kz-river,@gr-river",
+          "articleAuthor": "https://www.facebook.com/malachi.barrett"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3ZZLDOMv6ZGn8NHvNiIaUMh2zSneBJYWwfeJ4kFvtAaycQ9_4JaGpm5HY",
+          "width": "275",
+          "height": "183"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "public-interest",
+          "2020/01",
+          "poll-michigan-women..."
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:dYglxQTW53UJ:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/news/kalamazoo/2020/08/7-races-to-watch-on-election-day-in-kalamazoo-county.html&sa=U&ved=2ahUKEwjR2LrRjI3rAhUOQd4KHVaJBho4RhAWMAN6BAgHEAI&usg=AOvVaw2x7scfHdcxPTVR5wWjHmR4",
+      "content": "5 days ago \u003cb\u003e...\u003c/b\u003e Kalamazoo \u003cb\u003eelections\u003c/b\u003e. A voter casts her ballot at Mt. Zion Baptist Church in \nKalamazoo, Michigan on Tuesday, March 10, \u003cb\u003e2020\u003c/b\u003e. (Kendall Warner&nbsp;...",
+      "contentNoFormatting": "5 days ago ... Kalamazoo elections. A voter casts her ballot at Mt. Zion Baptist Church in \nKalamazoo, Michigan on Tuesday, March 10, 2020. (Kendall Warner ...",
+      "title": "7 races to watch on \u003cb\u003eElection\u003c/b\u003e Day in Kalamazoo County - mlive.com",
+      "titleNoFormatting": "7 races to watch on Election Day in Kalamazoo County - mlive.com",
+      "formattedUrl": "https://www.mlive.com/.../\u003cb\u003e2020\u003c/b\u003e/.../7-races-to-watch-on-\u003cb\u003eelection\u003c/b\u003e-day-in- kalamazoo-county.html",
+      "unescapedUrl": "https://www.mlive.com/news/kalamazoo/2020/08/7-races-to-watch-on-election-day-in-kalamazoo-county.html",
+      "url": "https://www.mlive.com/news/kalamazoo/2020/08/7-races-to-watch-on-election-day-in-kalamazoo-county.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/y5JM_cKOkykCZg_WKAorx7B0X0k=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/LSJ5RQDZSFB4XCJX2G4TJSGQ5Q.JPG"
+        },
+        "metatags": {
+          "sailthruDescription": "Voters filing absentee ballots and headline to the polls Tuesday, Aug. 4, will decide a number of primary contests and tax proposals in Kalamazoo County and across the state.",
+          "twitterTitle": "7 races to watch on Election Day in Kalamazoo County",
+          "ogImageWidth": "1280",
+          "sailthruTags": "kalamazoo,state and local elections,local governments,election-kalamazoo,kalamazoo-election,election-2020,district,galesburg",
+          "articleDateUpdated": "Monday, August 03, 2020, 10:57 AM",
+          "ogTitle": "7 races to watch on Election Day in Kalamazoo County",
+          "title": "7 races to watch on Election Day in Kalamazoo County",
+          "ogType": "article",
+          "articleTag": "@kz-river,@kz-app,election-kalamazoo,kalamazoo-election,election-2020,@mlive-river,@gr-river",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "kmille17",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Kayla Miller | kmille17@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/news/kalamazoo/2020/08/7-races-to-watch-on-election-day-in-kalamazoo-county.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2020-08-03T13:15:00Z",
+          "twitterImage": "https://www.mlive.com/resizer/y5JM_cKOkykCZg_WKAorx7B0X0k=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/LSJ5RQDZSFB4XCJX2G4TJSGQ5Q.JPG",
+          "sailthruDate": "Monday, August 03, 2020, 09:15 AM",
+          "ogDescription": "Voters filing absentee ballots and headline to the polls Tuesday, Aug. 4, will decide a number of primary contests and tax proposals in Kalamazoo County and across the state.",
+          "ogImage": "https://www.mlive.com/resizer/y5JM_cKOkykCZg_WKAorx7B0X0k=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/LSJ5RQDZSFB4XCJX2G4TJSGQ5Q.JPG",
+          "sections": "news/kalamazoo",
+          "articleDateOriginal": "Monday, August 03, 2020, 09:15 AM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "Voters filing absentee ballots and headline to the polls Tuesday, Aug. 4, will decide a number of primary contests and tax proposals in Kalamazoo County and across the state.",
+          "ogUrl": "https://www.mlive.com/news/kalamazoo/2020/08/7-races-to-watch-on-election-day-in-kalamazoo-county.html",
+          "articleModifiedTime": "2020-08-03T14:57:53.558Z",
+          "articleSection": "Kalamazoo",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "7 races to watch on Election Day in Kalamazoo County",
+          "machineTags": "@kz-river,@kz-app,@mlive-river,@gr-river",
+          "articleAuthor": "Kayla Miller | kmille17@mlive.com"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzgyXxvkKrZMVnx8EtYCgCbczWLXwajenhuRBbgDLvq53MrUHONa6SyJ4R",
+          "width": "275",
+          "height": "183"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "news",
+          "kalamazoo",
+          "2020/08",
+          "7-races-to-watch-..."
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:q7gdPBi4FRgJ:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/public-interest/2019/03/move-over-ohio-michigan-is-new-swing-state-in-2020-presidential-election.html&sa=U&ved=2ahUKEwjR2LrRjI3rAhUOQd4KHVaJBho4RhAWMAR6BAgDEAI&usg=AOvVaw1rsPM_1zBb6t74I6wxNZ3w",
+      "content": "24 Mar 2019 \u003cb\u003e...\u003c/b\u003e In the Buckeye State, 2016 and 2018 \u003cb\u003eelections\u003c/b\u003e both trended red. Ohio is \nhistorically a reliable predictor of the presidential \u003cb\u003eelection\u003c/b\u003e winner --&nbsp;...",
+      "contentNoFormatting": "24 Mar 2019 ... In the Buckeye State, 2016 and 2018 elections both trended red. Ohio is \nhistorically a reliable predictor of the presidential election winner -- ...",
+      "title": "Move over, Ohio: Michigan is new swing state in \u003cb\u003e2020\u003c/b\u003e presidential ...",
+      "titleNoFormatting": "Move over, Ohio: Michigan is new swing state in 2020 presidential ...",
+      "formattedUrl": "https://www.mlive.com/.../move-over-ohio-michigan-is-new-swing-state-in- \u003cb\u003e2020\u003c/b\u003e-presidential-\u003cb\u003eelection\u003c/b\u003e.html",
+      "unescapedUrl": "https://www.mlive.com/public-interest/2019/03/move-over-ohio-michigan-is-new-swing-state-in-2020-presidential-election.html",
+      "url": "https://www.mlive.com/public-interest/2019/03/move-over-ohio-michigan-is-new-swing-state-in-2020-presidential-election.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/8NqxKHyRWQjRA9TWlVyhzuiq0j8=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/VMTZVMBAKZBPVHMKOEDZW5YIOQ.JPG"
+        },
+        "metatags": {
+          "sailthruDescription": "The key to victory in 2020 for Republicans and Democrats will likely lie in Michigan.",
+          "twitterTitle": "Move over, Ohio: Michigan is new swing state in 2020 presidential election",
+          "ogImageWidth": "1280",
+          "sailthruTags": "public interest,congressional elections,race and ethnicity,campaigns and campaign finance,communities and subcultures,independent,presidential elections,michigan",
+          "articleDateUpdated": "Sunday, March 24, 2019, 09:15 AM",
+          "ogTitle": "Move over, Ohio: Michigan is new swing state in 2020 presidential election",
+          "title": "Move over, Ohio: Michigan is new swing state in 2020 presidential election",
+          "ogType": "article",
+          "articleTag": "@kz-river,@aa-river,@fl-river,@gr-river,@jx-river,@mu-river,@bc-river,@sg-river,@mlive-river,@impact",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "mbarrett2",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Malachi Barrett | mbarret1@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/public-interest/2019/03/move-over-ohio-michigan-is-new-swing-state-in-2020-presidential-election.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2019-03-24T13:15:19.107Z",
+          "twitterImage": "https://www.mlive.com/resizer/8NqxKHyRWQjRA9TWlVyhzuiq0j8=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/VMTZVMBAKZBPVHMKOEDZW5YIOQ.JPG",
+          "sailthruDate": "Sunday, March 24, 2019, 09:15 AM",
+          "ogDescription": "The key to victory in 2020 for Republicans and Democrats will likely lie in Michigan.",
+          "ogImage": "https://www.mlive.com/resizer/8NqxKHyRWQjRA9TWlVyhzuiq0j8=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/VMTZVMBAKZBPVHMKOEDZW5YIOQ.JPG",
+          "sections": "public-interest,politics,news/ann-arbor,news/flint,news/grand-rapids,news/jackson,news/kalamazoo,news/muskegon,news/saginaw-bay-city,news",
+          "articleDateOriginal": "Sunday, March 24, 2019, 09:15 AM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "The key to victory in 2020 for Republicans and Democrats will likely lie in Michigan.",
+          "ogUrl": "https://www.mlive.com/public-interest/2019/03/move-over-ohio-michigan-is-new-swing-state-in-2020-presidential-election.html",
+          "articleModifiedTime": "2019-03-24T13:15:19.107Z",
+          "articleSection": "Public Interest",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "Move over, Ohio: Michigan is new swing state in 2020 presidential election",
+          "machineTags": "@kz-river,@aa-river,@fl-river,@gr-river,@jx-river,@mu-river,@bc-river,@sg-river,@mlive-river,@impact",
+          "articleAuthor": "https://www.facebook.com/malachi.barrett"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGCviZKgCVSKFDpaQOc-pGR5t0htbnMMYK7x-aphkhKP8by4Gv7ldMDitY",
+          "width": "275",
+          "height": "183"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "public-interest",
+          "2019/03",
+          "move-over-ohio-mich..."
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:b0Z0iSo1-goJ:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/news/kalamazoo/2020/05/kalamazoo-and-portage-offer-masks-promote-voter-safety-for-election-during-pandemic.html&sa=U&ved=2ahUKEwjR2LrRjI3rAhUOQd4KHVaJBho4RhAWMAV6BAgBEAI&usg=AOvVaw04k0Z3_Oer-DPt5mxky8WZ",
+      "content": "5 May 2020 \u003cb\u003e...\u003c/b\u003e May 5, \u003cb\u003e2020 election\u003c/b\u003e in Kalamazoo County. By Brad Devereaux | bdeverea@\nmlive.com. KALAMAZOO, MI — Democracy looks a bit different&nbsp;...",
+      "contentNoFormatting": "5 May 2020 ... May 5, 2020 election in Kalamazoo County. By Brad Devereaux | bdeverea@\nmlive.com. KALAMAZOO, MI — Democracy looks a bit different ...",
+      "title": "Kalamazoo and Portage offer masks, promote voter safety for ...",
+      "titleNoFormatting": "Kalamazoo and Portage offer masks, promote voter safety for ...",
+      "formattedUrl": "https://www.mlive.com/.../\u003cb\u003e2020\u003c/b\u003e/.../kalamazoo-and-portage-offer-masks- promote-\u003cb\u003evote\u003c/b\u003er-safety-for-\u003cb\u003eelection\u003c/b\u003e-during-pandemic.html",
+      "unescapedUrl": "https://www.mlive.com/news/kalamazoo/2020/05/kalamazoo-and-portage-offer-masks-promote-voter-safety-for-election-during-pandemic.html",
+      "url": "https://www.mlive.com/news/kalamazoo/2020/05/kalamazoo-and-portage-offer-masks-promote-voter-safety-for-election-during-pandemic.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/i_3DIyswWhoqTfz_X6XKAURkN-M=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GVBZSTSXJFFT3MUQ2IVTIUJ6QY.JPG"
+        },
+        "metatags": {
+          "sailthruDescription": "The election is on May 5.",
+          "twitterTitle": "Kalamazoo and Portage offer masks, promote voter safety for election during pandemic",
+          "ogImageWidth": "1280",
+          "sailthruTags": "kalamazoo,state and local elections,portage,ross township,st. johns,kalamazoo county,people,pfizer",
+          "articleDateUpdated": "Tuesday, May 05, 2020, 04:40 PM",
+          "ogTitle": "Kalamazoo and Portage offer masks, promote voter safety for election during pandemic",
+          "title": "Kalamazoo and Portage offer masks, promote voter safety for election during pandemic",
+          "ogType": "article",
+          "articleTag": "@kz-river,@kz-news,@kz-app,@mlive-river,portage",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "bdevereaux",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Brad Devereaux | bdeverea@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/news/kalamazoo/2020/05/kalamazoo-and-portage-offer-masks-promote-voter-safety-for-election-during-pandemic.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2020-05-05T20:40:49.183Z",
+          "twitterImage": "https://www.mlive.com/resizer/i_3DIyswWhoqTfz_X6XKAURkN-M=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GVBZSTSXJFFT3MUQ2IVTIUJ6QY.JPG",
+          "sailthruDate": "Tuesday, May 05, 2020, 04:40 PM",
+          "ogDescription": "The election is on May 5.",
+          "ogImage": "https://www.mlive.com/resizer/i_3DIyswWhoqTfz_X6XKAURkN-M=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GVBZSTSXJFFT3MUQ2IVTIUJ6QY.JPG",
+          "sections": "news/kalamazoo",
+          "articleDateOriginal": "Tuesday, May 05, 2020, 04:40 PM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "The election is on May 5.",
+          "ogUrl": "https://www.mlive.com/news/kalamazoo/2020/05/kalamazoo-and-portage-offer-masks-promote-voter-safety-for-election-during-pandemic.html",
+          "articleModifiedTime": "2020-05-05T20:40:49.183Z",
+          "articleSection": "Kalamazoo",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "Kalamazoo and Portage offer masks, promote voter safety for election during pandemic",
+          "machineTags": "@kz-river,@kz-news,@kz-app,@mlive-river",
+          "articleAuthor": "https://www.facebook.com/brad.devereaux.3"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQB9eUZRJU_IrU2kYbiZh7rEjVwZ2a0sofRhK-8WkAKEaSa80wOEeAnTIp9",
+          "width": "275",
+          "height": "183"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "news",
+          "kalamazoo",
+          "2020/05",
+          "kalamazoo-and-p..."
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:S-TXuN1czEUJ:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/public-interest/2019/12/partisan-groups-announce-michigan-organizing-projects-before-2020-elections.html&sa=U&ved=2ahUKEwjR2LrRjI3rAhUOQd4KHVaJBho4RhAWMAZ6BAgAEAI&usg=AOvVaw0ZElK3Nt0ZI4M0CAS_Q3OZ",
+      "content": "11 Dec 2019 \u003cb\u003e...\u003c/b\u003e Several progressive organizations announced million-dollar investments to \norganize Michigan voters ahead of the \u003cb\u003e2020 election\u003c/b\u003e while GOP&nbsp;...",
+      "contentNoFormatting": "11 Dec 2019 ... Several progressive organizations announced million-dollar investments to \norganize Michigan voters ahead of the 2020 election while GOP ...",
+      "title": "Partisan groups announce Michigan organizing projects before ...",
+      "titleNoFormatting": "Partisan groups announce Michigan organizing projects before ...",
+      "formattedUrl": "https://www.mlive.com/.../partisan-groups-announce-michigan-organizing- projects-before-\u003cb\u003e2020\u003c/b\u003e-\u003cb\u003eelections\u003c/b\u003e.html",
+      "unescapedUrl": "https://www.mlive.com/public-interest/2019/12/partisan-groups-announce-michigan-organizing-projects-before-2020-elections.html",
+      "url": "https://www.mlive.com/public-interest/2019/12/partisan-groups-announce-michigan-organizing-projects-before-2020-elections.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/ypOSt7uGWeZc5f453pJUCE8u2O8=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/2NTOFYXYPBBA5NJKDAOYKNSIXI.jpg"
+        },
+        "metatags": {
+          "sailthruDescription": "Several more organizations are pouring money into Michigan before the 2020 election.",
+          "twitterTitle": "Partisan groups announce Michigan organizing projects before 2020 elections",
+          "ogImageWidth": "1280",
+          "sailthruTags": "public interest,congressional elections,campaigns and campaign finance,impact,michigan,paul mitchell,haley stevens,michigan house",
+          "articleDateUpdated": "Wednesday, December 11, 2019, 02:36 PM",
+          "ogTitle": "Partisan groups announce Michigan organizing projects before 2020 elections",
+          "title": "Partisan groups announce Michigan organizing projects before 2020 elections",
+          "ogType": "article",
+          "articleTag": "@mlive-river,@mlive-app,@jx-river,@sa-river,@fl-river,@aa-river,@kz-river,@gr-river,impact",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "mbarrett2",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Malachi Barrett | mbarret1@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/public-interest/2019/12/partisan-groups-announce-michigan-organizing-projects-before-2020-elections.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2019-12-11T19:32:44.690Z",
+          "twitterImage": "https://www.mlive.com/resizer/ypOSt7uGWeZc5f453pJUCE8u2O8=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/2NTOFYXYPBBA5NJKDAOYKNSIXI.jpg",
+          "sailthruDate": "Wednesday, December 11, 2019, 02:32 PM",
+          "ogDescription": "Several more organizations are pouring money into Michigan before the 2020 election.",
+          "ogImage": "https://www.mlive.com/resizer/ypOSt7uGWeZc5f453pJUCE8u2O8=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/2NTOFYXYPBBA5NJKDAOYKNSIXI.jpg",
+          "sections": "public-interest,politics,news/saginaw-bay-city,news/muskegon,news/kalamazoo,news/jackson,news/grand-rapids,news/ann-arbor,news/flint,news",
+          "articleDateOriginal": "Wednesday, December 11, 2019, 02:32 PM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "Several more organizations are pouring money into Michigan before the 2020 election.",
+          "ogUrl": "https://www.mlive.com/public-interest/2019/12/partisan-groups-announce-michigan-organizing-projects-before-2020-elections.html",
+          "articleModifiedTime": "2019-12-11T19:36:30.983Z",
+          "articleSection": "Public Interest",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "Partisan groups announce Michigan organizing projects before 2020 elections",
+          "machineTags": "@mlive-river,@mlive-app,@jx-river,@sa-river,@fl-river,@aa-river,@kz-river,@gr-river",
+          "articleAuthor": "https://www.facebook.com/malachi.barrett"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Z06NKrg1rJ0dTHBARjoZyvWtUy5TdnHG2qPJfV6NU3ZFGUKw-xmc_L0",
+          "width": "280",
+          "height": "180"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "public-interest",
+          "2019/12",
+          "partisan-groups-anno..."
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:SdoPwd9K9z8J:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/public-interest/2020/08/eric-esshaki-declares-victory-in-michigans-11th-congressional-district-republican-primary.html&sa=U&ved=2ahUKEwjR2LrRjI3rAhUOQd4KHVaJBho4RhAWMAd6BAgEEAI&usg=AOvVaw0BUP7oCbHmhJGKfR1prTUT",
+      "content": "3 days ago \u003cb\u003e...\u003c/b\u003e Michigan 11th District Primary 2020 ... 3, \u003cb\u003e2020 election\u003c/b\u003e. ... Esshaki earned 31% of \nthe vote, according to incomplete results, putting him at the&nbsp;...",
+      "contentNoFormatting": "3 days ago ... Michigan 11th District Primary 2020 ... 3, 2020 election. ... Esshaki earned 31% of \nthe vote, according to incomplete results, putting him at the ...",
+      "title": "Eric Esshaki declares victory in Michigan&#39;s 11th Congressional ...",
+      "titleNoFormatting": "Eric Esshaki declares victory in Michigan's 11th Congressional ...",
+      "formattedUrl": "https://www.mlive.com/.../\u003cb\u003e2020\u003c/b\u003e/.../eric-esshaki-declares-victory-in-michigans -11th-congressional-district-republican-primary.html",
+      "unescapedUrl": "https://www.mlive.com/public-interest/2020/08/eric-esshaki-declares-victory-in-michigans-11th-congressional-district-republican-primary.html",
+      "url": "https://www.mlive.com/public-interest/2020/08/eric-esshaki-declares-victory-in-michigans-11th-congressional-district-republican-primary.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/Z1WATTdQIpwVfIZtNGLQwEfkk-0=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ROHM7B7FWFBWJGLGBKEE3DGZOU.jpg"
+        },
+        "metatags": {
+          "sailthruDescription": "Democratic nominee Haley Stevens and Republican nominee Eric Esshaki will face off on Nov. 3.",
+          "twitterTitle": "Eric Esshaki declares victory in Michigan’s 11th Congressional District Republican primary",
+          "ogImageWidth": "1280",
+          "sailthruTags": "public interest,campaigns and campaign finance,congressional elections,election-2020,impact,esshaki,northville,haley stevens",
+          "articleDateUpdated": "Wednesday, August 05, 2020, 03:31 PM",
+          "ogTitle": "Eric Esshaki declares victory in Michigan’s 11th Congressional District Republican primary",
+          "title": "Eric Esshaki declares victory in Michigan’s 11th Congressional District Republican primary",
+          "ogType": "article",
+          "articleTag": "@mlive-river,@mlive-app,@jx-river,@sa-river,@kz-river,@fl-river,@gr-river,election-2020,impact",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "mbarrett2",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Malachi Barrett | mbarret1@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/public-interest/2020/08/eric-esshaki-declares-victory-in-michigans-11th-congressional-district-republican-primary.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2020-08-05T17:37:18.558Z",
+          "twitterImage": "https://www.mlive.com/resizer/Z1WATTdQIpwVfIZtNGLQwEfkk-0=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ROHM7B7FWFBWJGLGBKEE3DGZOU.jpg",
+          "sailthruDate": "Wednesday, August 05, 2020, 01:37 PM",
+          "ogDescription": "Democratic nominee Haley Stevens and Republican nominee Eric Esshaki will face off on Nov. 3.",
+          "ogImage": "https://www.mlive.com/resizer/Z1WATTdQIpwVfIZtNGLQwEfkk-0=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ROHM7B7FWFBWJGLGBKEE3DGZOU.jpg",
+          "sections": "public-interest,politics,news/saginaw-bay-city,news/muskegon,news/kalamazoo,news/jackson,news/grand-rapids,news/ann-arbor,news/flint,news",
+          "articleDateOriginal": "Wednesday, August 05, 2020, 01:37 PM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "Democratic nominee Haley Stevens and Republican nominee Eric Esshaki will face off on Nov. 3.",
+          "ogUrl": "https://www.mlive.com/public-interest/2020/08/eric-esshaki-declares-victory-in-michigans-11th-congressional-district-republican-primary.html",
+          "articleModifiedTime": "2020-08-05T19:31:19.310Z",
+          "articleSection": "Public Interest",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "Eric Esshaki declares victory in Michigan’s 11th Congressional District Republican primary",
+          "machineTags": "@mlive-river,@mlive-app,@jx-river,@sa-river,@kz-river,@fl-river,@gr-river",
+          "articleAuthor": "https://www.facebook.com/malachi.barrett"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRvu1-5qfCV2yqiwjBDiqjeLcNhStWZQaSUtFihVT4ExNOpohBS3Tb1Ut9",
+          "width": "306",
+          "height": "165"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "public-interest",
+          "2020/08"
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:bNq9-hffK1kJ:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/news/kalamazoo/2020/03/see-everything-on-kalamazoo-area-ballots-for-march-10-election.html&sa=U&ved=2ahUKEwjR2LrRjI3rAhUOQd4KHVaJBho4RhAWMAh6BAgFEAI&usg=AOvVaw1_6hi8rgILPqtcRwJ3J4TP",
+      "content": "9 Mar 2020 \u003cb\u003e...\u003c/b\u003e A man fills out his ballot at First United Methodist Church on Election Day ... some \npolling locations were changed ahead of the \u003cb\u003e2020 elections\u003c/b\u003e.",
+      "contentNoFormatting": "9 Mar 2020 ... A man fills out his ballot at First United Methodist Church on Election Day ... some \npolling locations were changed ahead of the 2020 elections.",
+      "title": "See everything on Kalamazoo-area ballots for March 10 \u003cb\u003eelection\u003c/b\u003e ...",
+      "titleNoFormatting": "See everything on Kalamazoo-area ballots for March 10 election ...",
+      "formattedUrl": "https://www.mlive.com/.../\u003cb\u003e2020\u003c/b\u003e/.../see-everything-on-kalamazoo-area-ballots- for-march-10-\u003cb\u003eelection\u003c/b\u003e.html",
+      "unescapedUrl": "https://www.mlive.com/news/kalamazoo/2020/03/see-everything-on-kalamazoo-area-ballots-for-march-10-election.html",
+      "url": "https://www.mlive.com/news/kalamazoo/2020/03/see-everything-on-kalamazoo-area-ballots-for-march-10-election.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/A_QCC0k4oFbKbBvDqu_kW4M7Teg=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/M7O5NIVVTZBJTG6AFTNURGLY7Q.jpg"
+        },
+        "metatags": {
+          "sailthruDescription": "Voters on Tuesday will decide a handful of local issues in addition to helping choose Michigan's Democratic nominee for president.",
+          "twitterTitle": "See everything on Kalamazoo-area ballots for March 10 election",
+          "ogImageWidth": "1280",
+          "sailthruTags": "kalamazoo,local governments,election-kalamazoo,kalamazoo-election,election-2020,van buren county,st. joseph county,lawton",
+          "articleDateUpdated": "Monday, March 09, 2020, 09:45 AM",
+          "ogTitle": "See everything on Kalamazoo-area ballots for March 10 election",
+          "title": "See everything on Kalamazoo-area ballots for March 10 election",
+          "ogType": "article",
+          "articleTag": "@kz-river,@kz-app,election-kalamazoo,kalamazoo-election,@gr-river,@mlive-river,election-2020",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "kmille17",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Kayla Miller | kmille17@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/news/kalamazoo/2020/03/see-everything-on-kalamazoo-area-ballots-for-march-10-election.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2020-03-09T13:45:03.213Z",
+          "twitterImage": "https://www.mlive.com/resizer/A_QCC0k4oFbKbBvDqu_kW4M7Teg=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/M7O5NIVVTZBJTG6AFTNURGLY7Q.jpg",
+          "sailthruDate": "Monday, March 09, 2020, 09:45 AM",
+          "ogDescription": "Voters on Tuesday will decide a handful of local issues in addition to helping choose Michigan's Democratic nominee for president.",
+          "ogImage": "https://www.mlive.com/resizer/A_QCC0k4oFbKbBvDqu_kW4M7Teg=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/M7O5NIVVTZBJTG6AFTNURGLY7Q.jpg",
+          "sections": "news/kalamazoo",
+          "articleDateOriginal": "Monday, March 09, 2020, 09:45 AM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "Voters on Tuesday will decide a handful of local issues in addition to helping choose Michigan's Democratic nominee for president.",
+          "ogUrl": "https://www.mlive.com/news/kalamazoo/2020/03/see-everything-on-kalamazoo-area-ballots-for-march-10-election.html",
+          "articleModifiedTime": "2020-03-09T13:45:03.213Z",
+          "articleSection": "Kalamazoo",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "See everything on Kalamazoo-area ballots for March 10 election",
+          "machineTags": "@kz-river,@kz-app,@gr-river,@mlive-river",
+          "articleAuthor": "Kayla Miller | kmille17@mlive.com"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQjf20ls1u_LB1M9wWCKScN2nKvZAs2H4tsOZpbv-qJQO5JRsAJsjWG9sc",
+          "width": "275",
+          "height": "183"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "news",
+          "kalamazoo",
+          "2020/03",
+          "see-everything-on..."
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:KnHKrF-kPY4J:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/news/ann-arbor/2020/02/37-years-after-immigrating-from-poland-wasthenaw-county-lawyer-becomes-judge.html&sa=U&ved=2ahUKEwjR2LrRjI3rAhUOQd4KHVaJBho4RhAWMAl6BAgGEAI&usg=AOvVaw0eWgVxkMLpluU-PH-j7xQY",
+      "content": "31 Jan 2020 \u003cb\u003e...\u003c/b\u003e Flash forward to 2020: The law is now in her hands. In a court ... At age 70, he \nwas also mandated to not run for re-election in the \u003cb\u003e2020 election\u003c/b\u003e.",
+      "contentNoFormatting": "31 Jan 2020 ... Flash forward to 2020: The law is now in her hands. In a court ... At age 70, he \nwas also mandated to not run for re-election in the 2020 election.",
+      "title": "37 years after immigrating from Poland, Washtenaw County lawyer ...",
+      "titleNoFormatting": "37 years after immigrating from Poland, Washtenaw County lawyer ...",
+      "formattedUrl": "https://www.mlive.com/.../\u003cb\u003e2020\u003c/b\u003e/.../37-years-after-immigrating-from-poland- wasthenaw-county-lawyer-becomes-judge.html",
+      "unescapedUrl": "https://www.mlive.com/news/ann-arbor/2020/02/37-years-after-immigrating-from-poland-wasthenaw-county-lawyer-becomes-judge.html",
+      "url": "https://www.mlive.com/news/ann-arbor/2020/02/37-years-after-immigrating-from-poland-wasthenaw-county-lawyer-becomes-judge.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/lAVEhPH2sm_SherT3R-i-bBJ-t4=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/JYDM63SLGZDUVJ6LMCT6HIKQPU.jpg"
+        },
+        "metatags": {
+          "sailthruDescription": "Frushour was appointed by Gov. Gretchen Whitmer in December.",
+          "twitterTitle": "37 years after immigrating from Poland, Washtenaw County lawyer becomes judge",
+          "ogImageWidth": "1280",
+          "sailthruTags": "ann arbor,civil law,mary mccormack,frushour,michigan supreme court,debbie dingell,gretchen whitmer,university of michigan",
+          "articleDateUpdated": "Friday, January 31, 2020, 10:13 PM",
+          "ogTitle": "37 years after immigrating from Poland, Washtenaw County lawyer becomes judge",
+          "title": "37 years after immigrating from Poland, Washtenaw County lawyer becomes judge",
+          "ogType": "article",
+          "articleTag": "@aa-river,@mlive-river,@aa-app,@mlive-app",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "sdodge",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Samuel Dodge | sdodge@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/news/ann-arbor/2020/02/37-years-after-immigrating-from-poland-wasthenaw-county-lawyer-becomes-judge.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2020-02-01T00:15:07.452Z",
+          "twitterImage": "https://www.mlive.com/resizer/lAVEhPH2sm_SherT3R-i-bBJ-t4=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/JYDM63SLGZDUVJ6LMCT6HIKQPU.jpg",
+          "sailthruDate": "Friday, January 31, 2020, 07:15 PM",
+          "ogDescription": "Frushour was appointed by Gov. Gretchen Whitmer in December.",
+          "ogImage": "https://www.mlive.com/resizer/lAVEhPH2sm_SherT3R-i-bBJ-t4=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/JYDM63SLGZDUVJ6LMCT6HIKQPU.jpg",
+          "sections": "news/ann-arbor,news",
+          "articleDateOriginal": "Friday, January 31, 2020, 07:15 PM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "Frushour was appointed by Gov. Gretchen Whitmer in December.",
+          "ogUrl": "https://www.mlive.com/news/ann-arbor/2020/02/37-years-after-immigrating-from-poland-wasthenaw-county-lawyer-becomes-judge.html",
+          "articleModifiedTime": "2020-02-01T03:13:01.016Z",
+          "articleSection": "Ann Arbor",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "37 years after immigrating from Poland, Washtenaw County lawyer becomes judge",
+          "machineTags": "@aa-river,@mlive-river,@aa-app,@mlive-app",
+          "articleAuthor": "Samuel Dodge | sdodge@mlive.com"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ5u_2Bq40jxtifyOd7UXTjqPermBA1E9sf8Xfursz02QnRB5tm2u42VN1x",
+          "width": "259",
+          "height": "194"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "news",
+          "ann-arbor",
+          "2020/02",
+          "37-years-after-im..."
+        ]
+      }
+    }
+  ],
+  "findMoreOnGoogle": {
+    "url": "https://www.google.com/search?client=ms-google-coop&q=2020+election&cx=017476104391584697148:yfiniwqwjp4"
+  }
+});

@@ -1,0 +1,717 @@
+/*O_o*/
+google.search.cse.api2105({
+  "cursor": {
+    "currentPageIndex": 5,
+    "estimatedResultCount": "1580000",
+    "moreResultsUrl": "http://www.google.com/cse?oe=utf8&ie=utf8&source=uds&q=2020+election&safe=off&start=50&sort=&cx=017476104391584697148:yfiniwqwjp4",
+    "resultCount": "1,580,000",
+    "searchResultTime": "0.48",
+    "pages": [
+      {
+        "label": 1,
+        "start": "0"
+      },
+      {
+        "label": 2,
+        "start": "10"
+      },
+      {
+        "label": 3,
+        "start": "20"
+      },
+      {
+        "label": 4,
+        "start": "30"
+      },
+      {
+        "label": 5,
+        "start": "40"
+      },
+      {
+        "label": 6,
+        "start": "50"
+      },
+      {
+        "label": 7,
+        "start": "60"
+      },
+      {
+        "label": 8,
+        "start": "70"
+      },
+      {
+        "label": 9,
+        "start": "80"
+      },
+      {
+        "label": 10,
+        "start": "90"
+      }
+    ]
+  },
+  "context": {
+    "title": "*.mlive.com",
+    "total_results": "0"
+  },
+  "results": [
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:3utyYvgu40EJ:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/news/grand-rapids/2020/05/grand-rapids-area-school-tax-proposals-on-may-5-2020-election-ballot.html&sa=U&ved=2ahUKEwitxqvGjI3rAhXHa94KHZq8Dyg4MhAWMAB6BAgBEAI&usg=AOvVaw3KrYNnilp7Z0fMzPYYSHKN",
+      "content": "2 May 2020 \u003cb\u003e...\u003c/b\u003e Nine school districts in Kent and Ottawa counties have tax proposals on the May \n5, \u003cb\u003e2020 election\u003c/b\u003e ballots.",
+      "contentNoFormatting": "2 May 2020 ... Nine school districts in Kent and Ottawa counties have tax proposals on the May \n5, 2020 election ballots.",
+      "title": "Grand Rapids-area school tax proposals on May 5, \u003cb\u003e2020 election\u003c/b\u003e ...",
+      "titleNoFormatting": "Grand Rapids-area school tax proposals on May 5, 2020 election ...",
+      "formattedUrl": "https://www.mlive.com/.../\u003cb\u003e2020\u003c/b\u003e/.../grand-rapids-area-school-tax-proposals-on -may-5-\u003cb\u003e2020\u003c/b\u003e-\u003cb\u003eelection\u003c/b\u003e-ballot.html",
+      "unescapedUrl": "https://www.mlive.com/news/grand-rapids/2020/05/grand-rapids-area-school-tax-proposals-on-may-5-2020-election-ballot.html",
+      "url": "https://www.mlive.com/news/grand-rapids/2020/05/grand-rapids-area-school-tax-proposals-on-may-5-2020-election-ballot.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/539ZS59_d_KR9lgLrj_6pIGjqdU=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/MIJMLRJDXFGTZMMXMJ4HULHK5E.jpg"
+        },
+        "metatags": {
+          "sailthruDescription": "Nine school districts in Kent and Ottawa counties have tax proposals on the May 5, 2020 election ballots.",
+          "twitterTitle": "Grand Rapids-area school tax proposals on May 5, 2020 election ballot",
+          "ogImageWidth": "1280",
+          "sailthruTags": "grand rapids,k-12 education,caledonia,northview,district,school,ottawa,bond",
+          "articleDateUpdated": "Tuesday, May 05, 2020, 11:33 AM",
+          "ogTitle": "Grand Rapids-area school tax proposals on May 5, 2020 election ballot",
+          "title": "Grand Rapids-area school tax proposals on May 5, 2020 election ballot",
+          "ogType": "article",
+          "articleTag": "@gr-app,@gr-river,@election-2020",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "mlscott",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Monica Scott | mscott2@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/news/grand-rapids/2020/05/grand-rapids-area-school-tax-proposals-on-may-5-2020-election-ballot.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2020-05-02T11:15:51.228Z",
+          "twitterImage": "https://www.mlive.com/resizer/539ZS59_d_KR9lgLrj_6pIGjqdU=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/MIJMLRJDXFGTZMMXMJ4HULHK5E.jpg",
+          "sailthruDate": "Saturday, May 02, 2020, 07:15 AM",
+          "ogDescription": "Nine school districts in Kent and Ottawa counties have tax proposals on the May 5, 2020 election ballots.",
+          "ogImage": "https://www.mlive.com/resizer/539ZS59_d_KR9lgLrj_6pIGjqdU=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/MIJMLRJDXFGTZMMXMJ4HULHK5E.jpg",
+          "sections": "news/grand-rapids,community",
+          "articleDateOriginal": "Saturday, May 02, 2020, 07:15 AM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "Nine school districts in Kent and Ottawa counties have tax proposals on the May 5, 2020 election ballots.",
+          "ogUrl": "https://www.mlive.com/news/grand-rapids/2020/05/grand-rapids-area-school-tax-proposals-on-may-5-2020-election-ballot.html",
+          "articleModifiedTime": "2020-05-05T15:33:12.646Z",
+          "articleSection": "Grand Rapids",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "Grand Rapids-area school tax proposals on May 5, 2020 election ballot",
+          "machineTags": "@gr-app,@gr-river,@election-2020",
+          "articleAuthor": "https://www.facebook.com/"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ8jypmIR6_QGzEO1j2G27ExkI7R02YvWEzUpWZBdsUtuOZGasKI1BajJXZ",
+          "width": "275",
+          "height": "183"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "news",
+          "grand-rapids",
+          "2020/05",
+          "grand-rapids-ar..."
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:q-I6fcoUqBAJ:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/public-interest/2020/03/michigan-sending-absentee-ballots-to-all-voters-for-may-5-election-because-of-coronavirus-outbreak.html&sa=U&ved=2ahUKEwitxqvGjI3rAhXHa94KHZq8Dyg4MhAWMAF6BAgHEAI&usg=AOvVaw3mlMCnLo-iuNG6OG35pwQ3",
+      "content": "23 Mar 2020 \u003cb\u003e...\u003c/b\u003e Michigan sending absentee ballot applications to all May 5 \u003cb\u003eelection\u003c/b\u003e voters \nbecause of coronavirus outbreak. Updated Mar 24, \u003cb\u003e2020\u003c/b\u003e; Posted Mar&nbsp;...",
+      "contentNoFormatting": "23 Mar 2020 ... Michigan sending absentee ballot applications to all May 5 election voters \nbecause of coronavirus outbreak. Updated Mar 24, 2020; Posted Mar ...",
+      "title": "Michigan sending absentee ballot applications to all May 5 \u003cb\u003eelection\u003c/b\u003e ...",
+      "titleNoFormatting": "Michigan sending absentee ballot applications to all May 5 election ...",
+      "formattedUrl": "https://www.mlive.com/.../\u003cb\u003e2020\u003c/b\u003e/.../michigan-sending-absentee-ballots-to-all- \u003cb\u003evote\u003c/b\u003ers-for-may-5-\u003cb\u003eelection\u003c/b\u003e-because-of-coronavirus-outbreak.html",
+      "unescapedUrl": "https://www.mlive.com/public-interest/2020/03/michigan-sending-absentee-ballots-to-all-voters-for-may-5-election-because-of-coronavirus-outbreak.html",
+      "url": "https://www.mlive.com/public-interest/2020/03/michigan-sending-absentee-ballots-to-all-voters-for-may-5-election-because-of-coronavirus-outbreak.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/vPeK7bylQ0J_OK__-gw3-MCTzdQ=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/AI5BSKIJWNGGZOVTZNFBD7TTRM.JPG"
+        },
+        "metatags": {
+          "sailthruDescription": "Michigan is encouraging anyone who is scheduled to vote in the May 5 election to cast an absentee ballot.",
+          "twitterTitle": "Michigan sending absentee ballot applications to all May 5 election voters because of coronavirus outbreak",
+          "ogImageWidth": "1280",
+          "sailthruTags": "public interest,affiliate-links,michigan department of health and human services,kroger,centers for disease control and prevention,state,election,michigan",
+          "articleDateUpdated": "Tuesday, March 24, 2020, 12:54 PM",
+          "ogTitle": "Michigan sending absentee ballot applications to all May 5 election voters because of coronavirus outbreak",
+          "title": "Michigan sending absentee ballot applications to all May 5 election voters because of coronavirus outbreak",
+          "ogType": "article",
+          "articleTag": "@mi-coronavirus,@mlive-river,@aa-river,@fl-river,@sa-river,@jx-river,@gr-river,@mu-river,@kz-river,affiliate-links",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "gburns",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Gus Burns | fburns@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/public-interest/2020/03/michigan-sending-absentee-ballots-to-all-voters-for-may-5-election-because-of-coronavirus-outbreak.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2020-03-24T02:10:03.822Z",
+          "twitterImage": "https://www.mlive.com/resizer/vPeK7bylQ0J_OK__-gw3-MCTzdQ=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/AI5BSKIJWNGGZOVTZNFBD7TTRM.JPG",
+          "sailthruDate": "Monday, March 23, 2020, 10:10 PM",
+          "ogDescription": "Michigan is encouraging anyone who is scheduled to vote in the May 5 election to cast an absentee ballot.",
+          "ogImage": "https://www.mlive.com/resizer/vPeK7bylQ0J_OK__-gw3-MCTzdQ=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/AI5BSKIJWNGGZOVTZNFBD7TTRM.JPG",
+          "sections": "public-interest,politics,news/saginaw-bay-city,news/muskegon,news/kalamazoo,news/jackson,news/grand-rapids,news/flint,news/ann-arbor,news,coronavirus",
+          "articleDateOriginal": "Monday, March 23, 2020, 10:10 PM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "Michigan is encouraging anyone who is scheduled to vote in the May 5 election to cast an absentee ballot.",
+          "ogUrl": "https://www.mlive.com/public-interest/2020/03/michigan-sending-absentee-ballots-to-all-voters-for-may-5-election-because-of-coronavirus-outbreak.html",
+          "articleModifiedTime": "2020-03-24T16:54:56.726Z",
+          "articleSection": "Public Interest",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "Michigan sending absentee ballot applications to all May 5 election voters because of coronavirus outbreak",
+          "machineTags": "@mi-coronavirus,@mlive-river,@aa-river,@fl-river,@sa-river,@jx-river,@gr-river,@mu-river,@kz-river",
+          "articleAuthor": "Gus Burns | fburns@mlive.com"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQVuMzM2cRvziN6c_aOwQXwG98jH4E8Ad_mLuFcS3fjcHR6eyRfGhmIhho",
+          "width": "275",
+          "height": "183"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "public-interest",
+          "2020/03",
+          "michigan-sending-abs..."
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:A8Wlw7fKCRYJ:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/news/jackson/2020/08/heres-whats-on-the-aug-4-primary-ballot-in-jackson-county.html&sa=U&ved=2ahUKEwitxqvGjI3rAhXHa94KHZq8Dyg4MhAWMAJ6BAgJEAI&usg=AOvVaw2x4-98InX1O0OggJ7HDFMo",
+      "content": "1 Aug 2020 \u003cb\u003e...\u003c/b\u003e Primaries for local, state and congressional \u003cb\u003eelections\u003c/b\u003e are on Aug. 4, \u003cb\u003e2020\u003c/b\u003e.J. Scott \nPark ... 4 primary \u003cb\u003eelection\u003c/b\u003e and be on the November ballot.",
+      "contentNoFormatting": "1 Aug 2020 ... Primaries for local, state and congressional elections are on Aug. 4, 2020.J. Scott \nPark ... 4 primary election and be on the November ballot.",
+      "title": "Here&#39;s what&#39;s on the Aug. 4 primary ballot in Jackson County - mlive ...",
+      "titleNoFormatting": "Here's what's on the Aug. 4 primary ballot in Jackson County - mlive ...",
+      "formattedUrl": "https://www.mlive.com/.../\u003cb\u003e2020\u003c/b\u003e/.../heres-whats-on-the-aug-4-primary-ballot- in-jackson-county.html",
+      "unescapedUrl": "https://www.mlive.com/news/jackson/2020/08/heres-whats-on-the-aug-4-primary-ballot-in-jackson-county.html",
+      "url": "https://www.mlive.com/news/jackson/2020/08/heres-whats-on-the-aug-4-primary-ballot-in-jackson-county.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/vp3QK6ypD8damSKnBhTt8C9obek=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/X6ZOB76ZIFDJNJ7DGORU7FL7TQ.jpg"
+        },
+        "metatags": {
+          "sailthruDescription": "The polls open at 7 a.m. Tuesday.",
+          "twitterTitle": "Here’s what’s on the Aug. 4 primary ballot in Jackson County",
+          "ogImageWidth": "1280",
+          "sailthruTags": "jackson,jackson-gov,jackson-election-2020,election-2020,election,craig dawson,pulaski,league of women voters",
+          "articleDateUpdated": "Monday, August 03, 2020, 05:28 PM",
+          "ogTitle": "Here’s what’s on the Aug. 4 primary ballot in Jackson County",
+          "title": "Here’s what’s on the Aug. 4 primary ballot in Jackson County",
+          "ogType": "article",
+          "articleTag": "@jx-river,@jx-app,@mlive-river,jackson-gov,jackson-election-2020,election-2020",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "mckennaross",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "McKenna Ross | mross@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/news/jackson/2020/08/heres-whats-on-the-aug-4-primary-ballot-in-jackson-county.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2020-08-01T12:00:00Z",
+          "twitterImage": "https://www.mlive.com/resizer/vp3QK6ypD8damSKnBhTt8C9obek=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/X6ZOB76ZIFDJNJ7DGORU7FL7TQ.jpg",
+          "sailthruDate": "Saturday, August 01, 2020, 08:00 AM",
+          "ogDescription": "The polls open at 7 a.m. Tuesday.",
+          "ogImage": "https://www.mlive.com/resizer/vp3QK6ypD8damSKnBhTt8C9obek=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/X6ZOB76ZIFDJNJ7DGORU7FL7TQ.jpg",
+          "sections": "news/jackson,news",
+          "articleDateOriginal": "Saturday, August 01, 2020, 08:00 AM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "The polls open at 7 a.m. Tuesday.",
+          "ogUrl": "https://www.mlive.com/news/jackson/2020/08/heres-whats-on-the-aug-4-primary-ballot-in-jackson-county.html",
+          "articleModifiedTime": "2020-08-03T21:28:38.120Z",
+          "articleSection": "Jackson",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "Here’s what’s on the Aug. 4 primary ballot in Jackson County",
+          "machineTags": "@jx-river,@jx-app,@mlive-river",
+          "articleAuthor": "McKenna Ross | MRoss@mlive.com"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ69Sw4fIi2hZ5BPtDL0oQ6vXM89qaJvUWb7Ld8SUVhF_DU7elQ3MXjKTZ8",
+          "width": "280",
+          "height": "180"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "news",
+          "jackson",
+          "2020/08",
+          "heres-whats-on-the-a..."
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:sZPnCj56NYYJ:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/news/flint/2020/07/many-challenge-incumbent-trustees-in-heavily-contested-grand-blanc-township-election.html&sa=U&ved=2ahUKEwitxqvGjI3rAhXHa94KHZq8Dyg4MhAWMAN6BAgIEAI&usg=AOvVaw0YVRBhxU6kkpBJHOF8NF0X",
+      "content": "15 Jul 2020 \u003cb\u003e...\u003c/b\u003e For the \u003cb\u003e2020 election\u003c/b\u003e in Michigan, the primary is Aug. 4. Township residents may \nvote for up to four candidates in the trustee race, and one for&nbsp;...",
+      "contentNoFormatting": "15 Jul 2020 ... For the 2020 election in Michigan, the primary is Aug. 4. Township residents may \nvote for up to four candidates in the trustee race, and one for ...",
+      "title": "Many challenge incumbent trustees in heavily contested Grand ...",
+      "titleNoFormatting": "Many challenge incumbent trustees in heavily contested Grand ...",
+      "formattedUrl": "https://www.mlive.com/.../\u003cb\u003e2020\u003c/b\u003e/.../many-challenge-incumbent-trustees-in- heavily-contested-grand-blanc-township-\u003cb\u003eelection\u003c/b\u003e.html",
+      "unescapedUrl": "https://www.mlive.com/news/flint/2020/07/many-challenge-incumbent-trustees-in-heavily-contested-grand-blanc-township-election.html",
+      "url": "https://www.mlive.com/news/flint/2020/07/many-challenge-incumbent-trustees-in-heavily-contested-grand-blanc-township-election.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/I-YTcYxky_hZBJfWlXHS825jSXw=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZMGBYO6VNRCY3P6DFJIEJNAUFE.jpg"
+        },
+        "metatags": {
+          "sailthruDescription": "Sarah Hugo, Paul J. White and Jude Rariden are running for incumbents Joe Massey and Ken Thomas’ open democratic seats. Jay Johnson, Christopher Estes, Joel Feick and Ryan Thompson are running for incumbent Al Mansour’s open republican seat as well as Lonnie Adkin’s seat.",
+          "twitterTitle": "Many challenge incumbent trustees in heavily contested Grand Blanc Township election",
+          "ogImageWidth": "1280",
+          "sailthruTags": "flint,election-2020,township,board of trustees,university of massachusetts,ken thomas,democratic party,michigan",
+          "articleDateUpdated": "Tuesday, July 21, 2020, 10:33 AM",
+          "ogTitle": "Many challenge incumbent trustees in heavily contested Grand Blanc Township election",
+          "title": "Many challenge incumbent trustees in heavily contested Grand Blanc Township election",
+          "ogType": "article",
+          "articleTag": "@fl-river,@fl-app,@mlive-river,election-2020",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "milamurray",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Mila Murray | mmurray@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/news/flint/2020/07/many-challenge-incumbent-trustees-in-heavily-contested-grand-blanc-township-election.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2020-07-15T12:00:00.313Z",
+          "twitterImage": "https://www.mlive.com/resizer/I-YTcYxky_hZBJfWlXHS825jSXw=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZMGBYO6VNRCY3P6DFJIEJNAUFE.jpg",
+          "sailthruDate": "Wednesday, July 15, 2020, 08:00 AM",
+          "ogDescription": "Sarah Hugo, Paul J. White and Jude Rariden are running for incumbents Joe Massey and Ken Thomas’ open democratic seats. Jay Johnson, Christopher Estes, Joel Feick and Ryan Thompson are running for incumbent Al Mansour’s open republican seat as well as Lonnie Adkin’s seat.",
+          "ogImage": "https://www.mlive.com/resizer/I-YTcYxky_hZBJfWlXHS825jSXw=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZMGBYO6VNRCY3P6DFJIEJNAUFE.jpg",
+          "sections": "news/flint",
+          "articleDateOriginal": "Wednesday, July 15, 2020, 08:00 AM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "Sarah Hugo, Paul J. White and Jude Rariden are running for incumbents Joe Massey and Ken Thomas’ open democratic seats. Jay Johnson, Christopher Estes, Joel Feick and Ryan Thompson are running for incumbent Al Mansour’s open republican seat as well as Lonnie Adkin’s seat.",
+          "ogUrl": "https://www.mlive.com/news/flint/2020/07/many-challenge-incumbent-trustees-in-heavily-contested-grand-blanc-township-election.html",
+          "articleModifiedTime": "2020-07-21T14:33:29.045Z",
+          "articleSection": "Flint",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "Many challenge incumbent trustees in heavily contested Grand Blanc Township election",
+          "machineTags": "@fl-river,@fl-app,@mlive-river",
+          "articleAuthor": "Mila Murray | mmurray@mlive.com"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCYIKrldw-R_yMf2lJQRmuNzqCf7_VhZsGZgHiyl_Xy6wwkl5Cf-btvdoU",
+          "width": "275",
+          "height": "183"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "news",
+          "flint",
+          "2020/07",
+          "many-challenge-incumb..."
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:FSVktI-7DRAJ:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/news/kalamazoo/2020/08/challenger-defeats-incumbent-prosecutor-in-st-joseph-county.html&sa=U&ved=2ahUKEwitxqvGjI3rAhXHa94KHZq8Dyg4MhAWMAR6BAgEEAI&usg=AOvVaw2rUUXlMWQ57znduv5QotN9",
+      "content": "3 days ago \u003cb\u003e...\u003c/b\u003e The county&#39;s \u003cb\u003eelection\u003c/b\u003e results site indicates 100% precincts were “fully ... Read \nmore: \u003cb\u003eElection\u003c/b\u003e results for Kalamazoo-area races Aug. 4, \u003cb\u003e2020\u003c/b\u003e.",
+      "contentNoFormatting": "3 days ago ... The county's election results site indicates 100% precincts were “fully ... Read \nmore: Election results for Kalamazoo-area races Aug. 4, 2020.",
+      "title": "Challenger defeats incumbent prosecutor in St. Joseph County ...",
+      "titleNoFormatting": "Challenger defeats incumbent prosecutor in St. Joseph County ...",
+      "formattedUrl": "https://www.mlive.com/.../\u003cb\u003e2020\u003c/b\u003e/.../challenger-defeats-incumbent-prosecutor- in-st-joseph-county.html",
+      "unescapedUrl": "https://www.mlive.com/news/kalamazoo/2020/08/challenger-defeats-incumbent-prosecutor-in-st-joseph-county.html",
+      "url": "https://www.mlive.com/news/kalamazoo/2020/08/challenger-defeats-incumbent-prosecutor-in-st-joseph-county.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/t1IJq20DT6OCBCYiQ2IdR8_kFf0=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/55SCLOCDIBHRHEHS4EPJ5FZETQ.jpg"
+        },
+        "metatags": {
+          "sailthruDescription": "There is no registered Democrat seeking the office.",
+          "twitterTitle": "Challenger defeats incumbent prosecutor in St. Joseph County",
+          "ogImageWidth": "1280",
+          "sailthruTags": "kalamazoo,election-2020,kalamazoo-election,john mcdonough,st. joseph county,mcdonough,marvin,state",
+          "articleDateUpdated": "Wednesday, August 05, 2020, 11:20 AM",
+          "ogTitle": "Challenger defeats incumbent prosecutor in St. Joseph County",
+          "title": "Challenger defeats incumbent prosecutor in St. Joseph County",
+          "ogType": "article",
+          "articleTag": "@kz-river,@kz-news,@kz-app,@mlive-river,election-2020,kalamazoo-election",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "bdevereaux",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Brad Devereaux | bdeverea@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/news/kalamazoo/2020/08/challenger-defeats-incumbent-prosecutor-in-st-joseph-county.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2020-08-05T03:39:09.981Z",
+          "twitterImage": "https://www.mlive.com/resizer/t1IJq20DT6OCBCYiQ2IdR8_kFf0=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/55SCLOCDIBHRHEHS4EPJ5FZETQ.jpg",
+          "sailthruDate": "Tuesday, August 04, 2020, 11:39 PM",
+          "ogDescription": "There is no registered Democrat seeking the office.",
+          "ogImage": "https://www.mlive.com/resizer/t1IJq20DT6OCBCYiQ2IdR8_kFf0=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/55SCLOCDIBHRHEHS4EPJ5FZETQ.jpg",
+          "sections": "news/kalamazoo",
+          "articleDateOriginal": "Tuesday, August 04, 2020, 11:39 PM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "There is no registered Democrat seeking the office.",
+          "ogUrl": "https://www.mlive.com/news/kalamazoo/2020/08/challenger-defeats-incumbent-prosecutor-in-st-joseph-county.html",
+          "articleModifiedTime": "2020-08-05T15:20:41.138Z",
+          "articleSection": "Kalamazoo",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "Challenger defeats incumbent prosecutor in St. Joseph County",
+          "machineTags": "@kz-river,@kz-news,@kz-app,@mlive-river",
+          "articleAuthor": "https://www.facebook.com/brad.devereaux.3"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYMsgHbj1D2B_BwBl7Ku9Xe8kcAl8vOEcAn1QV2i2LpcJCA7T_dhkbpHE",
+          "width": "261",
+          "height": "193"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "news",
+          "kalamazoo",
+          "2020/08",
+          "challenger-defeats..."
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:OUf5v_qtRcsJ:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/public-interest/2019/10/university-of-michigan-to-host-presidential-debate-in-2020.html&sa=U&ved=2ahUKEwitxqvGjI3rAhXHa94KHZq8Dyg4MhAWMAV6BAgFEAI&usg=AOvVaw3roEIwYYSiA0aydwCRS987",
+      "content": "11 Oct 2019 \u003cb\u003e...\u003c/b\u003e Detroit will host the second Democratic presidential primary debate for the \u003cb\u003e2020\u003c/b\u003e \n\u003cb\u003eelection\u003c/b\u003e, serving as a proving ground for candidates seeking&nbsp;...",
+      "contentNoFormatting": "11 Oct 2019 ... Detroit will host the second Democratic presidential primary debate for the 2020 \nelection, serving as a proving ground for candidates seeking ...",
+      "title": "University of Michigan to host presidential debate in \u003cb\u003e2020\u003c/b\u003e - mlive.com",
+      "titleNoFormatting": "University of Michigan to host presidential debate in 2020 - mlive.com",
+      "formattedUrl": "https://www.mlive.com/.../university-of-michigan-to-host-presidential-debate- in-\u003cb\u003e2020\u003c/b\u003e.html",
+      "unescapedUrl": "https://www.mlive.com/public-interest/2019/10/university-of-michigan-to-host-presidential-debate-in-2020.html",
+      "url": "https://www.mlive.com/public-interest/2019/10/university-of-michigan-to-host-presidential-debate-in-2020.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/SbWyrY0X_laWdoxB9qXsYGSSk1k=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/7IDG74QIMZGQPJCDME524SVESQ.JPG"
+        },
+        "metatags": {
+          "sailthruDescription": "The University of Michigan will host a Presidential Debate on Oct. 15, 2020.",
+          "twitterTitle": "University of Michigan to host presidential debate in 2020",
+          "ogImageWidth": "1280",
+          "sailthruTags": "public interest,campaigns and campaign finance,impact,cpd,mark schlissel,fred upton,ross perot,debbie dingell",
+          "articleDateUpdated": "Friday, October 11, 2019, 01:23 PM",
+          "ogTitle": "University of Michigan to host presidential debate in 2020",
+          "title": "University of Michigan to host presidential debate in 2020",
+          "ogType": "article",
+          "articleTag": "@mlive-river,@mlive-app,@jx-river,@sa-river,@sg-river,@fl-river,@aa-river,@kz-river,@gr-river,impact,@mlive-breaking",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "mbarrett2",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Malachi Barrett | mbarret1@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/public-interest/2019/10/university-of-michigan-to-host-presidential-debate-in-2020.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2019-10-11T16:56:46.590Z",
+          "twitterImage": "https://www.mlive.com/resizer/SbWyrY0X_laWdoxB9qXsYGSSk1k=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/7IDG74QIMZGQPJCDME524SVESQ.JPG",
+          "sailthruDate": "Friday, October 11, 2019, 12:56 PM",
+          "ogDescription": "The University of Michigan will host a Presidential Debate on Oct. 15, 2020.",
+          "ogImage": "https://www.mlive.com/resizer/SbWyrY0X_laWdoxB9qXsYGSSk1k=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/7IDG74QIMZGQPJCDME524SVESQ.JPG",
+          "sections": "public-interest,politics,news/saginaw-bay-city,news/muskegon,news/kalamazoo,news/jackson,news/grand-rapids,news/flint,news/ann-arbor,news",
+          "articleDateOriginal": "Friday, October 11, 2019, 12:56 PM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "The University of Michigan will host a Presidential Debate on Oct. 15, 2020.",
+          "ogUrl": "https://www.mlive.com/public-interest/2019/10/university-of-michigan-to-host-presidential-debate-in-2020.html",
+          "articleModifiedTime": "2019-10-11T17:23:15.869Z",
+          "articleSection": "Public Interest",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "University of Michigan to host presidential debate in 2020",
+          "machineTags": "@mlive-river,@mlive-app,@jx-river,@sa-river,@sg-river,@fl-river,@aa-river,@kz-river,@gr-river,@mlive-breaking",
+          "articleAuthor": "https://www.facebook.com/malachi.barrett"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcReMH_FMl3mezkh-3qdUgGGm1ZWm0DJI4YR5m3EEhHnYrzYifs6OsliwUGW",
+          "width": "275",
+          "height": "183"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "public-interest",
+          "2019/10",
+          "university-of-michiga..."
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:RrVKgOiXBV4J:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/public-interest/2020/08/7-things-to-know-about-voting-tuesday-in-michigans-primary-elections.html&sa=U&ved=2ahUKEwitxqvGjI3rAhXHa94KHZq8Dyg4MhAWMAZ6BAgGEAI&usg=AOvVaw1yi3UCpxeB78c-2oSbB-TE",
+      "content": "4 days ago \u003cb\u003e...\u003c/b\u003e Aug. 4, \u003cb\u003e2020\u003c/b\u003e primary \u003cb\u003eelection\u003c/b\u003e. Voters were encouraged to \u003cb\u003evote\u003c/b\u003e absentee for the \nAug. 4 primary \u003cb\u003eelection\u003c/b\u003e because of the coronavirus pandemic.",
+      "contentNoFormatting": "4 days ago ... Aug. 4, 2020 primary election. Voters were encouraged to vote absentee for the \nAug. 4 primary election because of the coronavirus pandemic.",
+      "title": "7 things to know about voting Tuesday in Michigan&#39;s primary \u003cb\u003eelections\u003c/b\u003e",
+      "titleNoFormatting": "7 things to know about voting Tuesday in Michigan's primary elections",
+      "formattedUrl": "https://www.mlive.com/.../\u003cb\u003e2020\u003c/b\u003e/.../7-things-to-know-about-voting-tuesday-in -michigans-primary-\u003cb\u003eelections\u003c/b\u003e.html",
+      "unescapedUrl": "https://www.mlive.com/public-interest/2020/08/7-things-to-know-about-voting-tuesday-in-michigans-primary-elections.html",
+      "url": "https://www.mlive.com/public-interest/2020/08/7-things-to-know-about-voting-tuesday-in-michigans-primary-elections.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/K5VGWlngYhbwiR5UGbSbrNsbpSk=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/23NES3TJCZHCNLKMNSWO7NPJTQ.jpg"
+        },
+        "metatags": {
+          "sailthruDescription": "Michigan’s primary elections will be a bit different with pandemic precautions in place Tuesday.",
+          "twitterTitle": "7 things to know about voting Tuesday in Michigan’s primary elections",
+          "ogImageWidth": "1280",
+          "sailthruTags": "public interest,department of state,centers for disease control and prevention,state,michigan,ballot,florida,office",
+          "articleDateUpdated": "Tuesday, August 04, 2020, 06:00 AM",
+          "ogTitle": "7 things to know about voting Tuesday in Michigan’s primary elections",
+          "title": "7 things to know about voting Tuesday in Michigan’s primary elections",
+          "ogType": "article",
+          "articleTag": "@fl-river,@sa-river,@aa-river,@gr-river,@kz-river,@jx-river,@mlive-river,@mlive-app,@aa-app,@jx-app,@fl-app,@sa-app,@gr-app,@kz-app,@mu-app,@mu-river",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "zahmad8695",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Zahra Ahmad | zahmad@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/public-interest/2020/08/7-things-to-know-about-voting-tuesday-in-michigans-primary-elections.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2020-08-04T10:00:00Z",
+          "twitterImage": "https://www.mlive.com/resizer/K5VGWlngYhbwiR5UGbSbrNsbpSk=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/23NES3TJCZHCNLKMNSWO7NPJTQ.jpg",
+          "sailthruDate": "Tuesday, August 04, 2020, 06:00 AM",
+          "ogDescription": "Michigan’s primary elections will be a bit different with pandemic precautions in place Tuesday.",
+          "ogImage": "https://www.mlive.com/resizer/K5VGWlngYhbwiR5UGbSbrNsbpSk=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/23NES3TJCZHCNLKMNSWO7NPJTQ.jpg",
+          "sections": "public-interest,news/saginaw-bay-city,news/muskegon,news/kalamazoo,news/jackson,news/grand-rapids,news/flint,news/ann-arbor,politics",
+          "articleDateOriginal": "Tuesday, August 04, 2020, 06:00 AM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "Michigan’s primary elections will be a bit different with pandemic precautions in place Tuesday.",
+          "ogUrl": "https://www.mlive.com/public-interest/2020/08/7-things-to-know-about-voting-tuesday-in-michigans-primary-elections.html",
+          "articleModifiedTime": "2020-08-04T10:00:00Z",
+          "articleSection": "Public Interest",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "7 things to know about voting Tuesday in Michigan’s primary elections",
+          "machineTags": "@fl-river,@sa-river,@aa-river,@gr-river,@kz-river,@jx-river,@mlive-river,@mlive-app,@aa-app,@jx-app,@fl-app,@sa-app,@gr-app,@kz-app,@mu-app,@mu-river",
+          "articleAuthor": "https://www.facebook.com/zahra.ahmad.37?ref=bookmarks"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAkEWv4pobkI-G5uXrPJqvxxWT5PkVxyl5hbx_JHHVVwmBTrV7MIIvivQ",
+          "width": "276",
+          "height": "183"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "public-interest",
+          "2020/08",
+          "7-things-to-know-abo..."
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:gawE1fWq0FIJ:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/public-interest/2019/07/abdul-el-sayed-says-moderate-democrat-would-lose-2020-election.html&sa=U&ved=2ahUKEwitxqvGjI3rAhXHa94KHZq8Dyg4MhAWMAd6BAgAEAI&usg=AOvVaw2Wyn1Lkybbx5It4qgfhk7V",
+      "content": "30 Jul 2019 \u003cb\u003e...\u003c/b\u003e ... candidate for Michigan governor Abdul El-Sayed said a moderate Democrat \nwill surely lose the \u003cb\u003e2020 election\u003c/b\u003e to President Donald Trump.",
+      "contentNoFormatting": "30 Jul 2019 ... ... candidate for Michigan governor Abdul El-Sayed said a moderate Democrat \nwill surely lose the 2020 election to President Donald Trump.",
+      "title": "Abdul El-Sayed says moderate Democrat would lose \u003cb\u003e2020 election\u003c/b\u003e ...",
+      "titleNoFormatting": "Abdul El-Sayed says moderate Democrat would lose 2020 election ...",
+      "formattedUrl": "https://www.mlive.com/.../abdul-el-sayed-says-moderate-democrat-would- lose-\u003cb\u003e2020\u003c/b\u003e-\u003cb\u003eelection\u003c/b\u003e.html",
+      "unescapedUrl": "https://www.mlive.com/public-interest/2019/07/abdul-el-sayed-says-moderate-democrat-would-lose-2020-election.html",
+      "url": "https://www.mlive.com/public-interest/2019/07/abdul-el-sayed-says-moderate-democrat-would-lose-2020-election.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/okm7W6nB_UbEAdkkFL8vAScebAo=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/IH24M6GFWVH2BHQBNUQOVKHDDQ.JPG"
+        },
+        "metatags": {
+          "sailthruDescription": "Abdul El-Sayed said Democrats will not beat President Donald Trump by running a moderate candidate.",
+          "twitterTitle": "Abdul El-Sayed says moderate Democrat would lose 2020 election",
+          "ogImageWidth": "1280",
+          "sailthruTags": "public interest,campaigns and campaign finance,independent,democrats,impact,university of virginia center for politics,kyle kondik,progressive change campaign committee",
+          "articleDateUpdated": "Tuesday, July 30, 2019, 09:00 PM",
+          "ogTitle": "Abdul El-Sayed says moderate Democrat would lose 2020 election",
+          "title": "Abdul El-Sayed says moderate Democrat would lose 2020 election",
+          "ogType": "article",
+          "articleTag": "@kz-river,@jx-river,@fl-river,@aa-river,@sg-river,@gr-river,@mlive-river,@mlive-app,impact",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "mbarrett2",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Malachi Barrett | mbarret1@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/public-interest/2019/07/abdul-el-sayed-says-moderate-democrat-would-lose-2020-election.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2019-07-30T23:04:43.934Z",
+          "twitterImage": "https://www.mlive.com/resizer/okm7W6nB_UbEAdkkFL8vAScebAo=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/IH24M6GFWVH2BHQBNUQOVKHDDQ.JPG",
+          "sailthruDate": "Tuesday, July 30, 2019, 07:04 PM",
+          "ogDescription": "Abdul El-Sayed said Democrats will not beat President Donald Trump by running a moderate candidate.",
+          "ogImage": "https://www.mlive.com/resizer/okm7W6nB_UbEAdkkFL8vAScebAo=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/IH24M6GFWVH2BHQBNUQOVKHDDQ.JPG",
+          "sections": "public-interest,politics,news/saginaw-bay-city,news/muskegon,news/kalamazoo,news/jackson,news/grand-rapids,news/flint,news/ann-arbor,news",
+          "articleDateOriginal": "Tuesday, July 30, 2019, 07:04 PM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "Abdul El-Sayed said Democrats will not beat President Donald Trump by running a moderate candidate.",
+          "ogUrl": "https://www.mlive.com/public-interest/2019/07/abdul-el-sayed-says-moderate-democrat-would-lose-2020-election.html",
+          "articleModifiedTime": "2019-07-31T01:00:58.593Z",
+          "articleSection": "Public Interest",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "Abdul El-Sayed says moderate Democrat would lose 2020 election",
+          "machineTags": "@kz-river,@jx-river,@fl-river,@aa-river,@sg-river,@gr-river,@mlive-river,@mlive-app",
+          "articleAuthor": "https://www.facebook.com/malachi.barrett"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSRRFV9tVp6yQYV8ZJkqCVuTZIzuGd_ECKdHljhY5-iVjIHJQHFUJSb0gk",
+          "width": "275",
+          "height": "183"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "public-interest",
+          "2019/07",
+          "abdul-el-sayed-says-..."
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:k7LVQEA5DnMJ:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/news/ann-arbor/2020/04/wave-of-council-candidates-file-in-ann-arbor-pandemic-doesnt-stop-signature-gathering.html&sa=U&ved=2ahUKEwitxqvGjI3rAhXHa94KHZq8Dyg4MhAWMAh6BAgCEAI&usg=AOvVaw0un4uCteC8X0k5ywhehC0d",
+      "content": "22 Apr 2020 \u003cb\u003e...\u003c/b\u003e Election 2020 logo. For the \u003cb\u003e2020 election\u003c/b\u003e in Michigan, the primary is Aug. 4 and \nthe general election is Nov. 3.Milt Klingensmith | MLive.com.",
+      "contentNoFormatting": "22 Apr 2020 ... Election 2020 logo. For the 2020 election in Michigan, the primary is Aug. 4 and \nthe general election is Nov. 3.Milt Klingensmith | MLive.com.",
+      "title": "Wave of council candidates file in Ann Arbor, pandemic doesn&#39;t stop ...",
+      "titleNoFormatting": "Wave of council candidates file in Ann Arbor, pandemic doesn't stop ...",
+      "formattedUrl": "https://www.mlive.com/.../\u003cb\u003e2020\u003c/b\u003e/.../wave-of-council-candidates-file-in-ann- arbor-pandemic-doesnt-stop-signature-gathering.html",
+      "unescapedUrl": "https://www.mlive.com/news/ann-arbor/2020/04/wave-of-council-candidates-file-in-ann-arbor-pandemic-doesnt-stop-signature-gathering.html",
+      "url": "https://www.mlive.com/news/ann-arbor/2020/04/wave-of-council-candidates-file-in-ann-arbor-pandemic-doesnt-stop-signature-gathering.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/-Nu7P1ypcgBbZcib4-zhmgR0T5w=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SVI3P57AGFAIFEVK5PK3Z6HHKY.jpeg"
+        },
+        "metatags": {
+          "sailthruDescription": "There now are more than a dozen candidates running for City Council this year.",
+          "twitterTitle": "Wave of council candidates file in Ann Arbor, pandemic doesn’t stop signature gathering",
+          "ogImageWidth": "1280",
+          "sailthruTags": "ann arbor,state and local elections,local governments,campaigns and campaign finance,ann-arbor-city-council,election-2020,election-2020-a2,ward",
+          "articleDateUpdated": "Wednesday, April 22, 2020, 01:52 PM",
+          "ogTitle": "Wave of council candidates file in Ann Arbor, pandemic doesn’t stop signature gathering",
+          "title": "Wave of council candidates file in Ann Arbor, pandemic doesn’t stop signature gathering",
+          "ogType": "article",
+          "articleTag": "@aa-river,@aa-app,@mlive-river,@mlive-app,ann-arbor-city-council,election-2020,election-2020-a2,@MI-coronavirus,@aajready",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "ryanstanton",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Ryan Stanton | ryanstanton@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/news/ann-arbor/2020/04/wave-of-council-candidates-file-in-ann-arbor-pandemic-doesnt-stop-signature-gathering.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2020-04-22T17:52:47.908Z",
+          "twitterImage": "https://www.mlive.com/resizer/-Nu7P1ypcgBbZcib4-zhmgR0T5w=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SVI3P57AGFAIFEVK5PK3Z6HHKY.jpeg",
+          "sailthruDate": "Wednesday, April 22, 2020, 01:52 PM",
+          "ogDescription": "There now are more than a dozen candidates running for City Council this year.",
+          "ogImage": "https://www.mlive.com/resizer/-Nu7P1ypcgBbZcib4-zhmgR0T5w=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SVI3P57AGFAIFEVK5PK3Z6HHKY.jpeg",
+          "sections": "news/ann-arbor,news,coronavirus",
+          "articleDateOriginal": "Wednesday, April 22, 2020, 01:52 PM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "There now are more than a dozen candidates running for City Council this year.",
+          "ogUrl": "https://www.mlive.com/news/ann-arbor/2020/04/wave-of-council-candidates-file-in-ann-arbor-pandemic-doesnt-stop-signature-gathering.html",
+          "articleModifiedTime": "2020-04-22T17:52:47.908Z",
+          "articleSection": "Ann Arbor",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "Wave of council candidates file in Ann Arbor, pandemic doesn’t stop signature gathering",
+          "machineTags": "@aa-river,@aa-app,@mlive-river,@mlive-app,@MI-coronavirus,@aajready",
+          "articleAuthor": "Ryan Stanton | ryanstanton@mlive.com"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRhnK2wR43ltlDqzuEd_rNO9LGeNE_Gp7Uo8b-mVXNxwFlyPryfAXccZZbT",
+          "width": "304",
+          "height": "166"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "news",
+          "ann-arbor",
+          "2020/04",
+          "wave-of-council-c..."
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:4PZcO5DsmUYJ:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/news/flint/2020/06/dragons-cats-and-politics-meet-the-michigan-couple-running-against-each-other-in-2020-election.html&sa=U&ved=2ahUKEwitxqvGjI3rAhXHa94KHZq8Dyg4MhAWMAl6BAgDEAI&usg=AOvVaw13eIkiORZ6QD5VRhaHXfEI",
+      "content": "17 Jun 2020 \u003cb\u003e...\u003c/b\u003e Dragons, cats and politics: Meet the Michigan couple running against each other \nin \u003cb\u003e2020 election\u003c/b\u003e. Updated Jun 18, 2020; Posted Jun 17, 2020.",
+      "contentNoFormatting": "17 Jun 2020 ... Dragons, cats and politics: Meet the Michigan couple running against each other \nin 2020 election. Updated Jun 18, 2020; Posted Jun 17, 2020.",
+      "title": "Dragons, cats and politics: Meet the Michigan couple running ...",
+      "titleNoFormatting": "Dragons, cats and politics: Meet the Michigan couple running ...",
+      "formattedUrl": "https://www.mlive.com/.../\u003cb\u003e2020\u003c/b\u003e/.../dragons-cats-and-politics-meet-the- michigan-couple-running-against-each-other-in-\u003cb\u003e2020\u003c/b\u003e-\u003cb\u003eelection\u003c/b\u003e.html",
+      "unescapedUrl": "https://www.mlive.com/news/flint/2020/06/dragons-cats-and-politics-meet-the-michigan-couple-running-against-each-other-in-2020-election.html",
+      "url": "https://www.mlive.com/news/flint/2020/06/dragons-cats-and-politics-meet-the-michigan-couple-running-against-each-other-in-2020-election.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/RpqDdkt-MkY7JqTrQTG6hqSZDWo=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GHR3MLTVDVF4FDR7BIJHM3R36I.JPG"
+        },
+        "metatags": {
+          "sailthruDescription": "Nearly 40 years ago Raymond and Lynne Freiberger said, “I do,\" but this year, they’ve broken apart -- at least until after the election for 50th District state House of Representatives.",
+          "twitterTitle": "Dragons, cats and politics: Meet the Michigan couple running against each other in 2020 election",
+          "ogImageWidth": "1280",
+          "sailthruTags": "flint,robert stewart,burton,genesee county,lynne,brothers,bronze star,guinness world records",
+          "articleDateUpdated": "Thursday, June 18, 2020, 01:53 AM",
+          "ogTitle": "Dragons, cats and politics: Meet the Michigan couple running against each other in 2020 election",
+          "title": "Dragons, cats and politics: Meet the Michigan couple running against each other in 2020 election",
+          "ogType": "article",
+          "articleTag": "@fl-river,@mlive-river,@subscriberexclusive",
+          "subscriberOnly": "true",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "rfonger",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Ron Fonger | rfonger1@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/news/flint/2020/06/dragons-cats-and-politics-meet-the-michigan-couple-running-against-each-other-in-2020-election.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2020-06-17T17:45:24.049Z",
+          "twitterImage": "https://www.mlive.com/resizer/RpqDdkt-MkY7JqTrQTG6hqSZDWo=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GHR3MLTVDVF4FDR7BIJHM3R36I.JPG",
+          "sailthruDate": "Wednesday, June 17, 2020, 01:45 PM",
+          "ogDescription": "Nearly 40 years ago Raymond and Lynne Freiberger said, “I do,\" but this year, they’ve broken apart -- at least until after the election for 50th District state House of Representatives.",
+          "ogImage": "https://www.mlive.com/resizer/RpqDdkt-MkY7JqTrQTG6hqSZDWo=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GHR3MLTVDVF4FDR7BIJHM3R36I.JPG",
+          "sections": "news/flint,news",
+          "articleDateOriginal": "Wednesday, June 17, 2020, 01:45 PM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "Nearly 40 years ago Raymond and Lynne Freiberger said, “I do,\" but this year, they’ve broken apart -- at least until after the election for 50th District state House of Representatives.",
+          "ogUrl": "https://www.mlive.com/news/flint/2020/06/dragons-cats-and-politics-meet-the-michigan-couple-running-against-each-other-in-2020-election.html",
+          "articleModifiedTime": "2020-06-18T05:53:04.476Z",
+          "articleSection": "Flint",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "Dragons, cats and politics: Meet the Michigan couple running against each other in 2020 election",
+          "machineTags": "@fl-river,@mlive-river,@subscriberexclusive",
+          "articleAuthor": "https://www.facebook.com/ron.fonger"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd0Cga7Gxoli_BdFwlvpb7Ra5m6ADVrOBuGbeTsiaON4xxskKoZ3KUBx6P",
+          "width": "275",
+          "height": "183"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "news",
+          "flint",
+          "2020/06",
+          "dragons-cats-and-politic..."
+        ]
+      }
+    }
+  ],
+  "findMoreOnGoogle": {
+    "url": "https://www.google.com/search?client=ms-google-coop&q=2020+election&cx=017476104391584697148:yfiniwqwjp4"
+  }
+});

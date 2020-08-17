@@ -1,0 +1,718 @@
+/*O_o*/
+google.search.cse.api2105({
+  "cursor": {
+    "currentPageIndex": 3,
+    "estimatedResultCount": "1500000",
+    "moreResultsUrl": "http://www.google.com/cse?oe=utf8&ie=utf8&source=uds&q=2020+election&safe=off&start=30&sort=&cx=017476104391584697148:yfiniwqwjp4",
+    "resultCount": "1,500,000",
+    "searchResultTime": "0.26",
+    "pages": [
+      {
+        "label": 1,
+        "start": "0"
+      },
+      {
+        "label": 2,
+        "start": "10"
+      },
+      {
+        "label": 3,
+        "start": "20"
+      },
+      {
+        "label": 4,
+        "start": "30"
+      },
+      {
+        "label": 5,
+        "start": "40"
+      },
+      {
+        "label": 6,
+        "start": "50"
+      },
+      {
+        "label": 7,
+        "start": "60"
+      },
+      {
+        "label": 8,
+        "start": "70"
+      },
+      {
+        "label": 9,
+        "start": "80"
+      },
+      {
+        "label": 10,
+        "start": "90"
+      }
+    ]
+  },
+  "context": {
+    "title": "*.mlive.com",
+    "total_results": "0"
+  },
+  "results": [
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:eRbf21A6-q8J:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/public-interest/2019/11/social-media-disinformation-appears-in-michigan-before-2020-election.html&sa=U&ved=2ahUKEwilp5TEjI3rAhWFNKYKHWS_Aws4HhAWMAB6BAgFEAI&usg=AOvVaw0c1dOiMKFyrlToXucU6rqY",
+      "content": "1 Nov 2019 \u003cb\u003e...\u003c/b\u003e Presidential candidates view your social media feed as an influential \nbattleground in the \u003cb\u003e2020 election\u003c/b\u003e, but Democrats are concerned the&nbsp;...",
+      "contentNoFormatting": "1 Nov 2019 ... Presidential candidates view your social media feed as an influential \nbattleground in the 2020 election, but Democrats are concerned the ...",
+      "title": "Social media disinformation appears in Michigan before \u003cb\u003e2020 election\u003c/b\u003e",
+      "titleNoFormatting": "Social media disinformation appears in Michigan before 2020 election",
+      "formattedUrl": "https://www.mlive.com/.../social-media-disinformation-appears-in-michigan- before-\u003cb\u003e2020\u003c/b\u003e-\u003cb\u003eelection\u003c/b\u003e.html",
+      "unescapedUrl": "https://www.mlive.com/public-interest/2019/11/social-media-disinformation-appears-in-michigan-before-2020-election.html",
+      "url": "https://www.mlive.com/public-interest/2019/11/social-media-disinformation-appears-in-michigan-before-2020-election.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/G38tc_kUAMACxfve8xV-GnIb_T0=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/D53JU2TWEZDP5ATPCL6OBI4ZVE.jpg"
+        },
+        "metatags": {
+          "sailthruDescription": "Fake news is already showing up on social media.",
+          "twitterTitle": "Social media disinformation appears in Michigan before 2020 election",
+          "ogImageWidth": "1280",
+          "sailthruTags": "public interest,social media,internet,defense and cybersecurity,impcat,facebook,graphika,michigan democratic party",
+          "articleDateUpdated": "Friday, November 01, 2019, 03:39 PM",
+          "ogTitle": "Social media disinformation appears in Michigan before 2020 election",
+          "title": "Social media disinformation appears in Michigan before 2020 election",
+          "ogType": "article",
+          "articleTag": "@mlive-river,@mlive-app,@jx-river,@kz-river,@gr-river,@aa-river,@fl-river,@sa-river,impcat",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "mbarrett2",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Malachi Barrett | mbarret1@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/public-interest/2019/11/social-media-disinformation-appears-in-michigan-before-2020-election.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2019-11-01T19:37:15.776Z",
+          "twitterImage": "https://www.mlive.com/resizer/G38tc_kUAMACxfve8xV-GnIb_T0=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/D53JU2TWEZDP5ATPCL6OBI4ZVE.jpg",
+          "sailthruDate": "Friday, November 01, 2019, 03:37 PM",
+          "ogDescription": "Fake news is already showing up on social media.",
+          "ogImage": "https://www.mlive.com/resizer/G38tc_kUAMACxfve8xV-GnIb_T0=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/D53JU2TWEZDP5ATPCL6OBI4ZVE.jpg",
+          "sections": "public-interest,politics,news/saginaw-bay-city,news/kalamazoo,news/muskegon,news/jackson,news/grand-rapids,news/flint,news/ann-arbor,news",
+          "articleDateOriginal": "Friday, November 01, 2019, 03:37 PM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "Fake news is already showing up on social media.",
+          "ogUrl": "https://www.mlive.com/public-interest/2019/11/social-media-disinformation-appears-in-michigan-before-2020-election.html",
+          "articleModifiedTime": "2019-11-01T19:39:26.471Z",
+          "articleSection": "Public Interest",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "Social media disinformation appears in Michigan before 2020 election",
+          "machineTags": "@mlive-river,@mlive-app,@jx-river,@kz-river,@gr-river,@aa-river,@fl-river,@sa-river",
+          "articleAuthor": "https://www.facebook.com/malachi.barrett"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSsUsL_yvoJ5J4mpRP4z-yI4N1t8F44AWwPhGIS9k871gM_fagvLX4PjvM",
+          "width": "275",
+          "height": "183"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "public-interest",
+          "2019/11",
+          "social-media-disinfor..."
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:QcH8t9DQ3LcJ:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/news/saginaw-bay-city/2020/03/election-results-in-genesee-saginaw-and-bay-counties-for-march-10-2020.html&sa=U&ved=2ahUKEwilp5TEjI3rAhWFNKYKHWS_Aws4HhAWMAF6BAgJEAI&usg=AOvVaw1_FtpxFMP8X1vIta-IvHYf",
+      "content": "10 Mar 2020 \u003cb\u003e...\u003c/b\u003e To see results of the presidential primary, click the link below. \u003cb\u003e2020\u003c/b\u003e Michigan \nPresidential Primary \u003cb\u003eelection\u003c/b\u003e results. GENESEE COUNTY. Michigan&nbsp;...",
+      "contentNoFormatting": "10 Mar 2020 ... To see results of the presidential primary, click the link below. 2020 Michigan \nPresidential Primary election results. GENESEE COUNTY. Michigan ...",
+      "title": "\u003cb\u003eElection\u003c/b\u003e results in Genesee, Saginaw and Bay counties for March 10 ...",
+      "titleNoFormatting": "Election results in Genesee, Saginaw and Bay counties for March 10 ...",
+      "formattedUrl": "https://www.mlive.com/.../\u003cb\u003e2020\u003c/b\u003e/.../\u003cb\u003eelection\u003c/b\u003e-results-in-genesee-saginaw-and- bay-counties-for-march-10-\u003cb\u003e2020\u003c/b\u003e.html",
+      "unescapedUrl": "https://www.mlive.com/news/saginaw-bay-city/2020/03/election-results-in-genesee-saginaw-and-bay-counties-for-march-10-2020.html",
+      "url": "https://www.mlive.com/news/saginaw-bay-city/2020/03/election-results-in-genesee-saginaw-and-bay-counties-for-march-10-2020.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/QB6_3OPqVorpDgHHqF3-9NjMD2c=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/3D2N7PX3RFFPFPCSHZCAJVX3SU.JPG"
+        },
+        "metatags": {
+          "sailthruDescription": "See how voters decided local tax requests, police and fire operating millages and more.",
+          "twitterTitle": "Election results in Genesee, Saginaw and Bay counties for March 10, 2020",
+          "ogImageWidth": "1280",
+          "sailthruTags": "saginaw and bay city news,saginaw,bay,renewal,michigan,proposal,millage,fire",
+          "articleDateUpdated": "Wednesday, March 11, 2020, 09:05 AM",
+          "ogTitle": "Election results in Genesee, Saginaw and Bay counties for March 10, 2020",
+          "title": "Election results in Genesee, Saginaw and Bay counties for March 10, 2020",
+          "ogType": "article",
+          "articleTag": "@sa-news,@sa-river,@sa-app,@bc-app,@bc-news,@bc-river,@fl-river",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "isimpson,rimurdock",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Isis Simpson-Mersha | isimpson@mlive.com and Riley Murdock | rmurdock@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/news/saginaw-bay-city/2020/03/election-results-in-genesee-saginaw-and-bay-counties-for-march-10-2020.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2020-03-10T19:00:13.370Z",
+          "twitterImage": "https://www.mlive.com/resizer/QB6_3OPqVorpDgHHqF3-9NjMD2c=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/3D2N7PX3RFFPFPCSHZCAJVX3SU.JPG",
+          "sailthruDate": "Tuesday, March 10, 2020, 03:00 PM",
+          "ogDescription": "See how voters decided local tax requests, police and fire operating millages and more.",
+          "ogImage": "https://www.mlive.com/resizer/QB6_3OPqVorpDgHHqF3-9NjMD2c=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/3D2N7PX3RFFPFPCSHZCAJVX3SU.JPG",
+          "sections": "news/saginaw-bay-city",
+          "articleDateOriginal": "Tuesday, March 10, 2020, 03:00 PM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "See how voters decided local tax requests, police and fire operating millages and more.",
+          "ogUrl": "https://www.mlive.com/news/saginaw-bay-city/2020/03/election-results-in-genesee-saginaw-and-bay-counties-for-march-10-2020.html",
+          "articleModifiedTime": "2020-03-11T13:05:39.714Z",
+          "articleSection": "Saginaw and Bay City News",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "Election results in Genesee, Saginaw and Bay counties for March 10, 2020",
+          "machineTags": "@sa-news,@sa-river,@sa-app,@bc-app,@bc-news,@bc-river,@fl-river",
+          "articleAuthor": "https://www.facebook.com/isis.simpson.31"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSLfe9se5hUqFr02MOQ-DzvORfFzQSo8ghBeJUpiSqlVZZHnKWaLng9YKw",
+          "width": "275",
+          "height": "183"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "news",
+          "saginaw-bay-city",
+          "2020/03",
+          "election-res..."
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:1ciRf81TT-IJ:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/news/kalamazoo/2020/08/7-takeaways-from-tuesdays-primary-election-in-kalamazoo.html&sa=U&ved=2ahUKEwilp5TEjI3rAhWFNKYKHWS_Aws4HhAWMAJ6BAgIEAI&usg=AOvVaw2iQ4tizE7poZxiWwuwPOqM",
+      "content": "3 days ago \u003cb\u003e...\u003c/b\u003e West Michigan voters head to the polls in primary \u003cb\u003eelection\u003c/b\u003e on Aug. 4, \u003cb\u003e2020\u003c/b\u003e. By \nKayla Miller | kmille17@mlive.com. KALAMAZOO, MI -- The&nbsp;...",
+      "contentNoFormatting": "3 days ago ... West Michigan voters head to the polls in primary election on Aug. 4, 2020. By \nKayla Miller | kmille17@mlive.com. KALAMAZOO, MI -- The ...",
+      "title": "7 takeaways from Tuesday&#39;s primary \u003cb\u003eelection\u003c/b\u003e in Kalamazoo - mlive ...",
+      "titleNoFormatting": "7 takeaways from Tuesday's primary election in Kalamazoo - mlive ...",
+      "formattedUrl": "https://www.mlive.com/.../\u003cb\u003e2020\u003c/b\u003e/.../7-takeaways-from-tuesdays-primary- \u003cb\u003eelection\u003c/b\u003e-in-kalamazoo.html",
+      "unescapedUrl": "https://www.mlive.com/news/kalamazoo/2020/08/7-takeaways-from-tuesdays-primary-election-in-kalamazoo.html",
+      "url": "https://www.mlive.com/news/kalamazoo/2020/08/7-takeaways-from-tuesdays-primary-election-in-kalamazoo.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/DlPPeRxjzytA4X4eQTwGB_c1LT0=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/OLMH4XA7CBAHTDS24F2HCBJX7A.JPG"
+        },
+        "metatags": {
+          "sailthruDescription": "A delay in results was attributed in part to the higher number of absentee votes to be counted Tuesday night. More people voted absentee because of the coronavirus pandemic.",
+          "twitterTitle": "7 takeaways from Tuesday’s primary election in Kalamazoo",
+          "ogImageWidth": "1280",
+          "sailthruTags": "kalamazoo,state and local elections,campaigns and campaign finance,local governments,kalamazoo-election,election-kalamazoo,election-2020,district",
+          "articleDateUpdated": "Wednesday, August 05, 2020, 06:15 PM",
+          "ogTitle": "7 takeaways from Tuesday’s primary election in Kalamazoo",
+          "title": "7 takeaways from Tuesday’s primary election in Kalamazoo",
+          "ogType": "article",
+          "articleTag": "@kz-river,@kz-app,kalamazoo-election,election-kalamazoo,election-2020,@mlive-river,@gr-river",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "kmille17",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Kayla Miller | kmille17@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/news/kalamazoo/2020/08/7-takeaways-from-tuesdays-primary-election-in-kalamazoo.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2020-08-05T22:15:00Z",
+          "twitterImage": "https://www.mlive.com/resizer/DlPPeRxjzytA4X4eQTwGB_c1LT0=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/OLMH4XA7CBAHTDS24F2HCBJX7A.JPG",
+          "sailthruDate": "Wednesday, August 05, 2020, 06:15 PM",
+          "ogDescription": "A delay in results was attributed in part to the higher number of absentee votes to be counted Tuesday night. More people voted absentee because of the coronavirus pandemic.",
+          "ogImage": "https://www.mlive.com/resizer/DlPPeRxjzytA4X4eQTwGB_c1LT0=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/OLMH4XA7CBAHTDS24F2HCBJX7A.JPG",
+          "sections": "news/kalamazoo,politics",
+          "articleDateOriginal": "Wednesday, August 05, 2020, 06:15 PM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "A delay in results was attributed in part to the higher number of absentee votes to be counted Tuesday night. More people voted absentee because of the coronavirus pandemic.",
+          "ogUrl": "https://www.mlive.com/news/kalamazoo/2020/08/7-takeaways-from-tuesdays-primary-election-in-kalamazoo.html",
+          "articleModifiedTime": "2020-08-05T22:15:00Z",
+          "articleSection": "Kalamazoo",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "7 takeaways from Tuesday’s primary election in Kalamazoo",
+          "machineTags": "@kz-river,@kz-app,@mlive-river,@gr-river",
+          "articleAuthor": "Kayla Miller | kmille17@mlive.com"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQjnw0izjmgMXbZdfuZ08-PR8_FL_O1FnkgfAnuT_6wXn3Y3dV6dN4oif4",
+          "width": "275",
+          "height": "183"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "news",
+          "kalamazoo",
+          "2020/08",
+          "7-takeaways-from..."
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:vCF1IEyhyaEJ:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/news/ann-arbor/2020/07/these-8-proposals-are-on-the-aug-4-primary-ballot-in-washtenaw-county.html&sa=U&ved=2ahUKEwilp5TEjI3rAhWFNKYKHWS_Aws4HhAWMAN6BAgHEAI&usg=AOvVaw03Foaex9_tP_1uJwvZ9rPY",
+      "content": "10 Jul 2020 \u003cb\u003e...\u003c/b\u003e Voters in most communities will also have local primary elections on their ballots, \n... This proposal was postponed from the May \u003cb\u003e2020 election\u003c/b\u003e.",
+      "contentNoFormatting": "10 Jul 2020 ... Voters in most communities will also have local primary elections on their ballots, \n... This proposal was postponed from the May 2020 election.",
+      "title": "These 8 proposals are on the Aug. 4 primary ballot in Washtenaw ...",
+      "titleNoFormatting": "These 8 proposals are on the Aug. 4 primary ballot in Washtenaw ...",
+      "formattedUrl": "https://www.mlive.com/.../\u003cb\u003e2020\u003c/b\u003e/.../these-8-proposals-are-on-the-aug-4- primary-ballot-in-washtenaw-county.html",
+      "unescapedUrl": "https://www.mlive.com/news/ann-arbor/2020/07/these-8-proposals-are-on-the-aug-4-primary-ballot-in-washtenaw-county.html",
+      "url": "https://www.mlive.com/news/ann-arbor/2020/07/these-8-proposals-are-on-the-aug-4-primary-ballot-in-washtenaw-county.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/Fo49WeqOTS0K6h0YM6GNS_JECZI=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/MZWKSFEWIBHJZP5PH3LSGXPNNA.jpg"
+        },
+        "metatags": {
+          "sailthruDescription": "Proposals include several road maintenance and police service renewals and potential tax increases to support non-motorized pathway projects.",
+          "twitterTitle": "These 8 proposals are on the Aug. 4 primary ballot in Washtenaw County",
+          "ogImageWidth": "1280",
+          "sailthruTags": "ann arbor,local governments,state and local elections,election-2020,ypsilanti,city council,county,michigan",
+          "articleDateUpdated": "Friday, July 10, 2020, 11:21 AM",
+          "ogTitle": "These 8 proposals are on the Aug. 4 primary ballot in Washtenaw County",
+          "title": "These 8 proposals are on the Aug. 4 primary ballot in Washtenaw County",
+          "ogType": "article",
+          "articleTag": "@aa-app,@aa-river,@mlive-river,election-2020",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "mckennaross",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "McKenna Ross | mross@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/news/ann-arbor/2020/07/these-8-proposals-are-on-the-aug-4-primary-ballot-in-washtenaw-county.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2020-07-10T15:21:43.045Z",
+          "twitterImage": "https://www.mlive.com/resizer/Fo49WeqOTS0K6h0YM6GNS_JECZI=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/MZWKSFEWIBHJZP5PH3LSGXPNNA.jpg",
+          "sailthruDate": "Friday, July 10, 2020, 11:21 AM",
+          "ogDescription": "Proposals include several road maintenance and police service renewals and potential tax increases to support non-motorized pathway projects.",
+          "ogImage": "https://www.mlive.com/resizer/Fo49WeqOTS0K6h0YM6GNS_JECZI=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/MZWKSFEWIBHJZP5PH3LSGXPNNA.jpg",
+          "sections": "news,news/ann-arbor",
+          "articleDateOriginal": "Friday, July 10, 2020, 11:21 AM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "Proposals include several road maintenance and police service renewals and potential tax increases to support non-motorized pathway projects.",
+          "ogUrl": "https://www.mlive.com/news/ann-arbor/2020/07/these-8-proposals-are-on-the-aug-4-primary-ballot-in-washtenaw-county.html",
+          "articleModifiedTime": "2020-07-10T15:21:43.045Z",
+          "articleSection": "Ann Arbor",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "These 8 proposals are on the Aug. 4 primary ballot in Washtenaw County",
+          "machineTags": "@aa-app,@aa-river,@mlive-river",
+          "articleAuthor": "McKenna Ross | MRoss@mlive.com"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTN0uOEWvSuZ8p5xY-zanRzPTFKdJIBS86Vk4XgFyj_Z1P_mWpH3pYhDZqH",
+          "width": "277",
+          "height": "182"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "news",
+          "ann-arbor",
+          "2020/07",
+          "these-8-proposals-..."
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:GcJ-kTlaEZwJ:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/news/ann-arbor/2020/07/heres-what-washtenaw-county-voters-will-decide-in-the-aug-4-primary.html&sa=U&ved=2ahUKEwilp5TEjI3rAhWFNKYKHWS_Aws4HhAWMAR6BAgEEAI&usg=AOvVaw07bbKwsyCj1ZToqBJYMH3V",
+      "content": "29 Jul 2020 \u003cb\u003e...\u003c/b\u003e Ann Arbor voters also can use the city&#39;s Election Day line tracker to ... slams &#39;\nconservative council majority&#39; in \u003cb\u003e2020 election\u003c/b\u003e endorsements.",
+      "contentNoFormatting": "29 Jul 2020 ... Ann Arbor voters also can use the city's Election Day line tracker to ... slams '\nconservative council majority' in 2020 election endorsements.",
+      "title": "Here&#39;s what Washtenaw County voters will decide in the Aug. 4 ...",
+      "titleNoFormatting": "Here's what Washtenaw County voters will decide in the Aug. 4 ...",
+      "formattedUrl": "https://www.mlive.com/.../\u003cb\u003e2020\u003c/b\u003e/.../heres-what-washtenaw-county-\u003cb\u003evote\u003c/b\u003ers-will- decide-in-the-aug-4-primary.html",
+      "unescapedUrl": "https://www.mlive.com/news/ann-arbor/2020/07/heres-what-washtenaw-county-voters-will-decide-in-the-aug-4-primary.html",
+      "url": "https://www.mlive.com/news/ann-arbor/2020/07/heres-what-washtenaw-county-voters-will-decide-in-the-aug-4-primary.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/7pv33XYVYU2kuvVv6hyjPvIr02I=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/HFKGTWG3TBF6HI5IYG63DYCLMY.JPG"
+        },
+        "metatags": {
+          "sailthruDescription": "What you need to know before voting.",
+          "twitterTitle": "Here’s what Washtenaw County voters will decide in the Aug. 4 primary",
+          "ogImageWidth": "1280",
+          "sailthruTags": "ann arbor,local governments,state and local elections,campaigns and campaign finance,election-2020-a2,election-2020,league of women voters,ypsilanti",
+          "articleDateUpdated": "Wednesday, July 29, 2020, 01:41 PM",
+          "ogTitle": "Here’s what Washtenaw County voters will decide in the Aug. 4 primary",
+          "title": "Here’s what Washtenaw County voters will decide in the Aug. 4 primary",
+          "ogType": "article",
+          "articleTag": "election-2020-a2,election-2020,@aa-river,@aa-app,@mlive-river,@mlive-app",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "ryanstanton",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Ryan Stanton | ryanstanton@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/news/ann-arbor/2020/07/heres-what-washtenaw-county-voters-will-decide-in-the-aug-4-primary.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2020-07-29T17:21:25.847Z",
+          "twitterImage": "https://www.mlive.com/resizer/7pv33XYVYU2kuvVv6hyjPvIr02I=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/HFKGTWG3TBF6HI5IYG63DYCLMY.JPG",
+          "sailthruDate": "Wednesday, July 29, 2020, 01:21 PM",
+          "ogDescription": "What you need to know before voting.",
+          "ogImage": "https://www.mlive.com/resizer/7pv33XYVYU2kuvVv6hyjPvIr02I=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/HFKGTWG3TBF6HI5IYG63DYCLMY.JPG",
+          "sections": "news/ann-arbor,news",
+          "articleDateOriginal": "Wednesday, July 29, 2020, 01:21 PM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "What you need to know before voting.",
+          "ogUrl": "https://www.mlive.com/news/ann-arbor/2020/07/heres-what-washtenaw-county-voters-will-decide-in-the-aug-4-primary.html",
+          "articleModifiedTime": "2020-07-29T17:41:24.383Z",
+          "articleSection": "Ann Arbor",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "Here’s what Washtenaw County voters will decide in the Aug. 4 primary",
+          "machineTags": "@aa-river,@aa-app,@mlive-river,@mlive-app",
+          "articleAuthor": "Ryan Stanton | ryanstanton@mlive.com"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8NqCM5BOfHjT8sT2HfxberFDEnzHgR1ZG-JYX08_37IRJ2-wImbXvY11r",
+          "width": "275",
+          "height": "183"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "news",
+          "ann-arbor",
+          "2020/07",
+          "heres-what-washte..."
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:5NCel6MhZGkJ:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/news/kalamazoo/2020/03/kalamazoo-area-election-results-from-march-10-election.html&sa=U&ved=2ahUKEwilp5TEjI3rAhWFNKYKHWS_Aws4HhAWMAV6BAgGEAI&usg=AOvVaw3NXLTZx9r8pjsjUpedI-_-",
+      "content": "10 Mar 2020 \u003cb\u003e...\u003c/b\u003e KALAMAZOO, MI — Tuesday&#39;s \u003cb\u003eelection\u003c/b\u003e asked voters around the state to cast \nballots in partisan presidential primaries. In Southwest Michigan&nbsp;...",
+      "contentNoFormatting": "10 Mar 2020 ... KALAMAZOO, MI — Tuesday's election asked voters around the state to cast \nballots in partisan presidential primaries. In Southwest Michigan ...",
+      "title": "\u003cb\u003eElection\u003c/b\u003e results for Kalamazoo area March 10, \u003cb\u003e2020\u003c/b\u003e - mlive.com",
+      "titleNoFormatting": "Election results for Kalamazoo area March 10, 2020 - mlive.com",
+      "formattedUrl": "https://www.mlive.com/.../\u003cb\u003e2020\u003c/b\u003e/.../kalamazoo-area-\u003cb\u003eelection\u003c/b\u003e-results-from- march-10-\u003cb\u003eelection\u003c/b\u003e.html",
+      "unescapedUrl": "https://www.mlive.com/news/kalamazoo/2020/03/kalamazoo-area-election-results-from-march-10-election.html",
+      "url": "https://www.mlive.com/news/kalamazoo/2020/03/kalamazoo-area-election-results-from-march-10-election.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/cROP39DlTfqMrldAge2Go3rAsVA=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/LH3YSWUEDFCPRJUKVQ577BFLC4.JPG"
+        },
+        "metatags": {
+          "sailthruDescription": "Follow along for updated, unofficial results from the March 10 primary election.",
+          "twitterTitle": "Election results for Kalamazoo area March 10, 2020",
+          "ogImageWidth": "1280",
+          "sailthruTags": "kalamazoo,kalamazoo-election,election-2020,van buren county,berrien county,cass county,calhoun county,kalamazoo county",
+          "articleDateUpdated": "Wednesday, March 11, 2020, 07:55 AM",
+          "ogTitle": "Election results for Kalamazoo area March 10, 2020",
+          "title": "Election results for Kalamazoo area March 10, 2020",
+          "ogType": "article",
+          "articleTag": "@kz-river,@kz-app,kalamazoo-election,@mlive-river,election-2020,@gr-river",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "shillmeyer,rboldrey",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Sophie Hillmeyer | shillmey@mlive.com and Ryan Boldrey | rboldrey@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/news/kalamazoo/2020/03/kalamazoo-area-election-results-from-march-10-election.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2020-03-10T20:00:19.439Z",
+          "twitterImage": "https://www.mlive.com/resizer/cROP39DlTfqMrldAge2Go3rAsVA=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/LH3YSWUEDFCPRJUKVQ577BFLC4.JPG",
+          "sailthruDate": "Tuesday, March 10, 2020, 04:00 PM",
+          "ogDescription": "Follow along for updated, unofficial results from the March 10 primary election.",
+          "ogImage": "https://www.mlive.com/resizer/cROP39DlTfqMrldAge2Go3rAsVA=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/LH3YSWUEDFCPRJUKVQ577BFLC4.JPG",
+          "sections": "news/kalamazoo",
+          "articleDateOriginal": "Tuesday, March 10, 2020, 04:00 PM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "Follow along for updated, unofficial results from the March 10 primary election.",
+          "ogUrl": "https://www.mlive.com/news/kalamazoo/2020/03/kalamazoo-area-election-results-from-march-10-election.html",
+          "articleModifiedTime": "2020-03-11T11:55:31.722Z",
+          "articleSection": "Kalamazoo",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "Election results for Kalamazoo area March 10, 2020",
+          "machineTags": "@kz-river,@kz-app,@mlive-river,@gr-river",
+          "articleAuthor": "Sophie Hillmeyer | shillmeyer@mlive.com"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT_KuumPntB3YjifOqpQGnFPH04pD3_52MgrTls4QHcOnmAncac3tsqfuds",
+          "width": "275",
+          "height": "183"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "news",
+          "kalamazoo",
+          "2020/03",
+          "kalamazoo-area-e..."
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:DhqdLnHRsw4J:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/news/ann-arbor/2020/08/mayors-allies-leading-in-all-5-ann-arbor-council-races.html&sa=U&ved=2ahUKEwilp5TEjI3rAhWFNKYKHWS_Aws4HhAWMAZ6BAgDEAI&usg=AOvVaw2qI7V93zrdUq6-cjVaRz-X",
+      "content": "4 days ago \u003cb\u003e...\u003c/b\u003e 2020 Ann Arbor City Council candidates. The 13 Democratic ... Mayor slams &#39;\nconservative council majority&#39; in \u003cb\u003e2020 election\u003c/b\u003e endorsements.",
+      "contentNoFormatting": "4 days ago ... 2020 Ann Arbor City Council candidates. The 13 Democratic ... Mayor slams '\nconservative council majority' in 2020 election endorsements.",
+      "title": "Mayor&#39;s allies win all 5 Ann Arbor council primary races, 3 ...",
+      "titleNoFormatting": "Mayor's allies win all 5 Ann Arbor council primary races, 3 ...",
+      "formattedUrl": "https://www.mlive.com/.../\u003cb\u003e2020\u003c/b\u003e/.../mayors-allies-leading-in-all-5-ann-arbor- council-races.html",
+      "unescapedUrl": "https://www.mlive.com/news/ann-arbor/2020/08/mayors-allies-leading-in-all-5-ann-arbor-council-races.html",
+      "url": "https://www.mlive.com/news/ann-arbor/2020/08/mayors-allies-leading-in-all-5-ann-arbor-council-races.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/hYuixJFsy-jaNlP3xO1DylvSzJQ=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/H4FRI2WROBHZDCLEV2PFDQHVTQ.jpg"
+        },
+        "metatags": {
+          "sailthruDescription": "Candidates backed by Mayor Christopher Taylor won all five Democratic primary races for City Council on Tuesday.",
+          "twitterTitle": "Mayor’s allies win all 5 Ann Arbor council primary races, 3 incumbents defeated",
+          "ogImageWidth": "1280",
+          "sailthruTags": "ann arbor,state and local elections,campaigns and campaign finance,local governments,election-2020-a2,election-2020,ann-arbor-city-council,ward",
+          "articleDateUpdated": "Wednesday, August 05, 2020, 01:32 AM",
+          "ogTitle": "Mayor’s allies win all 5 Ann Arbor council primary races, 3 incumbents defeated",
+          "title": "Mayor’s allies win all 5 Ann Arbor council primary races, 3 incumbents defeated",
+          "ogType": "article",
+          "articleTag": "election-2020-a2,election-2020,@aa-river,@aa-app,@mlive-river,@mlive-app,ann-arbor-city-council",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "ryanstanton",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Ryan Stanton | ryanstanton@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/news/ann-arbor/2020/08/mayors-allies-leading-in-all-5-ann-arbor-council-races.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2020-08-05T01:23:45.676Z",
+          "twitterImage": "https://www.mlive.com/resizer/hYuixJFsy-jaNlP3xO1DylvSzJQ=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/H4FRI2WROBHZDCLEV2PFDQHVTQ.jpg",
+          "sailthruDate": "Tuesday, August 04, 2020, 09:23 PM",
+          "ogDescription": "Candidates backed by Mayor Christopher Taylor won all five Democratic primary races for City Council on Tuesday.",
+          "ogImage": "https://www.mlive.com/resizer/hYuixJFsy-jaNlP3xO1DylvSzJQ=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/H4FRI2WROBHZDCLEV2PFDQHVTQ.jpg",
+          "sections": "news/ann-arbor,news",
+          "articleDateOriginal": "Tuesday, August 04, 2020, 09:23 PM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "Candidates backed by Mayor Christopher Taylor won all five Democratic primary races for City Council on Tuesday.",
+          "ogUrl": "https://www.mlive.com/news/ann-arbor/2020/08/mayors-allies-leading-in-all-5-ann-arbor-council-races.html",
+          "articleModifiedTime": "2020-08-05T05:32:44.233Z",
+          "articleSection": "Ann Arbor",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "Mayor’s allies win all 5 Ann Arbor council primary races, 3 incumbents defeated",
+          "machineTags": "@aa-river,@aa-app,@mlive-river,@mlive-app",
+          "articleAuthor": "Ryan Stanton | ryanstanton@mlive.com"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQyp7XpVHgw2g9Ym5TfiWR1Sx5O8_Vg4Fz44mBI-QKJRM3q7AhD6a9mFUR_",
+          "width": "361",
+          "height": "139"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "news",
+          "ann-arbor",
+          "2020/08",
+          "mayors-allies-leadi..."
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:b6FyQX8FRPwJ:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/news/saginaw-bay-city/2020/08/here-is-what-is-on-the-aug-4-primary-election-ballot-in-bay-county.html&sa=U&ved=2ahUKEwilp5TEjI3rAhWFNKYKHWS_Aws4HhAWMAd6BAgCEAI&usg=AOvVaw1eAGMmNPJeY2qD0bSYEa-n",
+      "content": "1 Aug 2020 \u003cb\u003e...\u003c/b\u003e ... the League of Women Voters of Michigan to provide candidate information and \nother voting resources to readers ahead of \u003cb\u003e2020 elections\u003c/b\u003e.",
+      "contentNoFormatting": "1 Aug 2020 ... ... the League of Women Voters of Michigan to provide candidate information and \nother voting resources to readers ahead of 2020 elections.",
+      "title": "Here is what is on the Aug. 4 primary \u003cb\u003eelection\u003c/b\u003e ballot in Bay County ...",
+      "titleNoFormatting": "Here is what is on the Aug. 4 primary election ballot in Bay County ...",
+      "formattedUrl": "https://www.mlive.com/.../\u003cb\u003e2020\u003c/b\u003e/.../here-is-what-is-on-the-aug-4-primary- \u003cb\u003eelection\u003c/b\u003e-ballot-in-bay-county.html",
+      "unescapedUrl": "https://www.mlive.com/news/saginaw-bay-city/2020/08/here-is-what-is-on-the-aug-4-primary-election-ballot-in-bay-county.html",
+      "url": "https://www.mlive.com/news/saginaw-bay-city/2020/08/here-is-what-is-on-the-aug-4-primary-election-ballot-in-bay-county.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/HUw9LC4tnT9FOI3eqGdfszFThqc=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/6MKVPPFT2BCFJNCOWSBJ5WJVXE.JPG"
+        },
+        "metatags": {
+          "sailthruDescription": "Polls are open from 7 a.m. to 8 p.m. on Tuesday, Aug. 4.",
+          "twitterTitle": "Here is what is on the Aug. 4 primary election ballot in Bay County",
+          "ogImageWidth": "1280",
+          "sailthruTags": "saginaw and bay city news,state and local elections,campaigns and campaign finance,district,saginaw county,league of women voters,mill,bay county",
+          "articleDateUpdated": "Saturday, August 01, 2020, 07:39 AM",
+          "ogTitle": "Here is what is on the Aug. 4 primary election ballot in Bay County",
+          "title": "Here is what is on the Aug. 4 primary election ballot in Bay County",
+          "ogType": "article",
+          "articleTag": "@sa-river,@sa-app,@bc-river,@bc-app",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "cfrench",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Caitlyn French | cfrench@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/news/saginaw-bay-city/2020/08/here-is-what-is-on-the-aug-4-primary-election-ballot-in-bay-county.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2020-08-01T11:39:00Z",
+          "twitterImage": "https://www.mlive.com/resizer/HUw9LC4tnT9FOI3eqGdfszFThqc=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/6MKVPPFT2BCFJNCOWSBJ5WJVXE.JPG",
+          "sailthruDate": "Saturday, August 01, 2020, 07:39 AM",
+          "ogDescription": "Polls are open from 7 a.m. to 8 p.m. on Tuesday, Aug. 4.",
+          "ogImage": "https://www.mlive.com/resizer/HUw9LC4tnT9FOI3eqGdfszFThqc=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/6MKVPPFT2BCFJNCOWSBJ5WJVXE.JPG",
+          "sections": "news/saginaw-bay-city",
+          "articleDateOriginal": "Saturday, August 01, 2020, 07:39 AM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "Polls are open from 7 a.m. to 8 p.m. on Tuesday, Aug. 4.",
+          "ogUrl": "https://www.mlive.com/news/saginaw-bay-city/2020/08/here-is-what-is-on-the-aug-4-primary-election-ballot-in-bay-county.html",
+          "articleModifiedTime": "2020-08-01T11:39:00Z",
+          "articleSection": "Saginaw and Bay City News",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "Here is what is on the Aug. 4 primary election ballot in Bay County",
+          "machineTags": "@sa-river,@sa-app,@bc-river,@bc-app",
+          "articleAuthor": "https://www.facebook.com/caitlyn.french70"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKPBDdyuh007mdberVFfpNYndZGJ377zsj0nwACZ7yImpklGpaCBg-sts",
+          "width": "275",
+          "height": "183"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "news",
+          "saginaw-bay-city",
+          "2020/08",
+          "here-is-wha..."
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:vV1Kuh4SsmIJ:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/news/j66j-2020/04/f9c9c29d921245/see-school-tax-proposals-for-the-grand-rapidsarea-on-the-may-5-2020-election-ballot.html&sa=U&ved=2ahUKEwilp5TEjI3rAhWFNKYKHWS_Aws4HhAWMAh6BAgBEAI&usg=AOvVaw2U6wQHebGyihJ6R4aTkeCi",
+      "content": "5 Apr 2020 \u003cb\u003e...\u003c/b\u003e Nine school districts in Kent and Ottawa counties have tax proposals on the May \n5, \u003cb\u003e2020 election\u003c/b\u003e ballots.",
+      "contentNoFormatting": "5 Apr 2020 ... Nine school districts in Kent and Ottawa counties have tax proposals on the May \n5, 2020 election ballots.",
+      "title": "See school tax proposals for the Grand Rapids-area on the May 5 ...",
+      "titleNoFormatting": "See school tax proposals for the Grand Rapids-area on the May 5 ...",
+      "formattedUrl": "https://www.mlive.com/...\u003cb\u003e2020\u003c/b\u003e/.../see-school-tax-proposals-for-the-grand- rapidsarea-on-the-may-5-\u003cb\u003e2020\u003c/b\u003e-\u003cb\u003eelection\u003c/b\u003e-ballot.html",
+      "unescapedUrl": "https://www.mlive.com/news/j66j-2020/04/f9c9c29d921245/see-school-tax-proposals-for-the-grand-rapidsarea-on-the-may-5-2020-election-ballot.html",
+      "url": "https://www.mlive.com/news/j66j-2020/04/f9c9c29d921245/see-school-tax-proposals-for-the-grand-rapidsarea-on-the-may-5-2020-election-ballot.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/zkCXgFYPxIxX0-j1INL3jqsvzqU=/1280x0/smart/advancelocal-adapter-image-uploads.s3.amazonaws.com/expo.advance.net/img/3f1be91a85/width2048/b19_ekirklandmichiganelection004.jpeg"
+        },
+        "metatags": {
+          "sailthruDescription": "Nine school districts in Kent and Ottawa counties have tax proposals on the May 5, 2020 election ballots.",
+          "twitterTitle": "See school tax proposals for the Grand Rapids-area on the May 5, 2020 election ballot",
+          "ogImageWidth": "1280",
+          "sailthruTags": "news,caledonia,northview,kent county,kent,marshall,district,millage",
+          "articleDateUpdated": "Tuesday, April 07, 2020, 08:26 AM",
+          "ogTitle": "See school tax proposals for the Grand Rapids-area on the May 5, 2020 election ballot",
+          "title": "See school tax proposals for the Grand Rapids-area on the May 5, 2020 election ballot",
+          "ogType": "article",
+          "articleTag": "@mlive-education,@gr-app,@gr-river",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "mlscott",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Monica Scott | mscott2@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/news/j66j-2020/04/f9c9c29d921245/see-school-tax-proposals-for-the-grand-rapidsarea-on-the-may-5-2020-election-ballot.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2020-04-05T12:45:49Z",
+          "twitterImage": "https://www.mlive.com/resizer/zkCXgFYPxIxX0-j1INL3jqsvzqU=/1280x0/smart/advancelocal-adapter-image-uploads.s3.amazonaws.com/expo.advance.net/img/3f1be91a85/width2048/b19_ekirklandmichiganelection004.jpeg",
+          "sailthruDate": "Sunday, April 05, 2020, 08:45 AM",
+          "ogDescription": "Nine school districts in Kent and Ottawa counties have tax proposals on the May 5, 2020 election ballots.",
+          "ogImage": "https://www.mlive.com/resizer/zkCXgFYPxIxX0-j1INL3jqsvzqU=/1280x0/smart/advancelocal-adapter-image-uploads.s3.amazonaws.com/expo.advance.net/img/3f1be91a85/width2048/b19_ekirklandmichiganelection004.jpeg",
+          "sections": "news,news/grand-rapids,community",
+          "articleDateOriginal": "Sunday, April 05, 2020, 08:45 AM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "Nine school districts in Kent and Ottawa counties have tax proposals on the May 5, 2020 election ballots.",
+          "ogUrl": "https://www.mlive.com/news/j66j-2020/04/f9c9c29d921245/see-school-tax-proposals-for-the-grand-rapidsarea-on-the-may-5-2020-election-ballot.html",
+          "articleModifiedTime": "2020-04-07T12:26:44Z",
+          "articleSection": "News",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "See school tax proposals for the Grand Rapids-area on the May 5, 2020 election ballot",
+          "machineTags": "@mlive-education,@gr-app,@gr-river",
+          "articleAuthor": "https://www.facebook.com/"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTMAmXnEym7p5v_q0rwEDfcPuNqWTAUM_EX7tP2SbYEr1n9GKYqBrc6qqY",
+          "width": "275",
+          "height": "183"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "news",
+          "j66j-2020",
+          "see-school-tax-proposals-for-t..."
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:RdBb1DJ-vUQJ:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/public-interest/2020/06/mlive-partners-with-league-of-women-voters-for-2020-voter-guide.html&sa=U&ved=2ahUKEwilp5TEjI3rAhWFNKYKHWS_Aws4HhAWMAl6BAgAEAI&usg=AOvVaw0qjk_WYqH4q9h6WJyUJryZ",
+      "content": "20 Jun 2020 \u003cb\u003e...\u003c/b\u003e The website has added important resources on how to navigate \u003cb\u003eelections\u003c/b\u003e during \nthe COVID-19 pandemic. Throughout the \u003cb\u003eelection\u003c/b\u003e cycle, MLive&nbsp;...",
+      "contentNoFormatting": "20 Jun 2020 ... The website has added important resources on how to navigate elections during \nthe COVID-19 pandemic. Throughout the election cycle, MLive ...",
+      "title": "MLive partners with League of Women Voters for \u003cb\u003e2020\u003c/b\u003e voter guide ...",
+      "titleNoFormatting": "MLive partners with League of Women Voters for 2020 voter guide ...",
+      "formattedUrl": "https://www.mlive.com/.../\u003cb\u003e2020\u003c/b\u003e/.../mlive-partners-with-league-of-women- \u003cb\u003evote\u003c/b\u003ers-for-\u003cb\u003e2020\u003c/b\u003e-\u003cb\u003evote\u003c/b\u003er-guide.html",
+      "unescapedUrl": "https://www.mlive.com/public-interest/2020/06/mlive-partners-with-league-of-women-voters-for-2020-voter-guide.html",
+      "url": "https://www.mlive.com/public-interest/2020/06/mlive-partners-with-league-of-women-voters-for-2020-voter-guide.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/gtgfFnGCidW2UCRi0GH1I9unbHw=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2F6WYFP57JBOHLQJD3DU7YD2JQ.jpg"
+        },
+        "metatags": {
+          "sailthruDescription": "MLive is working with the League of Women Voters to provide voting resources to readers.",
+          "twitterTitle": "MLive partners with League of Women Voters for 2020 voter guide",
+          "ogImageWidth": "1280",
+          "sailthruTags": "public interest,campaigns and campaign finance,impact,muskegon,bay city,league of women voters,saginaw,michigan",
+          "articleDateUpdated": "Saturday, June 20, 2020, 11:00 AM",
+          "ogTitle": "MLive partners with League of Women Voters for 2020 voter guide",
+          "title": "MLive partners with League of Women Voters for 2020 voter guide",
+          "ogType": "article",
+          "articleTag": "@mlive-river,@mlive-app,@kz-river,@fl-river,@aa-river,@gr-river,@jx-river,@sa-river,impact",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "mbarrett2",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Malachi Barrett | mbarret1@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/public-interest/2020/06/mlive-partners-with-league-of-women-voters-for-2020-voter-guide.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2020-06-20T15:00:00.198Z",
+          "twitterImage": "https://www.mlive.com/resizer/gtgfFnGCidW2UCRi0GH1I9unbHw=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2F6WYFP57JBOHLQJD3DU7YD2JQ.jpg",
+          "sailthruDate": "Saturday, June 20, 2020, 11:00 AM",
+          "ogDescription": "MLive is working with the League of Women Voters to provide voting resources to readers.",
+          "ogImage": "https://www.mlive.com/resizer/gtgfFnGCidW2UCRi0GH1I9unbHw=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2F6WYFP57JBOHLQJD3DU7YD2JQ.jpg",
+          "sections": "public-interest,politics,news/saginaw-bay-city,news/muskegon,news/kalamazoo,news/jackson,news/grand-rapids,news/flint,news/ann-arbor,news",
+          "articleDateOriginal": "Saturday, June 20, 2020, 11:00 AM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "MLive is working with the League of Women Voters to provide voting resources to readers.",
+          "ogUrl": "https://www.mlive.com/public-interest/2020/06/mlive-partners-with-league-of-women-voters-for-2020-voter-guide.html",
+          "articleModifiedTime": "2020-06-20T15:00:00.198Z",
+          "articleSection": "Public Interest",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "MLive partners with League of Women Voters for 2020 voter guide",
+          "machineTags": "@mlive-river,@mlive-app,@kz-river,@fl-river,@aa-river,@gr-river,@jx-river,@sa-river",
+          "articleAuthor": "https://www.facebook.com/malachi.barrett"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRlHv6DH3rG21566X712QCec-yLHbfEaTABX1s4QUMuYcFgu5O0lFEc2pHb",
+          "width": "275",
+          "height": "183"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "public-interest",
+          "2020/06",
+          "mlive-partners-with-le..."
+        ]
+      }
+    }
+  ],
+  "findMoreOnGoogle": {
+    "url": "https://www.google.com/search?client=ms-google-coop&q=2020+election&cx=017476104391584697148:yfiniwqwjp4"
+  }
+});

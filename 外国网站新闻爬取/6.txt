@@ -1,0 +1,714 @@
+/*O_o*/
+google.search.cse.api2105({
+  "cursor": {
+    "currentPageIndex": 6,
+    "estimatedResultCount": "1500000",
+    "moreResultsUrl": "http://www.google.com/cse?oe=utf8&ie=utf8&source=uds&q=2020+election&safe=off&start=60&sort=&cx=017476104391584697148:yfiniwqwjp4",
+    "resultCount": "1,500,000",
+    "searchResultTime": "0.25",
+    "pages": [
+      {
+        "label": 1,
+        "start": "0"
+      },
+      {
+        "label": 2,
+        "start": "10"
+      },
+      {
+        "label": 3,
+        "start": "20"
+      },
+      {
+        "label": 4,
+        "start": "30"
+      },
+      {
+        "label": 5,
+        "start": "40"
+      },
+      {
+        "label": 6,
+        "start": "50"
+      },
+      {
+        "label": 7,
+        "start": "60"
+      },
+      {
+        "label": 8,
+        "start": "70"
+      },
+      {
+        "label": 9,
+        "start": "80"
+      },
+      {
+        "label": 10,
+        "start": "90"
+      }
+    ]
+  },
+  "context": {
+    "title": "*.mlive.com",
+    "total_results": "0"
+  },
+  "results": [
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:WjXqOoj5AE4J:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/news/kalamazoo/2020/07/a-guide-to-kalamazoo-area-candidates-tax-proposals-on-aug-4-primary-ballots.html&sa=U&ved=2ahUKEwip2b7QjI3rAhWNvpQKHT6SDLk4PBAWMAB6BAgAEAI&usg=AOvVaw0g8dC2q04ZzSQaLo0HR76p",
+      "content": "30 Jul 2020 \u003cb\u003e...\u003c/b\u003e 4 primary \u003cb\u003eelection\u003c/b\u003e, determining which candidates for offices — from ... at the end \nof the year, explaining he would not seek reelection in \u003cb\u003e2020\u003c/b\u003e.",
+      "contentNoFormatting": "30 Jul 2020 ... 4 primary election, determining which candidates for offices — from ... at the end \nof the year, explaining he would not seek reelection in 2020.",
+      "title": "A guide to Kalamazoo-area candidates, tax proposals on Aug. 4 ...",
+      "titleNoFormatting": "A guide to Kalamazoo-area candidates, tax proposals on Aug. 4 ...",
+      "formattedUrl": "https://www.mlive.com/.../\u003cb\u003e2020\u003c/b\u003e/.../a-guide-to-kalamazoo-area-candidates-tax- proposals-on-aug-4-primary-ballots.html",
+      "unescapedUrl": "https://www.mlive.com/news/kalamazoo/2020/07/a-guide-to-kalamazoo-area-candidates-tax-proposals-on-aug-4-primary-ballots.html",
+      "url": "https://www.mlive.com/news/kalamazoo/2020/07/a-guide-to-kalamazoo-area-candidates-tax-proposals-on-aug-4-primary-ballots.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/CdLLpViv7YOovNRWB-TS1LIiSus=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/DEMXFYDNXNFOFHU6JIRROGKLHQ.JPG"
+        },
+        "metatags": {
+          "sailthruDescription": "The primary election is Aug. 4.",
+          "twitterTitle": "A guide to Kalamazoo-area candidates, tax proposals on Aug. 4 primary ballots",
+          "ogImageWidth": "1280",
+          "sailthruTags": "kalamazoo,local governments,state and local elections,campaigns and campaign finance,election-2020,kalamazoo-election,muskegon county,calhoun county",
+          "articleDateUpdated": "Thursday, July 30, 2020, 04:37 PM",
+          "ogTitle": "A guide to Kalamazoo-area candidates, tax proposals on Aug. 4 primary ballots",
+          "title": "A guide to Kalamazoo-area candidates, tax proposals on Aug. 4 primary ballots",
+          "ogType": "article",
+          "articleTag": "election-2020,kalamazoo-election,@kz-river,@kz-app,@mlive-river",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "bdevereaux",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Brad Devereaux | bdeverea@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/news/kalamazoo/2020/07/a-guide-to-kalamazoo-area-candidates-tax-proposals-on-aug-4-primary-ballots.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2020-07-30T20:37:16.590Z",
+          "twitterImage": "https://www.mlive.com/resizer/CdLLpViv7YOovNRWB-TS1LIiSus=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/DEMXFYDNXNFOFHU6JIRROGKLHQ.JPG",
+          "sailthruDate": "Thursday, July 30, 2020, 04:37 PM",
+          "ogDescription": "The primary election is Aug. 4.",
+          "ogImage": "https://www.mlive.com/resizer/CdLLpViv7YOovNRWB-TS1LIiSus=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/DEMXFYDNXNFOFHU6JIRROGKLHQ.JPG",
+          "sections": "news/kalamazoo",
+          "articleDateOriginal": "Thursday, July 30, 2020, 04:37 PM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "The primary election is Aug. 4.",
+          "ogUrl": "https://www.mlive.com/news/kalamazoo/2020/07/a-guide-to-kalamazoo-area-candidates-tax-proposals-on-aug-4-primary-ballots.html",
+          "articleModifiedTime": "2020-07-30T20:37:16.590Z",
+          "articleSection": "Kalamazoo",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "A guide to Kalamazoo-area candidates, tax proposals on Aug. 4 primary ballots",
+          "machineTags": "@kz-river,@kz-app,@mlive-river",
+          "articleAuthor": "https://www.facebook.com/brad.devereaux.3"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQBKuumgV3eeaG9IX-cqQSI-eG29tvwu8J6-i9ryRl3YmL69QTQpj5vHTRD",
+          "width": "275",
+          "height": "183"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "news",
+          "kalamazoo",
+          "2020/07",
+          "a-guide-to-kalam..."
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:Q44U-nay2XsJ:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/news/flint/2020/05/voters-approve-genesee-county-school-bonds-in-smooth-sailing-election-with-big-turnout.html&sa=U&ved=2ahUKEwip2b7QjI3rAhWNvpQKHT6SDLk4PBAWMAF6BAgHEAI&usg=AOvVaw1hQRU8vqNJMMrBIEzGUijH",
+      "content": "5 May 2020 \u003cb\u003e...\u003c/b\u003e Of registered voters with a ballot to vote on in the May \u003cb\u003e2020 election\u003c/b\u003e, 26.91 ... In \nother years, May elections have had single digit voter turnout,&nbsp;...",
+      "contentNoFormatting": "5 May 2020 ... Of registered voters with a ballot to vote on in the May 2020 election, 26.91 ... In \nother years, May elections have had single digit voter turnout, ...",
+      "title": "Voters approve Genesee County school bonds in &#39;smooth sailing ...",
+      "titleNoFormatting": "Voters approve Genesee County school bonds in 'smooth sailing ...",
+      "formattedUrl": "https://www.mlive.com/.../\u003cb\u003e2020\u003c/b\u003e/.../\u003cb\u003evote\u003c/b\u003ers-approve-genesee-county-school- bonds-in-smooth-sailing-\u003cb\u003eelection\u003c/b\u003e-with-big-turnout.html",
+      "unescapedUrl": "https://www.mlive.com/news/flint/2020/05/voters-approve-genesee-county-school-bonds-in-smooth-sailing-election-with-big-turnout.html",
+      "url": "https://www.mlive.com/news/flint/2020/05/voters-approve-genesee-county-school-bonds-in-smooth-sailing-election-with-big-turnout.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/-IQHN2U2NOJd3ocaZT3XPKOayKw=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/FBVELQK3OFEYZMD2CSIME6Y5HM.JPG"
+        },
+        "metatags": {
+          "sailthruDescription": "Voters in the Bentley, Clio, Grand Blanc and Mt. Morris school districts voted in favor of the various ballot proposals.",
+          "twitterTitle": "Voters approve Genesee County school bonds in ‘smooth sailing’ election with big turnout",
+          "ogImageWidth": "1280",
+          "sailthruTags": "flint,bentley,genesee county,bond,mail,michigan,percent,district",
+          "articleDateUpdated": "Tuesday, May 05, 2020, 11:23 PM",
+          "ogTitle": "Voters approve Genesee County school bonds in ‘smooth sailing’ election with big turnout",
+          "title": "Voters approve Genesee County school bonds in ‘smooth sailing’ election with big turnout",
+          "ogType": "article",
+          "articleTag": "@fl-river,@mlive-river",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "wkeefer",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Winter Keefer | wkeefer@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/news/flint/2020/05/voters-approve-genesee-county-school-bonds-in-smooth-sailing-election-with-big-turnout.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2020-05-06T03:23:02.095Z",
+          "twitterImage": "https://www.mlive.com/resizer/-IQHN2U2NOJd3ocaZT3XPKOayKw=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/FBVELQK3OFEYZMD2CSIME6Y5HM.JPG",
+          "sailthruDate": "Tuesday, May 05, 2020, 11:23 PM",
+          "ogDescription": "Voters in the Bentley, Clio, Grand Blanc and Mt. Morris school districts voted in favor of the various ballot proposals.",
+          "ogImage": "https://www.mlive.com/resizer/-IQHN2U2NOJd3ocaZT3XPKOayKw=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/FBVELQK3OFEYZMD2CSIME6Y5HM.JPG",
+          "sections": "news/flint,news",
+          "articleDateOriginal": "Tuesday, May 05, 2020, 11:23 PM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "Voters in the Bentley, Clio, Grand Blanc and Mt. Morris school districts voted in favor of the various ballot proposals.",
+          "ogUrl": "https://www.mlive.com/news/flint/2020/05/voters-approve-genesee-county-school-bonds-in-smooth-sailing-election-with-big-turnout.html",
+          "articleModifiedTime": "2020-05-06T03:23:02.095Z",
+          "articleSection": "Flint",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "Voters approve Genesee County school bonds in ‘smooth sailing’ election with big turnout",
+          "machineTags": "@fl-river,@mlive-river",
+          "articleAuthor": "Winter Keefer | wkeefer@mlive.com"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT6Nl8Vdu8bv0olCt4rADuL6w2_6ppYbHO2UhraPUb8dO9sZ3f5ShsrpUA",
+          "width": "275",
+          "height": "183"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "news",
+          "flint",
+          "2020/05",
+          "voters-approve-genesee-..."
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:wBWTfEBENI0J:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/news/flint/2020/07/large-slates-of-candidates-run-in-primary-election-in-flint-genesee-davison-and-mt-morris-townships.html&sa=U&ved=2ahUKEwip2b7QjI3rAhWNvpQKHT6SDLk4PBAWMAJ6BAgIEAI&usg=AOvVaw3fQAv4DewCEMY2e6aIdzHO",
+      "content": "20 Jul 2020 \u003cb\u003e...\u003c/b\u003e Secretary of State Jocelyn Benson plans to mail every registered voter in the sate \nof Michigan an application to vote by mail in \u003cb\u003e2020 elections\u003c/b\u003e&nbsp;...",
+      "contentNoFormatting": "20 Jul 2020 ... Secretary of State Jocelyn Benson plans to mail every registered voter in the sate \nof Michigan an application to vote by mail in 2020 elections ...",
+      "title": "Large slates of candidates run in primary \u003cb\u003eelection\u003c/b\u003e in Flint, Genesee ...",
+      "titleNoFormatting": "Large slates of candidates run in primary election in Flint, Genesee ...",
+      "formattedUrl": "https://www.mlive.com/.../\u003cb\u003e2020\u003c/b\u003e/.../large-slates-of-candidates-run-in-primary- \u003cb\u003eelection\u003c/b\u003e-in-flint-genesee-davison-and-mt-morris-townships.html",
+      "unescapedUrl": "https://www.mlive.com/news/flint/2020/07/large-slates-of-candidates-run-in-primary-election-in-flint-genesee-davison-and-mt-morris-townships.html",
+      "url": "https://www.mlive.com/news/flint/2020/07/large-slates-of-candidates-run-in-primary-election-in-flint-genesee-davison-and-mt-morris-townships.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/5qlMtekt4zW7pDctsiU3ohpfhLE=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2BVA6GLZBNDPTE2H4XEG7DV7HI.jpg"
+        },
+        "metatags": {
+          "sailthruDescription": "Residents of Flint Township, Genesee Township, Davison Township and Mt. Morris Township will get to choose from a large number of candidates when voting in the upcoming primary. Here’s a look at who’s running in these Genesee County townships.",
+          "twitterTitle": "Large slates of candidates run in primary election in Flint, Genesee, Davison and Mt. Morris townships",
+          "ogImageWidth": "1280",
+          "sailthruTags": "flint,fl-river,fl-app,election-2020,township,genesee county,central michigan university,league of women voters",
+          "articleDateUpdated": "Tuesday, July 21, 2020, 10:32 AM",
+          "ogTitle": "Large slates of candidates run in primary election in Flint, Genesee, Davison and Mt. Morris townships",
+          "title": "Large slates of candidates run in primary election in Flint, Genesee, Davison and Mt. Morris townships",
+          "ogType": "article",
+          "articleTag": "fl-river,fl-app,@mlive-river,election-2020",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "milamurray",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Mila Murray | mmurray@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/news/flint/2020/07/large-slates-of-candidates-run-in-primary-election-in-flint-genesee-davison-and-mt-morris-townships.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2020-07-20T16:30:58.290Z",
+          "twitterImage": "https://www.mlive.com/resizer/5qlMtekt4zW7pDctsiU3ohpfhLE=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2BVA6GLZBNDPTE2H4XEG7DV7HI.jpg",
+          "sailthruDate": "Monday, July 20, 2020, 12:30 PM",
+          "ogDescription": "Residents of Flint Township, Genesee Township, Davison Township and Mt. Morris Township will get to choose from a large number of candidates when voting in the upcoming primary. Here’s a look at who’s running in these Genesee County townships.",
+          "ogImage": "https://www.mlive.com/resizer/5qlMtekt4zW7pDctsiU3ohpfhLE=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2BVA6GLZBNDPTE2H4XEG7DV7HI.jpg",
+          "sections": "news/flint",
+          "articleDateOriginal": "Monday, July 20, 2020, 12:30 PM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "Residents of Flint Township, Genesee Township, Davison Township and Mt. Morris Township will get to choose from a large number of candidates when voting in the upcoming primary. Here’s a look at who’s running in these Genesee County townships.",
+          "ogUrl": "https://www.mlive.com/news/flint/2020/07/large-slates-of-candidates-run-in-primary-election-in-flint-genesee-davison-and-mt-morris-townships.html",
+          "articleModifiedTime": "2020-07-21T14:32:53.676Z",
+          "articleSection": "Flint",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "Large slates of candidates run in primary election in Flint, Genesee, Davison and Mt. Morris townships",
+          "machineTags": "@mlive-river",
+          "articleAuthor": "Mila Murray | mmurray@mlive.com"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS_DlzKBN5XZ5oCt742_t2LcSezAIkDcA9TjbocwprWO-uo8zTVlvkFewI",
+          "width": "275",
+          "height": "183"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "news",
+          "flint",
+          "2020/07",
+          "large-slates-of-candidate..."
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:YmSPQC4bgV4J:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/news/kalamazoo/2020/01/kalamazoo-county-sheriff-launches-reelection-bid.html&sa=U&ved=2ahUKEwip2b7QjI3rAhWNvpQKHT6SDLk4PBAWMAN6BAgJEAI&usg=AOvVaw3AIy_IyP-kFcAgm1MJGyTP",
+      "content": "23 Jan 2020 \u003cb\u003e...\u003c/b\u003e ... Kalamazoo County Sheriff Richard Fuller plans to make it official and file his \ncampaign affidavit for the \u003cb\u003e2020 election\u003c/b\u003e early next week. Fuller&nbsp;...",
+      "contentNoFormatting": "23 Jan 2020 ... ... Kalamazoo County Sheriff Richard Fuller plans to make it official and file his \ncampaign affidavit for the 2020 election early next week. Fuller ...",
+      "title": "Kalamazoo County sheriff launches reelection bid - mlive.com",
+      "titleNoFormatting": "Kalamazoo County sheriff launches reelection bid - mlive.com",
+      "formattedUrl": "https://www.mlive.com/.../\u003cb\u003e2020\u003c/b\u003e/.../kalamazoo-county-sheriff-launches- re\u003cb\u003eelection\u003c/b\u003e-bid.html",
+      "unescapedUrl": "https://www.mlive.com/news/kalamazoo/2020/01/kalamazoo-county-sheriff-launches-reelection-bid.html",
+      "url": "https://www.mlive.com/news/kalamazoo/2020/01/kalamazoo-county-sheriff-launches-reelection-bid.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/tGEz63E5lHudOQSqxI51tK1hCFc=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/ZBILJVRSTNDHDKOVJAW4T6ESEE.JPG"
+        },
+        "metatags": {
+          "sailthruDescription": "Sheriff Richard Fuller, a Democrat, plans to run for fourth term this year.",
+          "twitterTitle": "Kalamazoo County sheriff launches reelection bid",
+          "ogImageWidth": "1280",
+          "sailthruTags": "kalamazoo,crime,kalamazoo-county,richard-fuller,election-kalamazoo,kalamazoo county,wisconsin,fox news",
+          "articleDateUpdated": "Thursday, January 23, 2020, 04:34 PM",
+          "ogTitle": "Kalamazoo County sheriff launches reelection bid",
+          "title": "Kalamazoo County sheriff launches reelection bid",
+          "ogType": "article",
+          "articleTag": "@kz-app,@kz-river,kalamazoo-county,richard-fuller,election-kalamazoo,kalamazoo-election,2020-election,election-2020",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "rboldrey",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Ryan Boldrey | rboldrey@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/news/kalamazoo/2020/01/kalamazoo-county-sheriff-launches-reelection-bid.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2020-01-23T21:22:29.315Z",
+          "twitterImage": "https://www.mlive.com/resizer/tGEz63E5lHudOQSqxI51tK1hCFc=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/ZBILJVRSTNDHDKOVJAW4T6ESEE.JPG",
+          "sailthruDate": "Thursday, January 23, 2020, 04:22 PM",
+          "ogDescription": "Sheriff Richard Fuller, a Democrat, plans to run for fourth term this year.",
+          "ogImage": "https://www.mlive.com/resizer/tGEz63E5lHudOQSqxI51tK1hCFc=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/ZBILJVRSTNDHDKOVJAW4T6ESEE.JPG",
+          "sections": "news/kalamazoo",
+          "articleDateOriginal": "Thursday, January 23, 2020, 04:22 PM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "Sheriff Richard Fuller, a Democrat, plans to run for fourth term this year.",
+          "ogUrl": "https://www.mlive.com/news/kalamazoo/2020/01/kalamazoo-county-sheriff-launches-reelection-bid.html",
+          "articleModifiedTime": "2020-01-23T21:34:11.806Z",
+          "articleSection": "Kalamazoo",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "Kalamazoo County sheriff launches reelection bid",
+          "machineTags": "@kz-app,@kz-river",
+          "articleAuthor": "Ryan Boldrey | rboldrey@mlive.com"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmbULC1PUoKdL6FGpNxkW5DnyDTxxhJe-u3LNJ94KCxtgHRGN9WdQ5OSU",
+          "width": "275",
+          "height": "183"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "kalamazoo-county-sheriff-launches-reelection-bid"
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:rF5LmDsJ0cIJ:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/news/flint/2020/08/genesee-sheriff-chris-swanson-leads-by-large-margin-in-august-primary-election.html&sa=U&ved=2ahUKEwip2b7QjI3rAhWNvpQKHT6SDLk4PBAWMAR6BAgGEAI&usg=AOvVaw01WKPPIwHG74DYlLU0xsDb",
+      "content": "3 days ago \u003cb\u003e...\u003c/b\u003e Robert Pickell won five \u003cb\u003eelections\u003c/b\u003e in a row for the position, with his first victory \ncoming in August 2000. After the sheriff retired in January \u003cb\u003e2020\u003c/b\u003e, the&nbsp;...",
+      "contentNoFormatting": "3 days ago ... Robert Pickell won five elections in a row for the position, with his first victory \ncoming in August 2000. After the sheriff retired in January 2020, the ...",
+      "title": "Genesee County Sheriff Chris Swanson leads by large margin in ...",
+      "titleNoFormatting": "Genesee County Sheriff Chris Swanson leads by large margin in ...",
+      "formattedUrl": "https://www.mlive.com/.../\u003cb\u003e2020\u003c/b\u003e/.../genesee-sheriff-chris-swanson-leads-by- large-margin-in-august-primary-\u003cb\u003eelection\u003c/b\u003e.html",
+      "unescapedUrl": "https://www.mlive.com/news/flint/2020/08/genesee-sheriff-chris-swanson-leads-by-large-margin-in-august-primary-election.html",
+      "url": "https://www.mlive.com/news/flint/2020/08/genesee-sheriff-chris-swanson-leads-by-large-margin-in-august-primary-election.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/4-7xO68itrxix7OCUMRYbdWn0qY=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/52CZX27PQ5EGNIRQV4HVKXJVPM.JPG"
+        },
+        "metatags": {
+          "sailthruDescription": "Swanson held a large lead with 76 percent of precincts counted.",
+          "twitterTitle": "Genesee County Sheriff Chris Swanson leads by large margin in August primary election",
+          "ogImageWidth": "1280",
+          "sailthruTags": "flint,david leyton,tim johnson,swanson,genesee county,saginaw,bay,people",
+          "articleDateUpdated": "Wednesday, August 05, 2020, 01:36 AM",
+          "ogTitle": "Genesee County Sheriff Chris Swanson leads by large margin in August primary election",
+          "title": "Genesee County Sheriff Chris Swanson leads by large margin in August primary election",
+          "ogType": "article",
+          "articleTag": "@fl-river",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "wkeefer",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Winter Keefer | wkeefer@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/news/flint/2020/08/genesee-sheriff-chris-swanson-leads-by-large-margin-in-august-primary-election.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2020-08-05T05:16:58.531Z",
+          "twitterImage": "https://www.mlive.com/resizer/4-7xO68itrxix7OCUMRYbdWn0qY=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/52CZX27PQ5EGNIRQV4HVKXJVPM.JPG",
+          "sailthruDate": "Wednesday, August 05, 2020, 01:16 AM",
+          "ogDescription": "Swanson held a large lead with 76 percent of precincts counted.",
+          "ogImage": "https://www.mlive.com/resizer/4-7xO68itrxix7OCUMRYbdWn0qY=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/52CZX27PQ5EGNIRQV4HVKXJVPM.JPG",
+          "sections": "news/flint,news",
+          "articleDateOriginal": "Wednesday, August 05, 2020, 01:16 AM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "Swanson held a large lead with 76 percent of precincts counted.",
+          "ogUrl": "https://www.mlive.com/news/flint/2020/08/genesee-sheriff-chris-swanson-leads-by-large-margin-in-august-primary-election.html",
+          "articleModifiedTime": "2020-08-05T05:36:55.099Z",
+          "articleSection": "Flint",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "Genesee County Sheriff Chris Swanson leads by large margin in August primary election",
+          "machineTags": "@fl-river",
+          "articleAuthor": "Winter Keefer | wkeefer@mlive.com"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSbSS6B3dPDTy_GA2c17WZJ2aCQQ08ihfGRMnpBc9LTptm1XLmDHoAMHm8",
+          "width": "275",
+          "height": "183"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "news",
+          "flint",
+          "2020/08",
+          "genesee-sheriff-chris-sw..."
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:MRkUE3N2fTkJ:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/news/ann-arbor/2020/07/three-candidates-seek-to-be-democratic-challenger-for-washtenaw-county-clerk.html&sa=U&ved=2ahUKEwip2b7QjI3rAhWNvpQKHT6SDLk4PBAWMAV6BAgDEAI&usg=AOvVaw11u2dJL4U8lExH7ab_43pg",
+      "content": "22 Jul 2020 \u003cb\u003e...\u003c/b\u003e The May \u003cb\u003e2020 election\u003c/b\u003e was held in 33 counties (not including ours) during the \nheight of the pandemic in Michigan. Everyone was apprehensive&nbsp;...",
+      "contentNoFormatting": "22 Jul 2020 ... The May 2020 election was held in 33 counties (not including ours) during the \nheight of the pandemic in Michigan. Everyone was apprehensive ...",
+      "title": "Three candidates seek to be Democratic challenger for Washtenaw ...",
+      "titleNoFormatting": "Three candidates seek to be Democratic challenger for Washtenaw ...",
+      "formattedUrl": "https://www.mlive.com/.../\u003cb\u003e2020\u003c/b\u003e/.../three-candidates-seek-to-be-democratic- challenger-for-washtenaw-county-clerk.html",
+      "unescapedUrl": "https://www.mlive.com/news/ann-arbor/2020/07/three-candidates-seek-to-be-democratic-challenger-for-washtenaw-county-clerk.html",
+      "url": "https://www.mlive.com/news/ann-arbor/2020/07/three-candidates-seek-to-be-democratic-challenger-for-washtenaw-county-clerk.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/oPrLcF8FnTOSCDPsDjbbzNmQKq0=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SZXKJN3EEVDOHHQ226RKTJ3WDQ.jpg"
+        },
+        "metatags": {
+          "sailthruDescription": "Pecola Lewis, Doristeen Taylor and incumbent Lawrence Kestenbaum are all vying to become the Democratic candidate for Washtenaw County clerk.",
+          "twitterTitle": "Three candidates seek to be Democratic challenger for Washtenaw County clerk",
+          "ogImageWidth": "1280",
+          "sailthruTags": "ann arbor,campaigns and campaign finance,election-2020,election-2020-a2,league of women voters,management,county,oregon",
+          "articleDateUpdated": "Wednesday, July 22, 2020, 02:30 PM",
+          "ogTitle": "Three candidates seek to be Democratic challenger for Washtenaw County clerk",
+          "title": "Three candidates seek to be Democratic challenger for Washtenaw County clerk",
+          "ogType": "article",
+          "articleTag": "@aa-app,@aa-river,@mlive-river,@mlive-app,election-2020,election-2020-a2",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "amullin",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Andrew Mullin | amullin@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/news/ann-arbor/2020/07/three-candidates-seek-to-be-democratic-challenger-for-washtenaw-county-clerk.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2020-07-22T18:30:00Z",
+          "twitterImage": "https://www.mlive.com/resizer/oPrLcF8FnTOSCDPsDjbbzNmQKq0=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SZXKJN3EEVDOHHQ226RKTJ3WDQ.jpg",
+          "sailthruDate": "Wednesday, July 22, 2020, 02:30 PM",
+          "ogDescription": "Pecola Lewis, Doristeen Taylor and incumbent Lawrence Kestenbaum are all vying to become the Democratic candidate for Washtenaw County clerk.",
+          "ogImage": "https://www.mlive.com/resizer/oPrLcF8FnTOSCDPsDjbbzNmQKq0=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SZXKJN3EEVDOHHQ226RKTJ3WDQ.jpg",
+          "sections": "news/ann-arbor,news,politics",
+          "articleDateOriginal": "Wednesday, July 22, 2020, 02:30 PM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "Pecola Lewis, Doristeen Taylor and incumbent Lawrence Kestenbaum are all vying to become the Democratic candidate for Washtenaw County clerk.",
+          "ogUrl": "https://www.mlive.com/news/ann-arbor/2020/07/three-candidates-seek-to-be-democratic-challenger-for-washtenaw-county-clerk.html",
+          "articleModifiedTime": "2020-07-22T18:30:00Z",
+          "articleSection": "Ann Arbor",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "Three candidates seek to be Democratic challenger for Washtenaw County clerk",
+          "machineTags": "@aa-app,@aa-river,@mlive-river,@mlive-app",
+          "articleAuthor": "Andrew Mullin | amullin@mlive.com"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRf98xtp_Yg8RJHxd290Uotr2Y8NjrXfdF4sM6Keuo6R_nXGoO5tiQ72KrS",
+          "width": "275",
+          "height": "183"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "news",
+          "ann-arbor",
+          "2020/07",
+          "three-candidates-se..."
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:Si57vMANo2sJ:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/public-interest/2020/01/midwest-universities-studying-trump-support-in-blue-wall-states-ahead-of-2020-election.html&sa=U&ved=2ahUKEwip2b7QjI3rAhWNvpQKHT6SDLk4PBAWMAZ6BAgCEAI&usg=AOvVaw04DVcDxVUT6xHwKWKJJhsm",
+      "content": "21 Jan 2020 \u003cb\u003e...\u003c/b\u003e Michigan, Pennsylvania and Wisconsin are viewed by pundits and the \npresidential campaigns as the most vital battlegrounds in the \u003cb\u003e2020 election\u003c/b\u003e&nbsp;...",
+      "contentNoFormatting": "21 Jan 2020 ... Michigan, Pennsylvania and Wisconsin are viewed by pundits and the \npresidential campaigns as the most vital battlegrounds in the 2020 election ...",
+      "title": "Midwest universities studying Trump support in &#39;blue wall&#39; states ...",
+      "titleNoFormatting": "Midwest universities studying Trump support in 'blue wall' states ...",
+      "formattedUrl": "https://www.mlive.com/.../\u003cb\u003e2020\u003c/b\u003e/.../midwest-universities-studying-trump- support-in-blue-wall-states-ahead-of-\u003cb\u003e2020\u003c/b\u003e-\u003cb\u003eelection\u003c/b\u003e.html",
+      "unescapedUrl": "https://www.mlive.com/public-interest/2020/01/midwest-universities-studying-trump-support-in-blue-wall-states-ahead-of-2020-election.html",
+      "url": "https://www.mlive.com/public-interest/2020/01/midwest-universities-studying-trump-support-in-blue-wall-states-ahead-of-2020-election.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/diGE3f-wpGcfostihGkx1OMukbQ=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/PDJJNY6A4VFQJPJJE7A57V6GFA.jpg"
+        },
+        "metatags": {
+          "sailthruDescription": "Michigan and Ohio universities are partnering to poll voters during the presidential campaign.",
+          "twitterTitle": "Midwest universities studying Trump support in ‘blue wall’ states ahead of 2020 election",
+          "ogImageWidth": "1280",
+          "sailthruTags": "public interest,race and ethnicity,campaigns and campaign finance,congressional elections,independent,presidential elections,impact,oakland university",
+          "articleDateUpdated": "Tuesday, January 21, 2020, 11:34 AM",
+          "ogTitle": "Midwest universities studying Trump support in ‘blue wall’ states ahead of 2020 election",
+          "title": "Midwest universities studying Trump support in ‘blue wall’ states ahead of 2020 election",
+          "ogType": "article",
+          "articleTag": "@mlive-river,@mlive-app,@jx-river,@sa-river,@kz-river,@fl-river,@aa-river,@gr-river,impact",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "mbarrett2",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Malachi Barrett | mbarret1@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/public-interest/2020/01/midwest-universities-studying-trump-support-in-blue-wall-states-ahead-of-2020-election.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2020-01-21T16:34:17.751Z",
+          "twitterImage": "https://www.mlive.com/resizer/diGE3f-wpGcfostihGkx1OMukbQ=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/PDJJNY6A4VFQJPJJE7A57V6GFA.jpg",
+          "sailthruDate": "Tuesday, January 21, 2020, 11:34 AM",
+          "ogDescription": "Michigan and Ohio universities are partnering to poll voters during the presidential campaign.",
+          "ogImage": "https://www.mlive.com/resizer/diGE3f-wpGcfostihGkx1OMukbQ=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/PDJJNY6A4VFQJPJJE7A57V6GFA.jpg",
+          "sections": "public-interest,politics,news/saginaw-bay-city,news/muskegon,news/kalamazoo,news/jackson,news/grand-rapids,news/flint,news/ann-arbor,news",
+          "articleDateOriginal": "Tuesday, January 21, 2020, 11:34 AM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "Michigan and Ohio universities are partnering to poll voters during the presidential campaign.",
+          "ogUrl": "https://www.mlive.com/public-interest/2020/01/midwest-universities-studying-trump-support-in-blue-wall-states-ahead-of-2020-election.html",
+          "articleModifiedTime": "2020-01-21T16:34:17.751Z",
+          "articleSection": "Public Interest",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "Midwest universities studying Trump support in ‘blue wall’ states ahead of 2020 election",
+          "machineTags": "@mlive-river,@mlive-app,@jx-river,@sa-river,@kz-river,@fl-river,@aa-river,@gr-river",
+          "articleAuthor": "https://www.facebook.com/malachi.barrett"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQshUP0SeTAK9CRzMwKuSpYg3S-vquStnmTH0tps7kVePvZrbJCmQPLAK0",
+          "width": "275",
+          "height": "183"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "public-interest",
+          "2020/01",
+          "midwest-universities-s..."
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:aZR5_WKmtyUJ:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/coronavirus/2020/06/michigans-absentee-voting-push-wont-cause-mass-election-fraud-election-experts-say.html&sa=U&ved=2ahUKEwip2b7QjI3rAhWNvpQKHT6SDLk4PBAWMAd6BAgBEAI&usg=AOvVaw1PiI89V6ezp0cNAGakjbva",
+      "content": "4 Jun 2020 \u003cb\u003e...\u003c/b\u003e Secretary of State Jocelyn Benson plans to mail every registered voter in the sate \nof Michigan an application to vote by mail in \u003cb\u003e2020 elections\u003c/b\u003e&nbsp;...",
+      "contentNoFormatting": "4 Jun 2020 ... Secretary of State Jocelyn Benson plans to mail every registered voter in the sate \nof Michigan an application to vote by mail in 2020 elections ...",
+      "title": "Michigan&#39;s absentee voting push won&#39;t cause mass \u003cb\u003eelection\u003c/b\u003e fraud ...",
+      "titleNoFormatting": "Michigan's absentee voting push won't cause mass election fraud ...",
+      "formattedUrl": "https://www.mlive.com/.../\u003cb\u003e2020\u003c/b\u003e/.../michigans-absentee-voting-push-wont- cause-mass-\u003cb\u003eelection\u003c/b\u003e-fraud-\u003cb\u003eelection\u003c/b\u003e-experts-say.html",
+      "unescapedUrl": "https://www.mlive.com/coronavirus/2020/06/michigans-absentee-voting-push-wont-cause-mass-election-fraud-election-experts-say.html",
+      "url": "https://www.mlive.com/coronavirus/2020/06/michigans-absentee-voting-push-wont-cause-mass-election-fraud-election-experts-say.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/5qlMtekt4zW7pDctsiU3ohpfhLE=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2BVA6GLZBNDPTE2H4XEG7DV7HI.jpg"
+        },
+        "metatags": {
+          "sailthruDescription": "Voting by mail is promoted as a safer option for elections during the COVID-19 pandemic.",
+          "twitterTitle": "Michigan’s absentee voting push won’t cause mass election fraud, election experts say",
+          "ogImageWidth": "1280",
+          "sailthruTags": "coronavirus,presidential elections,impact,covid-enterprise,election,roebuck,manville,jennifer granholm",
+          "articleDateUpdated": "Thursday, June 04, 2020, 11:27 AM",
+          "ogTitle": "Michigan’s absentee voting push won’t cause mass election fraud, election experts say",
+          "title": "Michigan’s absentee voting push won’t cause mass election fraud, election experts say",
+          "ogType": "article",
+          "articleTag": "@MI-coronavirus,impact,@mlive-river,@mlive-app,@jx-river,@sa-river,@fl-river,@gr-river,@aa-river,@kz-river,covid-enterprise,@subscriberexclusive",
+          "subscriberOnly": "true",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "mbarrett2",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Malachi Barrett | mbarret1@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/coronavirus/2020/06/michigans-absentee-voting-push-wont-cause-mass-election-fraud-election-experts-say.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2020-06-04T12:00:07.966Z",
+          "twitterImage": "https://www.mlive.com/resizer/5qlMtekt4zW7pDctsiU3ohpfhLE=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2BVA6GLZBNDPTE2H4XEG7DV7HI.jpg",
+          "sailthruDate": "Thursday, June 04, 2020, 08:00 AM",
+          "ogDescription": "Voting by mail is promoted as a safer option for elections during the COVID-19 pandemic.",
+          "ogImage": "https://www.mlive.com/resizer/5qlMtekt4zW7pDctsiU3ohpfhLE=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2BVA6GLZBNDPTE2H4XEG7DV7HI.jpg",
+          "sections": "coronavirus,public-interest,prom,politics,news/saginaw-bay-city,news/muskegon,news/kalamazoo,news/jackson,news/grand-rapids,news/flint,news/ann-arbor,news",
+          "articleDateOriginal": "Thursday, June 04, 2020, 08:00 AM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "Voting by mail is promoted as a safer option for elections during the COVID-19 pandemic.",
+          "ogUrl": "https://www.mlive.com/coronavirus/2020/06/michigans-absentee-voting-push-wont-cause-mass-election-fraud-election-experts-say.html",
+          "articleModifiedTime": "2020-06-04T15:27:40.873Z",
+          "articleSection": "Coronavirus",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "Michigan’s absentee voting push won’t cause mass election fraud, election experts say",
+          "machineTags": "@MI-coronavirus,@mlive-river,@mlive-app,@jx-river,@sa-river,@fl-river,@gr-river,@aa-river,@kz-river,@subscriberexclusive",
+          "articleAuthor": "https://www.facebook.com/malachi.barrett"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS_DlzKBN5XZ5oCt742_t2LcSezAIkDcA9TjbocwprWO-uo8zTVlvkFewI",
+          "width": "275",
+          "height": "183"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "coronavirus",
+          "2020/06",
+          "michigans-absentee-voti..."
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:Ow_cexodgFcJ:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/public-interest/2020/01/economists-optimistic-about-michigans-future-as-2020-election-looms.html&sa=U&ved=2ahUKEwip2b7QjI3rAhWNvpQKHT6SDLk4PBAWMAh6BAgEEAI&usg=AOvVaw3Zy6Ta8KPHjgcIbFmQo8JK",
+      "content": "9 Jan 2020 \u003cb\u003e...\u003c/b\u003e ... in \u003cb\u003e2020\u003c/b\u003e possibly giving President Donald Trump reasons to laud his impact on \nthe battleground state&#39;s economy during an \u003cb\u003eelection\u003c/b\u003e year.",
+      "contentNoFormatting": "9 Jan 2020 ... ... in 2020 possibly giving President Donald Trump reasons to laud his impact on \nthe battleground state's economy during an election year.",
+      "title": "Economists optimistic about Michigan&#39;s future as \u003cb\u003e2020 election\u003c/b\u003e looms",
+      "titleNoFormatting": "Economists optimistic about Michigan's future as 2020 election looms",
+      "formattedUrl": "https://www.mlive.com/.../\u003cb\u003e2020\u003c/b\u003e/.../economists-optimistic-about-michigans- future-as-\u003cb\u003e2020\u003c/b\u003e-\u003cb\u003eelection\u003c/b\u003e-looms.html",
+      "unescapedUrl": "https://www.mlive.com/public-interest/2020/01/economists-optimistic-about-michigans-future-as-2020-election-looms.html",
+      "url": "https://www.mlive.com/public-interest/2020/01/economists-optimistic-about-michigans-future-as-2020-election-looms.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/8LuyMzcsfa_YUjyvUUKLkWUDHGc=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/PZPEPGEWTJDHZBZFU57EOJAHUM.jpg"
+        },
+        "metatags": {
+          "sailthruDescription": "President Donald Trump's 2020 re-election campaign is focused on Michigan's economic growth.",
+          "twitterTitle": "Economists optimistic about Michigan’s future as 2020 election looms",
+          "ogImageWidth": "1280",
+          "sailthruTags": "public interest,labor,economy,communities and subcultures,impact,michigan chamber of commerce,michigan,national association for business economics",
+          "articleDateUpdated": "Thursday, January 09, 2020, 03:04 PM",
+          "ogTitle": "Economists optimistic about Michigan’s future as 2020 election looms",
+          "title": "Economists optimistic about Michigan’s future as 2020 election looms",
+          "ogType": "article",
+          "articleTag": "@mlive-river,@mlive-app,@jx-river,@sa-river,@kz-river,@fl-river,@aa-river,@gr-river,impact",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "mbarrett2",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Malachi Barrett | mbarret1@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/public-interest/2020/01/economists-optimistic-about-michigans-future-as-2020-election-looms.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2020-01-09T20:00:24.072Z",
+          "twitterImage": "https://www.mlive.com/resizer/8LuyMzcsfa_YUjyvUUKLkWUDHGc=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/PZPEPGEWTJDHZBZFU57EOJAHUM.jpg",
+          "sailthruDate": "Thursday, January 09, 2020, 03:00 PM",
+          "ogDescription": "President Donald Trump's 2020 re-election campaign is focused on Michigan's economic growth.",
+          "ogImage": "https://www.mlive.com/resizer/8LuyMzcsfa_YUjyvUUKLkWUDHGc=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/PZPEPGEWTJDHZBZFU57EOJAHUM.jpg",
+          "sections": "public-interest,politics,news/saginaw-bay-city,news/muskegon,news/kalamazoo,news/jackson,news/grand-rapids,news/flint,news/ann-arbor,news",
+          "articleDateOriginal": "Thursday, January 09, 2020, 03:00 PM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "President Donald Trump's 2020 re-election campaign is focused on Michigan's economic growth.",
+          "ogUrl": "https://www.mlive.com/public-interest/2020/01/economists-optimistic-about-michigans-future-as-2020-election-looms.html",
+          "articleModifiedTime": "2020-01-09T20:04:10.200Z",
+          "articleSection": "Public Interest",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "Economists optimistic about Michigan’s future as 2020 election looms",
+          "machineTags": "@mlive-river,@mlive-app,@jx-river,@sa-river,@kz-river,@fl-river,@aa-river,@gr-river",
+          "articleAuthor": "https://www.facebook.com/malachi.barrett"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSKK_L-ABviIIUlyzmN4Lx1NC6x9TQnXA4LnVGTAOo9DgASt5RQ6WHnhLpg",
+          "width": "275",
+          "height": "183"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "public-interest",
+          "2020/01",
+          "economists-optimistic..."
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:E2bWOjidqokJ:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/public-interest/2020/05/how-michigans-may-5-election-will-look-amid-the-coronavirus-pandemic.html&sa=U&ved=2ahUKEwip2b7QjI3rAhWNvpQKHT6SDLk4PBAWMAl6BAgFEAI&usg=AOvVaw2HWZSvu4XHHQEfiiqgZmcT",
+      "content": "1 May 2020 \u003cb\u003e...\u003c/b\u003e Primary \u003cb\u003eElection\u003c/b\u003e Day in Michigan - March 10, \u003cb\u003e2020\u003c/b\u003e. Voters leave after casting \nballots on Tuesday, March 10, \u003cb\u003e2020\u003c/b\u003e at Haskell Community&nbsp;...",
+      "contentNoFormatting": "1 May 2020 ... Primary Election Day in Michigan - March 10, 2020. Voters leave after casting \nballots on Tuesday, March 10, 2020 at Haskell Community ...",
+      "title": "How Michigan&#39;s May 5 \u003cb\u003eelection\u003c/b\u003e will look amid the coronavirus ...",
+      "titleNoFormatting": "How Michigan's May 5 election will look amid the coronavirus ...",
+      "formattedUrl": "https://www.mlive.com/.../\u003cb\u003e2020\u003c/b\u003e/.../how-michigans-may-5-\u003cb\u003eelection\u003c/b\u003e-will-look- amid-the-coronavirus-pandemic.html",
+      "unescapedUrl": "https://www.mlive.com/public-interest/2020/05/how-michigans-may-5-election-will-look-amid-the-coronavirus-pandemic.html",
+      "url": "https://www.mlive.com/public-interest/2020/05/how-michigans-may-5-election-will-look-amid-the-coronavirus-pandemic.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/hjsIvS3vAHSLXSorwDx9QH7kZsI=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/5PGLIWTG25DAJIHSPYB25W2TNA.JPG"
+        },
+        "metatags": {
+          "sailthruDescription": "As a result of the coronavirus, Michigan clerks are expecting record levels of absentee voting, a trend that may continue well after the pandemic subsides.",
+          "twitterTitle": "How Michigan’s May 5 election will look amid the coronavirus pandemic",
+          "ogImageWidth": "1280",
+          "sailthruTags": "public interest,presidential elections,campaigns and campaign finance,affiliate-links,covid-enterprise,saginaw county,voter,genesee county",
+          "articleDateUpdated": "Friday, May 01, 2020, 08:00 AM",
+          "ogTitle": "How Michigan’s May 5 election will look amid the coronavirus pandemic",
+          "title": "How Michigan’s May 5 election will look amid the coronavirus pandemic",
+          "ogType": "article",
+          "articleTag": "@mlive-river,affiliate-links,@aa-river,@fl-river,@sa-river,@jx-river,@gr-river,@mu-river,@kz-river,covid-enterprise,@MI-coronavirus",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "gburns",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Gus Burns | fburns@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/public-interest/2020/05/how-michigans-may-5-election-will-look-amid-the-coronavirus-pandemic.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2020-05-01T12:00:05.166Z",
+          "twitterImage": "https://www.mlive.com/resizer/hjsIvS3vAHSLXSorwDx9QH7kZsI=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/5PGLIWTG25DAJIHSPYB25W2TNA.JPG",
+          "sailthruDate": "Friday, May 01, 2020, 08:00 AM",
+          "ogDescription": "As a result of the coronavirus, Michigan clerks are expecting record levels of absentee voting, a trend that may continue well after the pandemic subsides.",
+          "ogImage": "https://www.mlive.com/resizer/hjsIvS3vAHSLXSorwDx9QH7kZsI=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/5PGLIWTG25DAJIHSPYB25W2TNA.JPG",
+          "sections": "public-interest,politics,news/saginaw-bay-city,news/muskegon,news/kalamazoo,news/jackson,news/grand-rapids,news/flint,news/ann-arbor,news,coronavirus",
+          "articleDateOriginal": "Friday, May 01, 2020, 08:00 AM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "As a result of the coronavirus, Michigan clerks are expecting record levels of absentee voting, a trend that may continue well after the pandemic subsides.",
+          "ogUrl": "https://www.mlive.com/public-interest/2020/05/how-michigans-may-5-election-will-look-amid-the-coronavirus-pandemic.html",
+          "articleModifiedTime": "2020-05-01T12:00:05.166Z",
+          "articleSection": "Public Interest",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "How Michigan’s May 5 election will look amid the coronavirus pandemic",
+          "machineTags": "@mlive-river,@aa-river,@fl-river,@sa-river,@jx-river,@gr-river,@mu-river,@kz-river,@MI-coronavirus",
+          "articleAuthor": "Gus Burns | fburns@mlive.com"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr8atztio4nmsEARsWGmMjucaswXn_f2z2X2SzsWU336Ry9wDcesYkHnri",
+          "width": "275",
+          "height": "183"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "public-interest",
+          "2020/05",
+          "how-michigans-may-..."
+        ]
+      }
+    }
+  ],
+  "findMoreOnGoogle": {
+    "url": "https://www.google.com/search?client=ms-google-coop&q=2020+election&cx=017476104391584697148:yfiniwqwjp4"
+  }
+});

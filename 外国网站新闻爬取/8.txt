@@ -1,0 +1,717 @@
+/*O_o*/
+google.search.cse.api2105({
+  "cursor": {
+    "currentPageIndex": 8,
+    "estimatedResultCount": "1500000",
+    "moreResultsUrl": "http://www.google.com/cse?oe=utf8&ie=utf8&source=uds&q=2020+election&safe=off&start=80&sort=&cx=017476104391584697148:yfiniwqwjp4",
+    "resultCount": "1,500,000",
+    "searchResultTime": "0.29",
+    "pages": [
+      {
+        "label": 1,
+        "start": "0"
+      },
+      {
+        "label": 2,
+        "start": "10"
+      },
+      {
+        "label": 3,
+        "start": "20"
+      },
+      {
+        "label": 4,
+        "start": "30"
+      },
+      {
+        "label": 5,
+        "start": "40"
+      },
+      {
+        "label": 6,
+        "start": "50"
+      },
+      {
+        "label": 7,
+        "start": "60"
+      },
+      {
+        "label": 8,
+        "start": "70"
+      },
+      {
+        "label": 9,
+        "start": "80"
+      },
+      {
+        "label": 10,
+        "start": "90"
+      }
+    ]
+  },
+  "context": {
+    "title": "*.mlive.com",
+    "total_results": "0"
+  },
+  "results": [
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:7M4dOxm49J0J:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/news/saginaw-bay-city/2020/07/here-is-what-is-on-the-aug-4-primary-ballot-in-saginaw-county.html&sa=U&ved=2ahUKEwiR3ZXTjI3rAhVIxYsBHboKBUs4UBAWMAB6BAgDEAI&usg=AOvVaw0ayMiPmC23H_c2mE8mu3Gu",
+      "content": "31 Jul 2020 \u003cb\u003e...\u003c/b\u003e Applications to \u003cb\u003evote\u003c/b\u003e lie on a table at the Pere Marquette Depot in Bay City on \nTuesday, March 10, \u003cb\u003e2020\u003c/b\u003e.Kaytie Boomer | MLive.com.",
+      "contentNoFormatting": "31 Jul 2020 ... Applications to vote lie on a table at the Pere Marquette Depot in Bay City on \nTuesday, March 10, 2020.Kaytie Boomer | MLive.com.",
+      "title": "Here is what is on the Aug. 4 primary ballot in Saginaw County ...",
+      "titleNoFormatting": "Here is what is on the Aug. 4 primary ballot in Saginaw County ...",
+      "formattedUrl": "https://www.mlive.com/.../\u003cb\u003e2020\u003c/b\u003e/.../here-is-what-is-on-the-aug-4-primary- ballot-in-saginaw-county.html",
+      "unescapedUrl": "https://www.mlive.com/news/saginaw-bay-city/2020/07/here-is-what-is-on-the-aug-4-primary-ballot-in-saginaw-county.html",
+      "url": "https://www.mlive.com/news/saginaw-bay-city/2020/07/here-is-what-is-on-the-aug-4-primary-ballot-in-saginaw-county.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/5Z9rgk_qS1_QzAbCDn0CayS5QT8=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GKJ72NENBNBCZFW246P6JRG4UA.JPG"
+        },
+        "metatags": {
+          "sailthruDescription": "Voters in Saginaw County will see tax proposals for the Castle Museum of Saginaw County and Saginaw County Sheriff’s Office as well as more local issues.",
+          "twitterTitle": "Here is what is on the Aug. 4 primary ballot in Saginaw County",
+          "ogImageWidth": "1280",
+          "sailthruTags": "saginaw and bay city news,local governments,state and local elections,campaigns and campaign finance,election-2020,election,kevin stevens,buena vista",
+          "articleDateUpdated": "Friday, July 31, 2020, 10:22 AM",
+          "ogTitle": "Here is what is on the Aug. 4 primary ballot in Saginaw County",
+          "title": "Here is what is on the Aug. 4 primary ballot in Saginaw County",
+          "ogType": "article",
+          "articleTag": "@sa-app,@sa-news,@sa-river,@bc-river,election-2020",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "isimpson",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Isis Simpson-Mersha | isimpson@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/news/saginaw-bay-city/2020/07/here-is-what-is-on-the-aug-4-primary-ballot-in-saginaw-county.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2020-07-31T14:22:25.113Z",
+          "twitterImage": "https://www.mlive.com/resizer/5Z9rgk_qS1_QzAbCDn0CayS5QT8=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GKJ72NENBNBCZFW246P6JRG4UA.JPG",
+          "sailthruDate": "Friday, July 31, 2020, 10:22 AM",
+          "ogDescription": "Voters in Saginaw County will see tax proposals for the Castle Museum of Saginaw County and Saginaw County Sheriff’s Office as well as more local issues.",
+          "ogImage": "https://www.mlive.com/resizer/5Z9rgk_qS1_QzAbCDn0CayS5QT8=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GKJ72NENBNBCZFW246P6JRG4UA.JPG",
+          "sections": "news/saginaw-bay-city",
+          "articleDateOriginal": "Friday, July 31, 2020, 10:22 AM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "Voters in Saginaw County will see tax proposals for the Castle Museum of Saginaw County and Saginaw County Sheriff’s Office as well as more local issues.",
+          "ogUrl": "https://www.mlive.com/news/saginaw-bay-city/2020/07/here-is-what-is-on-the-aug-4-primary-ballot-in-saginaw-county.html",
+          "articleModifiedTime": "2020-07-31T14:22:25.113Z",
+          "articleSection": "Saginaw and Bay City News",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "Here is what is on the Aug. 4 primary ballot in Saginaw County",
+          "machineTags": "@sa-app,@sa-news,@sa-river,@bc-river",
+          "articleAuthor": "https://www.facebook.com/isis.simpson.31"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS4_a-DpJnzbFbylv6Ot15geJ4ZTDgLg9SoxxMn3kryuS_wC3lAdC5NcEE",
+          "width": "275",
+          "height": "183"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "news",
+          "saginaw-bay-city",
+          "2020/07",
+          "here-is-wha..."
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:JflvCq92Km8J:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/news/kalamazoo/2020/05/see-whats-on-kalamazoo-area-ballots-for-the-may-5-election.html&sa=U&ved=2ahUKEwiR3ZXTjI3rAhVIxYsBHboKBUs4UBAWMAF6BAgJEAI&usg=AOvVaw3SULjT4PwQdqNYQ0jUnvwB",
+      "content": "2 May 2020 \u003cb\u003e...\u003c/b\u003e People wait in line to \u003cb\u003evote\u003c/b\u003e absentee or register to \u003cb\u003evote\u003c/b\u003e at City Hall in Kalamazoo, \nMichigan on Tuesday, March 10, \u003cb\u003e2020\u003c/b\u003e. The line at City Hall&nbsp;...",
+      "contentNoFormatting": "2 May 2020 ... People wait in line to vote absentee or register to vote at City Hall in Kalamazoo, \nMichigan on Tuesday, March 10, 2020. The line at City Hall ...",
+      "title": "See what&#39;s on Kalamazoo-area ballots for the May 5 \u003cb\u003eelection\u003c/b\u003e - mlive ...",
+      "titleNoFormatting": "See what's on Kalamazoo-area ballots for the May 5 election - mlive ...",
+      "formattedUrl": "https://www.mlive.com/.../\u003cb\u003e2020\u003c/b\u003e/.../see-whats-on-kalamazoo-area-ballots-for- the-may-5-\u003cb\u003eelection\u003c/b\u003e.html",
+      "unescapedUrl": "https://www.mlive.com/news/kalamazoo/2020/05/see-whats-on-kalamazoo-area-ballots-for-the-may-5-election.html",
+      "url": "https://www.mlive.com/news/kalamazoo/2020/05/see-whats-on-kalamazoo-area-ballots-for-the-may-5-election.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/vEWIFpghEUYqX9ol_iNA63rHEHM=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/H53MR3OXJZFVVPJV2RIFWOP5BM.JPG"
+        },
+        "metatags": {
+          "sailthruDescription": "For anyone who missed the deadline to mail their ballots, there’s still opportunity to vote.",
+          "twitterTitle": "See what’s on Kalamazoo-area ballots for the May 5 election",
+          "ogImageWidth": "1280",
+          "sailthruTags": "kalamazoo,communities and subcultures,kalamazoo-election,election-kalamazoo,ross township,vicksburg,kalamazoo county,schools",
+          "articleDateUpdated": "Saturday, May 02, 2020, 07:27 AM",
+          "ogTitle": "See what’s on Kalamazoo-area ballots for the May 5 election",
+          "title": "See what’s on Kalamazoo-area ballots for the May 5 election",
+          "ogType": "article",
+          "articleTag": "@kz-river,@kz-app,kalamazoo-election,election-kalamazoo",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "kmille17",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Kayla Miller | kmille17@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/news/kalamazoo/2020/05/see-whats-on-kalamazoo-area-ballots-for-the-may-5-election.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2020-05-02T11:27:00.273Z",
+          "twitterImage": "https://www.mlive.com/resizer/vEWIFpghEUYqX9ol_iNA63rHEHM=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/H53MR3OXJZFVVPJV2RIFWOP5BM.JPG",
+          "sailthruDate": "Saturday, May 02, 2020, 07:27 AM",
+          "ogDescription": "For anyone who missed the deadline to mail their ballots, there’s still opportunity to vote.",
+          "ogImage": "https://www.mlive.com/resizer/vEWIFpghEUYqX9ol_iNA63rHEHM=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/H53MR3OXJZFVVPJV2RIFWOP5BM.JPG",
+          "sections": "news/kalamazoo",
+          "articleDateOriginal": "Saturday, May 02, 2020, 07:27 AM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "For anyone who missed the deadline to mail their ballots, there’s still opportunity to vote.",
+          "ogUrl": "https://www.mlive.com/news/kalamazoo/2020/05/see-whats-on-kalamazoo-area-ballots-for-the-may-5-election.html",
+          "articleModifiedTime": "2020-05-02T11:27:00.273Z",
+          "articleSection": "Kalamazoo",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "See what’s on Kalamazoo-area ballots for the May 5 election",
+          "machineTags": "@kz-river,@kz-app",
+          "articleAuthor": "Kayla Miller | kmille17@mlive.com"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ4ZNM02zDGMfDpIAhDYWr0NGNPLuSdy-t1Bttt75pTQXHhQMP7wJ301s",
+          "width": "275",
+          "height": "183"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "news",
+          "kalamazoo",
+          "2020/05",
+          "see-whats-on-kala..."
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:6qBQ-nUzEzIJ:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/public-interest/2020/04/michigans-may-5-elections-are-still-on-but-some-want-them-postponed-due-to-coronavirus-concerns.html&sa=U&ved=2ahUKEwiR3ZXTjI3rAhVIxYsBHboKBUs4UBAWMAJ6BAgHEAI&usg=AOvVaw3-GqNPVRCwlicDFOJBexbA",
+      "content": "3 Apr 2020 \u003cb\u003e...\u003c/b\u003e Updated Apr 03, \u003cb\u003e2020\u003c/b\u003e; Posted Apr 03, \u003cb\u003e2020\u003c/b\u003e ... Michigan voters who with a single \nmark can \u003cb\u003evote\u003c/b\u003e Democratic or Republican for every partisan&nbsp;...",
+      "contentNoFormatting": "3 Apr 2020 ... Updated Apr 03, 2020; Posted Apr 03, 2020 ... Michigan voters who with a single \nmark can vote Democratic or Republican for every partisan ...",
+      "title": "Michigan&#39;s May 5 \u003cb\u003eelections\u003c/b\u003e are still on, but some want them ...",
+      "titleNoFormatting": "Michigan's May 5 elections are still on, but some want them ...",
+      "formattedUrl": "https://www.mlive.com/.../\u003cb\u003e2020\u003c/b\u003e/.../michigans-may-5-\u003cb\u003eelections\u003c/b\u003e-are-still-on-but -some-want-them-postponed-due-to-coronavirus-concerns.html",
+      "unescapedUrl": "https://www.mlive.com/public-interest/2020/04/michigans-may-5-elections-are-still-on-but-some-want-them-postponed-due-to-coronavirus-concerns.html",
+      "url": "https://www.mlive.com/public-interest/2020/04/michigans-may-5-elections-are-still-on-but-some-want-them-postponed-due-to-coronavirus-concerns.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/5FZxBqJRcLKcxuXtT6PUrD4lxK0=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/SABSKRXC25AYPFPNOTU6TO275M.jpg"
+        },
+        "metatags": {
+          "sailthruDescription": "With COVID-19 continuing to spread in Michigan, voters are being encouraged to cast their ballots absentee in upcoming May elections.",
+          "twitterTitle": "Michigan’s May 5 elections are still on, but some want them postponed due to coronavirus concerns",
+          "ogImageWidth": "1280",
+          "sailthruTags": "public interest,impact,affiliate-links,ruth johnson,kalamazoo county,gretchen whitmer,election,safety",
+          "articleDateUpdated": "Friday, April 03, 2020, 09:39 PM",
+          "ogTitle": "Michigan’s May 5 elections are still on, but some want them postponed due to coronavirus concerns",
+          "title": "Michigan’s May 5 elections are still on, but some want them postponed due to coronavirus concerns",
+          "ogType": "article",
+          "articleTag": "@mlive-river,@aa-river,@gr-river,@fl-river,@sa-river,@kz-river,@jx-river,impact,@MI-coronavirus,affiliate-links",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "LaurenGibbons",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Lauren Gibbons | lgibbon2@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/public-interest/2020/04/michigans-may-5-elections-are-still-on-but-some-want-them-postponed-due-to-coronavirus-concerns.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2020-04-04T00:52:17.907Z",
+          "twitterImage": "https://www.mlive.com/resizer/5FZxBqJRcLKcxuXtT6PUrD4lxK0=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/SABSKRXC25AYPFPNOTU6TO275M.jpg",
+          "sailthruDate": "Friday, April 03, 2020, 08:52 PM",
+          "ogDescription": "With COVID-19 continuing to spread in Michigan, voters are being encouraged to cast their ballots absentee in upcoming May elections.",
+          "ogImage": "https://www.mlive.com/resizer/5FZxBqJRcLKcxuXtT6PUrD4lxK0=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/SABSKRXC25AYPFPNOTU6TO275M.jpg",
+          "sections": "news,news/ann-arbor,news/flint,news/grand-rapids,news/jackson,news/kalamazoo,news/muskegon,news/saginaw-bay-city,politics,public-interest,coronavirus",
+          "articleDateOriginal": "Friday, April 03, 2020, 08:52 PM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "With COVID-19 continuing to spread in Michigan, voters are being encouraged to cast their ballots absentee in upcoming May elections.",
+          "ogUrl": "https://www.mlive.com/public-interest/2020/04/michigans-may-5-elections-are-still-on-but-some-want-them-postponed-due-to-coronavirus-concerns.html",
+          "articleModifiedTime": "2020-04-04T01:39:21.928Z",
+          "articleSection": "Public Interest",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "Michigan’s May 5 elections are still on, but some want them postponed due to coronavirus concerns",
+          "machineTags": "@mlive-river,@aa-river,@gr-river,@fl-river,@sa-river,@kz-river,@jx-river,@MI-coronavirus",
+          "articleAuthor": "Lauren Gibbons | lgibbon2@mlive.com"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQyhxADdMROE39bOIL6Mz0JVKKoHHqJkIQnsgrtRbrZCc8zXbxrXZROVMM",
+          "width": "288",
+          "height": "175"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "public-interest",
+          "2020/04",
+          "michigans-may-5-elec..."
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:0TFVJlEx0xEJ:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/news/grand-rapids/2020/08/posthumus-leading-in-73rd-district-state-house-republican-primary.html&sa=U&ved=2ahUKEwiR3ZXTjI3rAhVIxYsBHboKBUs4UBAWMAN6BAgIEAI&usg=AOvVaw0BOgxMwUO4z2z1skhkB8dX",
+      "content": "3 days ago \u003cb\u003e...\u003c/b\u003e Grand Rapids votes in \u003cb\u003e2020\u003c/b\u003e primary \u003cb\u003eelection\u003c/b\u003e. &quot;I voted&quot; stickers at the Oakdale \nPark Christian Reformed Church voting precinct in Grand Rapids&nbsp;...",
+      "contentNoFormatting": "3 days ago ... Grand Rapids votes in 2020 primary election. \"I voted\" stickers at the Oakdale \nPark Christian Reformed Church voting precinct in Grand Rapids ...",
+      "title": "Posthumus wins 73rd District state House Republican primary ...",
+      "titleNoFormatting": "Posthumus wins 73rd District state House Republican primary ...",
+      "formattedUrl": "https://www.mlive.com/.../\u003cb\u003e2020\u003c/b\u003e/.../posthumus-leading-in-73rd-district-state- house-republican-primary.html",
+      "unescapedUrl": "https://www.mlive.com/news/grand-rapids/2020/08/posthumus-leading-in-73rd-district-state-house-republican-primary.html",
+      "url": "https://www.mlive.com/news/grand-rapids/2020/08/posthumus-leading-in-73rd-district-state-house-republican-primary.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/xyuPx3eOZuqZbS--Vp17n7A_vfA=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5V3WPDI4S5DRNFE3GOFNKC3Y4Q.jpg"
+        },
+        "metatags": {
+          "sailthruDescription": "The farmer and small businessman had 6,525 with 33 of 42 precincts reporting.",
+          "twitterTitle": "Posthumus wins 73rd District state House Republican primary",
+          "ogImageWidth": "1280",
+          "sailthruTags": "grand rapids,election-2020,courtland,nelson,kent county,plainfield,justin amash,spencer",
+          "articleDateUpdated": "Wednesday, August 05, 2020, 08:06 AM",
+          "ogTitle": "Posthumus wins 73rd District state House Republican primary",
+          "title": "Posthumus wins 73rd District state House Republican primary",
+          "ogType": "article",
+          "articleTag": "@gr-river,@mlive-river,@gr-app,@mlive-app,election-2020",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "brianmcvicar",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Brian McVicar | bmcvicar@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/news/grand-rapids/2020/08/posthumus-leading-in-73rd-district-state-house-republican-primary.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2020-08-05T05:52:16.019Z",
+          "twitterImage": "https://www.mlive.com/resizer/xyuPx3eOZuqZbS--Vp17n7A_vfA=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5V3WPDI4S5DRNFE3GOFNKC3Y4Q.jpg",
+          "sailthruDate": "Wednesday, August 05, 2020, 01:52 AM",
+          "ogDescription": "The farmer and small businessman had 6,525 with 33 of 42 precincts reporting.",
+          "ogImage": "https://www.mlive.com/resizer/xyuPx3eOZuqZbS--Vp17n7A_vfA=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5V3WPDI4S5DRNFE3GOFNKC3Y4Q.jpg",
+          "sections": "news,news/grand-rapids,politics",
+          "articleDateOriginal": "Wednesday, August 05, 2020, 01:52 AM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "The farmer and small businessman had 6,525 with 33 of 42 precincts reporting.",
+          "ogUrl": "https://www.mlive.com/news/grand-rapids/2020/08/posthumus-leading-in-73rd-district-state-house-republican-primary.html",
+          "articleModifiedTime": "2020-08-05T12:06:24.187Z",
+          "articleSection": "Grand Rapids",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "Posthumus wins 73rd District state House Republican primary",
+          "machineTags": "@gr-river,@mlive-river,@gr-app,@mlive-app",
+          "articleAuthor": "Brian Mcvicar | bmcvicar@mlive.com"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG_W30du1JkLaQpmdK7ZIgsfvsk1HWpNVPreF3KFvLOUyY6_KuE99R4f4",
+          "width": "275",
+          "height": "183"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "news",
+          "grand-rapids",
+          "2020/08"
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:yGksE3EuwdcJ:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/news/ann-arbor/2020/04/ann-arbor-council-hopefuls-to-participate-in-virtual-candidate-forums.html&sa=U&ved=2ahUKEwiR3ZXTjI3rAhVIxYsBHboKBUs4UBAWMAR6BAgFEAI&usg=AOvVaw0eeVR5dcdW28BtXYms79_Q",
+      "content": "11 Apr 2020 \u003cb\u003e...\u003c/b\u003e Election 2020 logo. For the \u003cb\u003e2020 election\u003c/b\u003e in Michigan, the primary is Aug. 4 and \nthe general election is Nov. 3.Milt Klingensmith | MLive.com.",
+      "contentNoFormatting": "11 Apr 2020 ... Election 2020 logo. For the 2020 election in Michigan, the primary is Aug. 4 and \nthe general election is Nov. 3.Milt Klingensmith | MLive.com.",
+      "title": "Ann Arbor council hopefuls to participate in virtual candidate forums ...",
+      "titleNoFormatting": "Ann Arbor council hopefuls to participate in virtual candidate forums ...",
+      "formattedUrl": "https://www.mlive.com/.../\u003cb\u003e2020\u003c/b\u003e/.../ann-arbor-council-hopefuls-to-participate- in-virtual-candidate-forums.html",
+      "unescapedUrl": "https://www.mlive.com/news/ann-arbor/2020/04/ann-arbor-council-hopefuls-to-participate-in-virtual-candidate-forums.html",
+      "url": "https://www.mlive.com/news/ann-arbor/2020/04/ann-arbor-council-hopefuls-to-participate-in-virtual-candidate-forums.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/-Nu7P1ypcgBbZcib4-zhmgR0T5w=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SVI3P57AGFAIFEVK5PK3Z6HHKY.jpeg"
+        },
+        "metatags": {
+          "sailthruDescription": "Students in former Mayor John Hieftje’s class at UM are hosting.",
+          "twitterTitle": "Ann Arbor council hopefuls to participate in virtual candidate forums",
+          "ogImageWidth": "1280",
+          "sailthruTags": "ann arbor,state and local elections,local governments,campaigns and campaign finance,election-2020,election-2020-a2,ann-arbor-city-council,tony brown",
+          "articleDateUpdated": "Saturday, April 11, 2020, 10:02 AM",
+          "ogTitle": "Ann Arbor council hopefuls to participate in virtual candidate forums",
+          "title": "Ann Arbor council hopefuls to participate in virtual candidate forums",
+          "ogType": "article",
+          "articleTag": "election-2020,election-2020-a2,ann-arbor-city-council,@aa-river,@aa-app,@mlive-river,@mlive-app",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "ryanstanton",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Ryan Stanton | ryanstanton@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/news/ann-arbor/2020/04/ann-arbor-council-hopefuls-to-participate-in-virtual-candidate-forums.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2020-04-11T13:00:45.239Z",
+          "twitterImage": "https://www.mlive.com/resizer/-Nu7P1ypcgBbZcib4-zhmgR0T5w=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SVI3P57AGFAIFEVK5PK3Z6HHKY.jpeg",
+          "sailthruDate": "Saturday, April 11, 2020, 09:00 AM",
+          "ogDescription": "Students in former Mayor John Hieftje’s class at UM are hosting.",
+          "ogImage": "https://www.mlive.com/resizer/-Nu7P1ypcgBbZcib4-zhmgR0T5w=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SVI3P57AGFAIFEVK5PK3Z6HHKY.jpeg",
+          "sections": "news/ann-arbor,news",
+          "articleDateOriginal": "Saturday, April 11, 2020, 09:00 AM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "Students in former Mayor John Hieftje’s class at UM are hosting.",
+          "ogUrl": "https://www.mlive.com/news/ann-arbor/2020/04/ann-arbor-council-hopefuls-to-participate-in-virtual-candidate-forums.html",
+          "articleModifiedTime": "2020-04-11T14:02:48.147Z",
+          "articleSection": "Ann Arbor",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "Ann Arbor council hopefuls to participate in virtual candidate forums",
+          "machineTags": "@aa-river,@aa-app,@mlive-river,@mlive-app",
+          "articleAuthor": "Ryan Stanton | ryanstanton@mlive.com"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRhnK2wR43ltlDqzuEd_rNO9LGeNE_Gp7Uo8b-mVXNxwFlyPryfAXccZZbT",
+          "width": "304",
+          "height": "166"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "news",
+          "ann-arbor",
+          "2020/04",
+          "ann-arbor-council-..."
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:9GR8XIeKq2IJ:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/public-interest/2020/07/how-absentee-ballots-are-deepening-the-divide-between-michigan-democrats-and-republicans.html&sa=U&ved=2ahUKEwiR3ZXTjI3rAhVIxYsBHboKBUs4UBAWMAV6BAgAEAI&usg=AOvVaw3apsdcOALFU5dqOGxYymAD",
+      "content": "17 Jul 2020 \u003cb\u003e...\u003c/b\u003e ... a 2018 ballot initiative to allow any voter to cast an absentee ballot — has \nbecome a political lightning rod ahead of the \u003cb\u003e2020 election\u003c/b\u003e cycle.",
+      "contentNoFormatting": "17 Jul 2020 ... ... a 2018 ballot initiative to allow any voter to cast an absentee ballot — has \nbecome a political lightning rod ahead of the 2020 election cycle.",
+      "title": "How absentee ballots are deepening the divide between Michigan ...",
+      "titleNoFormatting": "How absentee ballots are deepening the divide between Michigan ...",
+      "formattedUrl": "https://www.mlive.com/.../\u003cb\u003e2020\u003c/b\u003e/.../how-absentee-ballots-are-deepening-the- divide-between-michigan-democrats-and-republicans.html",
+      "unescapedUrl": "https://www.mlive.com/public-interest/2020/07/how-absentee-ballots-are-deepening-the-divide-between-michigan-democrats-and-republicans.html",
+      "url": "https://www.mlive.com/public-interest/2020/07/how-absentee-ballots-are-deepening-the-divide-between-michigan-democrats-and-republicans.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/qMZUpI0YMY7dywI6u6gGqqehiME=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZYI4HQEGN5AEVFJRE4GVGB44MM.jpg"
+        },
+        "metatags": {
+          "sailthruDescription": "As Michigan officials prepare for an August primary and November presidential election during a pandemic, tensions between current Secretary of State Jocelyn Benson and her predecessor, Sen. Ruth Johnson, appear to be running high.",
+          "twitterTitle": "How absentee ballots are deepening the divide between Michigan Democrats and Republicans",
+          "ogImageWidth": "1280",
+          "sailthruTags": "public interest,impact,ruth johnson,michigan senate,dana nessel,ingham county,gretchen whitmer,bill schuette",
+          "articleDateUpdated": "Monday, July 27, 2020, 10:46 AM",
+          "ogTitle": "How absentee ballots are deepening the divide between Michigan Democrats and Republicans",
+          "title": "How absentee ballots are deepening the divide between Michigan Democrats and Republicans",
+          "ogType": "article",
+          "articleTag": "@mlive-river,@aa-river,@gr-river,@sa-river,@kz-river,@jx-river,@fl-river,impact,@subscriberexclusive,@mlive-app,@aa-app,@gr-app,@sa-app,@kz-app,@jx-app,@fl-app",
+          "subscriberOnly": "true",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "LaurenGibbons",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Lauren Gibbons | lgibbon2@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/public-interest/2020/07/how-absentee-ballots-are-deepening-the-divide-between-michigan-democrats-and-republicans.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2020-07-17T19:06:07.437Z",
+          "twitterImage": "https://www.mlive.com/resizer/qMZUpI0YMY7dywI6u6gGqqehiME=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZYI4HQEGN5AEVFJRE4GVGB44MM.jpg",
+          "sailthruDate": "Friday, July 17, 2020, 03:06 PM",
+          "ogDescription": "As Michigan officials prepare for an August primary and November presidential election during a pandemic, tensions between current Secretary of State Jocelyn Benson and her predecessor, Sen. Ruth Johnson, appear to be running high.",
+          "ogImage": "https://www.mlive.com/resizer/qMZUpI0YMY7dywI6u6gGqqehiME=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZYI4HQEGN5AEVFJRE4GVGB44MM.jpg",
+          "sections": "public-interest,politics,news,news/ann-arbor,news/flint,news/grand-rapids,news/jackson,news/kalamazoo,news/muskegon,news/saginaw-bay-city",
+          "articleDateOriginal": "Friday, July 17, 2020, 03:06 PM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "As Michigan officials prepare for an August primary and November presidential election during a pandemic, tensions between current Secretary of State Jocelyn Benson and her predecessor, Sen. Ruth Johnson, appear to be running high.",
+          "ogUrl": "https://www.mlive.com/public-interest/2020/07/how-absentee-ballots-are-deepening-the-divide-between-michigan-democrats-and-republicans.html",
+          "articleModifiedTime": "2020-07-27T14:46:31.319Z",
+          "articleSection": "Public Interest",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "How absentee ballots are deepening the divide between Michigan Democrats and Republicans",
+          "machineTags": "@mlive-river,@aa-river,@gr-river,@sa-river,@kz-river,@jx-river,@fl-river,@subscriberexclusive,@mlive-app,@aa-app,@gr-app,@sa-app,@kz-app,@jx-app,@fl-app",
+          "articleAuthor": "Lauren Gibbons | lgibbon2@mlive.com"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTE7zhdaDpMGqthH24AshxB00y7e2FoellsJR-m1DKvMc7fszyFVMv9XRQJ",
+          "width": "298",
+          "height": "169"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "public-interest",
+          "2020/07",
+          "how-absentee-ballots-..."
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:OsnPDZOkhYYJ:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/news/kalamazoo/2020/05/otsego-voters-approve-23m-bond-for-pool-addition-other-school-improvements.html&sa=U&ved=2ahUKEwiR3ZXTjI3rAhVIxYsBHboKBUs4UBAWMAZ6BAgGEAI&usg=AOvVaw329z6-lkv11DSVUJPrVz1M",
+      "content": "5 May 2020 \u003cb\u003e...\u003c/b\u003e May 5, \u003cb\u003e2020 election\u003c/b\u003e in Kalamazoo County ... The nearly $23 million bond \nproposal was approved by voters during the election Tuesday, May&nbsp;...",
+      "contentNoFormatting": "5 May 2020 ... May 5, 2020 election in Kalamazoo County ... The nearly $23 million bond \nproposal was approved by voters during the election Tuesday, May ...",
+      "title": "Otsego voters approve $23M bond for pool addition, other school ...",
+      "titleNoFormatting": "Otsego voters approve $23M bond for pool addition, other school ...",
+      "formattedUrl": "https://www.mlive.com/.../\u003cb\u003e2020\u003c/b\u003e/.../otsego-\u003cb\u003evote\u003c/b\u003ers-approve-23m-bond-for- pool-addition-other-school-improvements.html",
+      "unescapedUrl": "https://www.mlive.com/news/kalamazoo/2020/05/otsego-voters-approve-23m-bond-for-pool-addition-other-school-improvements.html",
+      "url": "https://www.mlive.com/news/kalamazoo/2020/05/otsego-voters-approve-23m-bond-for-pool-addition-other-school-improvements.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/VAGo-zzojEWOu8pMjrZitRoTlNo=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/L5Y5AUY4SBEYPDS4ZOPU7VDWFE.jpg"
+        },
+        "metatags": {
+          "sailthruDescription": "The bond project will replace the existing building and site sinking fund and will not raise existing taxes for residents, according to the district.",
+          "twitterTitle": "Otsego voters approve $23M bond for pool addition, other school improvements",
+          "ogImageWidth": "1280",
+          "sailthruTags": "kalamazoo,election-kalamazoo,kalamazoo-election,ross township,van buren county,kalamazoo county,vicksburg,portage",
+          "articleDateUpdated": "Wednesday, May 06, 2020, 08:29 AM",
+          "ogTitle": "Otsego voters approve $23M bond for pool addition, other school improvements",
+          "title": "Otsego voters approve $23M bond for pool addition, other school improvements",
+          "ogType": "article",
+          "articleTag": "@kz-river,@kz-app,election-kalamazoo,kalamazoo-election",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "kmille17",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Kayla Miller | kmille17@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/news/kalamazoo/2020/05/otsego-voters-approve-23m-bond-for-pool-addition-other-school-improvements.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2020-05-06T02:31:23.433Z",
+          "twitterImage": "https://www.mlive.com/resizer/VAGo-zzojEWOu8pMjrZitRoTlNo=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/L5Y5AUY4SBEYPDS4ZOPU7VDWFE.jpg",
+          "sailthruDate": "Tuesday, May 05, 2020, 10:31 PM",
+          "ogDescription": "The bond project will replace the existing building and site sinking fund and will not raise existing taxes for residents, according to the district.",
+          "ogImage": "https://www.mlive.com/resizer/VAGo-zzojEWOu8pMjrZitRoTlNo=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/L5Y5AUY4SBEYPDS4ZOPU7VDWFE.jpg",
+          "sections": "news/kalamazoo",
+          "articleDateOriginal": "Tuesday, May 05, 2020, 10:31 PM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "The bond project will replace the existing building and site sinking fund and will not raise existing taxes for residents, according to the district.",
+          "ogUrl": "https://www.mlive.com/news/kalamazoo/2020/05/otsego-voters-approve-23m-bond-for-pool-addition-other-school-improvements.html",
+          "articleModifiedTime": "2020-05-06T12:29:45.428Z",
+          "articleSection": "Kalamazoo",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "Otsego voters approve $23M bond for pool addition, other school improvements",
+          "machineTags": "@kz-river,@kz-app",
+          "articleAuthor": "Kayla Miller | kmille17@mlive.com"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2hLANQUhnc0-zAhOb2ASHJB93e9GlKd4IuesDNpE7zfJpg9Jucm7sY3s",
+          "width": "251",
+          "height": "201"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "news",
+          "kalamazoo",
+          "2020/05",
+          "otsego-voters-app..."
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:cpGCnaBr7pAJ:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/news/grand-rapids/2020/03/election-results-for-kent-ottawa-counties-march-10-2020.html&sa=U&ved=2ahUKEwiR3ZXTjI3rAhVIxYsBHboKBUs4UBAWMAd6BAgBEAI&usg=AOvVaw0iRacoGImcrXS49n0XGGro",
+      "content": "10 Mar 2020 \u003cb\u003e...\u003c/b\u003e GRAND RAPIDS, MI -- West Michigan voters are ready to hit the polls today for \nthe \u003cb\u003e2020\u003c/b\u003e presidential primary. Along with presidential&nbsp;...",
+      "contentNoFormatting": "10 Mar 2020 ... GRAND RAPIDS, MI -- West Michigan voters are ready to hit the polls today for \nthe 2020 presidential primary. Along with presidential ...",
+      "title": "\u003cb\u003eElection\u003c/b\u003e results for Kent, Ottawa counties March 10, \u003cb\u003e2020\u003c/b\u003e - mlive.com",
+      "titleNoFormatting": "Election results for Kent, Ottawa counties March 10, 2020 - mlive.com",
+      "formattedUrl": "https://www.mlive.com/.../\u003cb\u003e2020\u003c/b\u003e/.../\u003cb\u003eelection\u003c/b\u003e-results-for-kent-ottawa-counties- march-10-\u003cb\u003e2020\u003c/b\u003e.html",
+      "unescapedUrl": "https://www.mlive.com/news/grand-rapids/2020/03/election-results-for-kent-ottawa-counties-march-10-2020.html",
+      "url": "https://www.mlive.com/news/grand-rapids/2020/03/election-results-for-kent-ottawa-counties-march-10-2020.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/dw-1xFpd5qby-EyKoCa8kTl6iYU=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/6JIEHDLKPJEEPGCRY33PLSTG7E.jpg"
+        },
+        "metatags": {
+          "sailthruDescription": "See live results of Tuesday, March 10 election ballot proposals here once the polls close at 8 p.m.",
+          "twitterTitle": "Election results for Kent, Ottawa counties March 10, 2020",
+          "ogImageWidth": "1280",
+          "sailthruTags": "grand rapids,election-2020,kalamazoo county,joe biden,ottawa,michigan,county,renewal",
+          "articleDateUpdated": "Wednesday, March 11, 2020, 07:49 AM",
+          "ogTitle": "Election results for Kent, Ottawa counties March 10, 2020",
+          "title": "Election results for Kent, Ottawa counties March 10, 2020",
+          "ogType": "article",
+          "articleTag": "@gr-river,@gr-app,@gr-news,election-2020",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "mkransz",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Michael Kransz | mkransz@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/news/grand-rapids/2020/03/election-results-for-kent-ottawa-counties-march-10-2020.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2020-03-10T20:00:49.527Z",
+          "twitterImage": "https://www.mlive.com/resizer/dw-1xFpd5qby-EyKoCa8kTl6iYU=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/6JIEHDLKPJEEPGCRY33PLSTG7E.jpg",
+          "sailthruDate": "Tuesday, March 10, 2020, 04:00 PM",
+          "ogDescription": "See live results of Tuesday, March 10 election ballot proposals here once the polls close at 8 p.m.",
+          "ogImage": "https://www.mlive.com/resizer/dw-1xFpd5qby-EyKoCa8kTl6iYU=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/6JIEHDLKPJEEPGCRY33PLSTG7E.jpg",
+          "sections": "news/grand-rapids",
+          "articleDateOriginal": "Tuesday, March 10, 2020, 04:00 PM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "See live results of Tuesday, March 10 election ballot proposals here once the polls close at 8 p.m.",
+          "ogUrl": "https://www.mlive.com/news/grand-rapids/2020/03/election-results-for-kent-ottawa-counties-march-10-2020.html",
+          "articleModifiedTime": "2020-03-11T11:49:44.287Z",
+          "articleSection": "Grand Rapids",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "Election results for Kent, Ottawa counties March 10, 2020",
+          "machineTags": "@gr-river,@gr-app,@gr-news",
+          "articleAuthor": "Michael Kransz | mkransz@mlive.com"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQb_L3BXw601FNwEOu2qmMP3zZdBY-wYZk523Os9vmFIPZPRb23MWOhRG5o",
+          "width": "266",
+          "height": "190"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "news",
+          "grand-rapids",
+          "2020/03",
+          "election-results-..."
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:-0loRHC85s0J:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/news/ann-arbor/2020/07/three-vying-to-move-on-in-race-for-washtenaw-county-trial-judge.html&sa=U&ved=2ahUKEwiR3ZXTjI3rAhVIxYsBHboKBUs4UBAWMAh6BAgCEAI&usg=AOvVaw0qnj6XaT68WsAXiVO-I4XH",
+      "content": "8 Jul 2020 \u003cb\u003e...\u003c/b\u003e The top two vote-getters will go on to compete in the November general ... and \nother voting resources to readers ahead of \u003cb\u003e2020 elections\u003c/b\u003e.",
+      "contentNoFormatting": "8 Jul 2020 ... The top two vote-getters will go on to compete in the November general ... and \nother voting resources to readers ahead of 2020 elections.",
+      "title": "Three vying to move on in race for Washtenaw County trial judge ...",
+      "titleNoFormatting": "Three vying to move on in race for Washtenaw County trial judge ...",
+      "formattedUrl": "https://www.mlive.com/.../\u003cb\u003e2020\u003c/b\u003e/.../three-vying-to-move-on-in-race-for- washtenaw-county-trial-judge.html",
+      "unescapedUrl": "https://www.mlive.com/news/ann-arbor/2020/07/three-vying-to-move-on-in-race-for-washtenaw-county-trial-judge.html",
+      "url": "https://www.mlive.com/news/ann-arbor/2020/07/three-vying-to-move-on-in-race-for-washtenaw-county-trial-judge.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/YYJCdgbdnT0y4F4CIdGNT4PBhWc=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/4TE5PBKSA5ET5DFT525FEG3DCI.jpg"
+        },
+        "metatags": {
+          "sailthruDescription": "The top two votegetters will go on to compete in the November general election.",
+          "twitterTitle": "Three vying to move on in race for Washtenaw County trial judge",
+          "ogImageWidth": "1280",
+          "sailthruTags": "ann arbor,civil law,handicapped and disabled,election-2020,league of women voters,michigan supreme court,ag,case",
+          "articleDateUpdated": "Wednesday, July 08, 2020, 02:46 PM",
+          "ogTitle": "Three vying to move on in race for Washtenaw County trial judge",
+          "title": "Three vying to move on in race for Washtenaw County trial judge",
+          "ogType": "article",
+          "articleTag": "@mlive-river,@mlive-app,@aa-river,@aa-app,election-2020",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "nclark1",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Nathan Clark | nclark1@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/news/ann-arbor/2020/07/three-vying-to-move-on-in-race-for-washtenaw-county-trial-judge.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2020-07-08T18:46:56.992Z",
+          "twitterImage": "https://www.mlive.com/resizer/YYJCdgbdnT0y4F4CIdGNT4PBhWc=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/4TE5PBKSA5ET5DFT525FEG3DCI.jpg",
+          "sailthruDate": "Wednesday, July 08, 2020, 02:46 PM",
+          "ogDescription": "The top two votegetters will go on to compete in the November general election.",
+          "ogImage": "https://www.mlive.com/resizer/YYJCdgbdnT0y4F4CIdGNT4PBhWc=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/4TE5PBKSA5ET5DFT525FEG3DCI.jpg",
+          "sections": "news/ann-arbor,news,politics",
+          "articleDateOriginal": "Wednesday, July 08, 2020, 02:46 PM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "The top two votegetters will go on to compete in the November general election.",
+          "ogUrl": "https://www.mlive.com/news/ann-arbor/2020/07/three-vying-to-move-on-in-race-for-washtenaw-county-trial-judge.html",
+          "articleModifiedTime": "2020-07-08T18:46:56.992Z",
+          "articleSection": "Ann Arbor",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "Three vying to move on in race for Washtenaw County trial judge",
+          "machineTags": "@mlive-river,@mlive-app,@aa-river,@aa-app",
+          "articleAuthor": "Nathan Clark | nclark1@mlive.com"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTHYYVdXjiCTmeAl13cV3nl4JzpvdQUSDHXA_jtrdGRPlmhy52rlDcEaD1",
+          "width": "318",
+          "height": "159"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "news",
+          "ann-arbor",
+          "2020/07",
+          "three-vying-to-mo..."
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:cgZm6_67I5oJ:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/news/2019/04/michigan-districts-gerrymandered-and-must-be-redrawn-for-2020-federal-judges-rule.html&sa=U&ved=2ahUKEwiR3ZXTjI3rAhVIxYsBHboKBUs4UBAWMAl6BAgEEAI&usg=AOvVaw0llg1SeTlmisVCYmWsZj2O",
+      "content": "25 Apr 2019 \u003cb\u003e...\u003c/b\u003e Michigan&#39;s Congressional and legislative districts are unconstitutionally \ngerrymandered and need to be redrawn prior to the \u003cb\u003e2020 election\u003c/b\u003e,&nbsp;...",
+      "contentNoFormatting": "25 Apr 2019 ... Michigan's Congressional and legislative districts are unconstitutionally \ngerrymandered and need to be redrawn prior to the 2020 election, ...",
+      "title": "Michigan districts gerrymandered and must be redrawn for \u003cb\u003e2020\u003c/b\u003e ...",
+      "titleNoFormatting": "Michigan districts gerrymandered and must be redrawn for 2020 ...",
+      "formattedUrl": "https://www.mlive.com/.../michigan-districts-gerrymandered-and-must-be- redrawn-for-\u003cb\u003e2020\u003c/b\u003e-federal-judges-rule.html",
+      "unescapedUrl": "https://www.mlive.com/news/2019/04/michigan-districts-gerrymandered-and-must-be-redrawn-for-2020-federal-judges-rule.html",
+      "url": "https://www.mlive.com/news/2019/04/michigan-districts-gerrymandered-and-must-be-redrawn-for-2020-federal-judges-rule.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/E-roVbtK-hN9jl2S-Zx5x3k_wHA=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/TZNSYWIAMZFNDONJOUMW2TOGVA.JPG"
+        },
+        "metatags": {
+          "sailthruDescription": "Michigan’s Congressional and legislative districts are unconstitutionally gerrymandered and need to be redrawn prior to the 2020 election, a federal three-judge panel ruled Thursday afternoon.",
+          "twitterTitle": "Michigan districts gerrymandered and must be redrawn for 2020, federal judges rule",
+          "ogImageWidth": "1280",
+          "sailthruTags": "news,congressional elections,impact,league of women voters,congressional,election,michigan,districts",
+          "articleDateUpdated": "Thursday, April 25, 2019, 05:11 PM",
+          "ogTitle": "Michigan districts gerrymandered and must be redrawn for 2020, federal judges rule",
+          "title": "Michigan districts gerrymandered and must be redrawn for 2020, federal judges rule",
+          "ogType": "article",
+          "articleTag": "@mlive-river,@aa-river,impact,@gr-river,@sa-river,@fl-river,@jx-river,@kz-river",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "LaurenGibbons",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Lauren Gibbons | lgibbon2@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/news/2019/04/michigan-districts-gerrymandered-and-must-be-redrawn-for-2020-federal-judges-rule.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2019-04-25T19:53:29.620Z",
+          "twitterImage": "https://www.mlive.com/resizer/E-roVbtK-hN9jl2S-Zx5x3k_wHA=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/TZNSYWIAMZFNDONJOUMW2TOGVA.JPG",
+          "sailthruDate": "Thursday, April 25, 2019, 03:53 PM",
+          "ogDescription": "Michigan’s Congressional and legislative districts are unconstitutionally gerrymandered and need to be redrawn prior to the 2020 election, a federal three-judge panel ruled Thursday afternoon.",
+          "ogImage": "https://www.mlive.com/resizer/E-roVbtK-hN9jl2S-Zx5x3k_wHA=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/TZNSYWIAMZFNDONJOUMW2TOGVA.JPG",
+          "sections": "news,news/ann-arbor,news/flint,news/grand-rapids,news/jackson,news/kalamazoo,news/muskegon,news/saginaw-bay-city,politics,public-interest",
+          "articleDateOriginal": "Thursday, April 25, 2019, 03:53 PM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "Michigan’s Congressional and legislative districts are unconstitutionally gerrymandered and need to be redrawn prior to the 2020 election, a federal three-judge panel ruled Thursday afternoon.",
+          "ogUrl": "https://www.mlive.com/news/2019/04/michigan-districts-gerrymandered-and-must-be-redrawn-for-2020-federal-judges-rule.html",
+          "articleModifiedTime": "2019-04-25T21:11:33.599Z",
+          "articleSection": "News",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "Michigan districts gerrymandered and must be redrawn for 2020, federal judges rule",
+          "machineTags": "@mlive-river,@aa-river,@gr-river,@sa-river,@fl-river,@jx-river,@kz-river",
+          "articleAuthor": "Lauren Gibbons | lgibbon2@mlive.com"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOoLcKj_sld8qG_B4Zw-vYI0HQ-YvqT-WIUwMqC1c-SsEXT0ARJiyNcwJ1",
+          "width": "275",
+          "height": "183"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "news",
+          "2019/04",
+          "michigan-districts-gerrymander..."
+        ]
+      }
+    }
+  ],
+  "findMoreOnGoogle": {
+    "url": "https://www.google.com/search?client=ms-google-coop&q=2020+election&cx=017476104391584697148:yfiniwqwjp4"
+  }
+});

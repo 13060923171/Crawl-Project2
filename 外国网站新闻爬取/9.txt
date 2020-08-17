@@ -1,0 +1,714 @@
+/*O_o*/
+google.search.cse.api2105({
+  "cursor": {
+    "currentPageIndex": 9,
+    "estimatedResultCount": "1500000",
+    "moreResultsUrl": "http://www.google.com/cse?oe=utf8&ie=utf8&source=uds&q=2020+election&safe=off&start=90&sort=&cx=017476104391584697148:yfiniwqwjp4",
+    "resultCount": "1,500,000",
+    "searchResultTime": "0.32",
+    "pages": [
+      {
+        "label": 1,
+        "start": "0"
+      },
+      {
+        "label": 2,
+        "start": "10"
+      },
+      {
+        "label": 3,
+        "start": "20"
+      },
+      {
+        "label": 4,
+        "start": "30"
+      },
+      {
+        "label": 5,
+        "start": "40"
+      },
+      {
+        "label": 6,
+        "start": "50"
+      },
+      {
+        "label": 7,
+        "start": "60"
+      },
+      {
+        "label": 8,
+        "start": "70"
+      },
+      {
+        "label": 9,
+        "start": "80"
+      },
+      {
+        "label": 10,
+        "start": "90"
+      }
+    ]
+  },
+  "context": {
+    "title": "*.mlive.com",
+    "total_results": "0"
+  },
+  "results": [
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:s1ceUdmNq6oJ:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/news/flint/2020/08/cynthia-neeley-wins-34th-district-state-house-democratic-primary.html&sa=U&ved=2ahUKEwi7tpfUjI3rAhUCBKYKHSIADNo4WhAWMAB6BAgAEAI&usg=AOvVaw1hQuAOyzCUr9lBYZJdG0mj",
+      "content": "3 days ago \u003cb\u003e...\u003c/b\u003e Flint residents vote during March \u003cb\u003e2020 election\u003c/b\u003e. Cynthia Neeley, who is running \nfor the 34th district state representative seat, listens to Jill Biden&nbsp;...",
+      "contentNoFormatting": "3 days ago ... Flint residents vote during March 2020 election. Cynthia Neeley, who is running \nfor the 34th district state representative seat, listens to Jill Biden ...",
+      "title": "Cynthia Neeley wins 34th District state House Democratic primary ...",
+      "titleNoFormatting": "Cynthia Neeley wins 34th District state House Democratic primary ...",
+      "formattedUrl": "https://www.mlive.com/.../\u003cb\u003e2020\u003c/b\u003e/.../cynthia-neeley-wins-34th-district-state- house-democratic-primary.html",
+      "unescapedUrl": "https://www.mlive.com/news/flint/2020/08/cynthia-neeley-wins-34th-district-state-house-democratic-primary.html",
+      "url": "https://www.mlive.com/news/flint/2020/08/cynthia-neeley-wins-34th-district-state-house-democratic-primary.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/b0n0G6lWmbHxqxX-8s0nUeu6ouk=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/YQIKFFT3CZH4LH4BFU6VT7VW4Y.JPG"
+        },
+        "metatags": {
+          "sailthruDescription": "Cynthia Neeley will appear on the Nov. ballot after she won the 4th District state House Democratic primary Tuesday, Aug. 4.",
+          "twitterTitle": "Cynthia Neeley wins 34th District state House Democratic primary",
+          "ogImageWidth": "1280",
+          "sailthruTags": "flint,campaigns and campaign finance,election-2020,genesee county,league of women voters,saginaw,election,bay",
+          "articleDateUpdated": "Wednesday, August 05, 2020, 05:15 PM",
+          "ogTitle": "Cynthia Neeley wins 34th District state House Democratic primary",
+          "title": "Cynthia Neeley wins 34th District state House Democratic primary",
+          "ogType": "article",
+          "articleTag": "@fl-river,@mlive-river,election-2020",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "wkeefer",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Winter Keefer | wkeefer@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/news/flint/2020/08/cynthia-neeley-wins-34th-district-state-house-democratic-primary.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2020-08-05T21:15:20.613Z",
+          "twitterImage": "https://www.mlive.com/resizer/b0n0G6lWmbHxqxX-8s0nUeu6ouk=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/YQIKFFT3CZH4LH4BFU6VT7VW4Y.JPG",
+          "sailthruDate": "Wednesday, August 05, 2020, 05:15 PM",
+          "ogDescription": "Cynthia Neeley will appear on the Nov. ballot after she won the 4th District state House Democratic primary Tuesday, Aug. 4.",
+          "ogImage": "https://www.mlive.com/resizer/b0n0G6lWmbHxqxX-8s0nUeu6ouk=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/YQIKFFT3CZH4LH4BFU6VT7VW4Y.JPG",
+          "sections": "news/flint,news",
+          "articleDateOriginal": "Wednesday, August 05, 2020, 05:15 PM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "Cynthia Neeley will appear on the Nov. ballot after she won the 4th District state House Democratic primary Tuesday, Aug. 4.",
+          "ogUrl": "https://www.mlive.com/news/flint/2020/08/cynthia-neeley-wins-34th-district-state-house-democratic-primary.html",
+          "articleModifiedTime": "2020-08-05T21:15:20.613Z",
+          "articleSection": "Flint",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "Cynthia Neeley wins 34th District state House Democratic primary",
+          "machineTags": "@fl-river,@mlive-river",
+          "articleAuthor": "Winter Keefer | wkeefer@mlive.com"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQDVdpMM6xGEwxcZq0ITNIHX8_055ZdeA9tvcZV-1Bhtr-g6DIW6pENH1UE",
+          "width": "275",
+          "height": "183"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "news",
+          "flint",
+          "2020/08"
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:45g5ozOqi5oJ:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/news/jackson/2020/05/not-all-precincts-are-open-for-tuesdays-election-heres-where-to-vote-in-jackson-county.html&sa=U&ved=2ahUKEwi7tpfUjI3rAhUCBKYKHSIADNo4WhAWMAF6BAgHEAI&usg=AOvVaw3lwazHBWV31BUTAYdqdwT1",
+      "content": "4 May 2020 \u003cb\u003e...\u003c/b\u003e ... Baptist Church in Jackson on Tuesday, March 10, \u003cb\u003e2020\u003c/b\u003e. Voters across \nMichigan are getting their first say in the \u003cb\u003e2020\u003c/b\u003e presidential \u003cb\u003eelection\u003c/b\u003e.",
+      "contentNoFormatting": "4 May 2020 ... ... Baptist Church in Jackson on Tuesday, March 10, 2020. Voters across \nMichigan are getting their first say in the 2020 presidential election.",
+      "title": "Not all precincts are open for Tuesday&#39;s \u003cb\u003eelection\u003c/b\u003e. Here&#39;s where to ...",
+      "titleNoFormatting": "Not all precincts are open for Tuesday's election. Here's where to ...",
+      "formattedUrl": "https://www.mlive.com/.../\u003cb\u003e2020\u003c/b\u003e/.../not-all-precincts-are-open-for-tuesdays- \u003cb\u003eelection\u003c/b\u003e-heres-where-to-\u003cb\u003evote\u003c/b\u003e-in-jackson-county.html",
+      "unescapedUrl": "https://www.mlive.com/news/jackson/2020/05/not-all-precincts-are-open-for-tuesdays-election-heres-where-to-vote-in-jackson-county.html",
+      "url": "https://www.mlive.com/news/jackson/2020/05/not-all-precincts-are-open-for-tuesdays-election-heres-where-to-vote-in-jackson-county.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/Ah6S8mbZbsWyb7Lfzhr59WM6K94=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KRFCIV25LJEVBP7BXG37HEOGVM.jpg"
+        },
+        "metatags": {
+          "sailthruDescription": "The COVID-19 pandemic caused townships to consolidate precincts.",
+          "twitterTitle": "Not all precincts are open for Tuesday’s election. Here’s where to vote in Jackson County",
+          "ogImageWidth": "1280",
+          "sailthruTags": "jackson,jx-election-2020,township,ffa,jackson county,department of public safety,gretchen whitmer,waterloo",
+          "articleDateUpdated": "Monday, May 04, 2020, 08:00 AM",
+          "ogTitle": "Not all precincts are open for Tuesday’s election. Here’s where to vote in Jackson County",
+          "title": "Not all precincts are open for Tuesday’s election. Here’s where to vote in Jackson County",
+          "ogType": "article",
+          "articleTag": "@mlive-app,@mlive-river,@jx-app,@jx-river,jx-election-2020,@MI-coronavirus",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "mweidmay",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Marie Weidmayer | mweidmay@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/news/jackson/2020/05/not-all-precincts-are-open-for-tuesdays-election-heres-where-to-vote-in-jackson-county.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2020-05-04T12:00:50.906Z",
+          "twitterImage": "https://www.mlive.com/resizer/Ah6S8mbZbsWyb7Lfzhr59WM6K94=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KRFCIV25LJEVBP7BXG37HEOGVM.jpg",
+          "sailthruDate": "Monday, May 04, 2020, 08:00 AM",
+          "ogDescription": "The COVID-19 pandemic caused townships to consolidate precincts.",
+          "ogImage": "https://www.mlive.com/resizer/Ah6S8mbZbsWyb7Lfzhr59WM6K94=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KRFCIV25LJEVBP7BXG37HEOGVM.jpg",
+          "sections": "news,news/jackson,coronavirus",
+          "articleDateOriginal": "Monday, May 04, 2020, 08:00 AM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "The COVID-19 pandemic caused townships to consolidate precincts.",
+          "ogUrl": "https://www.mlive.com/news/jackson/2020/05/not-all-precincts-are-open-for-tuesdays-election-heres-where-to-vote-in-jackson-county.html",
+          "articleModifiedTime": "2020-05-04T12:00:50.906Z",
+          "articleSection": "Jackson",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "Not all precincts are open for Tuesday’s election. Here’s where to vote in Jackson County",
+          "machineTags": "@mlive-app,@mlive-river,@jx-app,@jx-river,@MI-coronavirus",
+          "articleAuthor": "Marie Weidmayer | mweidmay@mlive.com"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVbRE6MfKqa7QcwFtRYT9v4GXfECzQaWZljeMHTXs8wTtITzB37ReM4S0",
+          "width": "269",
+          "height": "187"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "news",
+          "jackson",
+          "2020/05",
+          "not-all-precincts-are-..."
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:mj3pFXeiRmkJ:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/news/2019/12/comedian-alonzo-bodden-riffs-on-trump-2020-election-ahead-of-michigan-shows.html&sa=U&ved=2ahUKEwi7tpfUjI3rAhUCBKYKHSIADNo4WhAWMAJ6BAgIEAE&usg=AOvVaw3042PhjFrIow9B1fvJJn2L",
+      "content": "Comedian Alonzo Bodden riffs on Trump, \u003cb\u003e2020 election\u003c/b\u003e ahead of Michigan \nshows. Posted Dec 20, 2019. Alonzo Bodden Dr. Grin&#39;s Comedy Club. Comedian\n&nbsp;...",
+      "contentNoFormatting": "Comedian Alonzo Bodden riffs on Trump, 2020 election ahead of Michigan \nshows. Posted Dec 20, 2019. Alonzo Bodden Dr. Grin's Comedy Club. Comedian\n ...",
+      "title": "Comedian Alonzo Bodden riffs on Trump, \u003cb\u003e2020 election\u003c/b\u003e ahead of ...",
+      "titleNoFormatting": "Comedian Alonzo Bodden riffs on Trump, 2020 election ahead of ...",
+      "formattedUrl": "https://www.mlive.com/.../comedian-alonzo-bodden-riffs-on-trump-\u003cb\u003e2020\u003c/b\u003e- \u003cb\u003eelection\u003c/b\u003e-ahead-of-michigan-shows.html",
+      "unescapedUrl": "https://www.mlive.com/news/2019/12/comedian-alonzo-bodden-riffs-on-trump-2020-election-ahead-of-michigan-shows.html",
+      "url": "https://www.mlive.com/news/2019/12/comedian-alonzo-bodden-riffs-on-trump-2020-election-ahead-of-michigan-shows.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/hROPg4tobSNn8LMXw0Ccre8sKj8=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/22F3ONU3VZB3THS3MYGULH65W4.jpg"
+        },
+        "metatags": {
+          "sailthruDescription": "The popular comedian of public radio's \"Wait, Wait...Don't Tell Me!\" said President Trump doesn't seem to have any serious challengers in the next presidential election.",
+          "twitterTitle": "Comedian Alonzo Bodden riffs on Trump, 2020 election ahead of Michigan shows",
+          "ogImageWidth": "1280",
+          "sailthruTags": "news,pop culture,lifeandculture,things-to-do,monroe ave.,jay leno,national public radio,grand rapids",
+          "articleDateUpdated": "Friday, December 20, 2019, 08:34 AM",
+          "ogTitle": "Comedian Alonzo Bodden riffs on Trump, 2020 election ahead of Michigan shows",
+          "title": "Comedian Alonzo Bodden riffs on Trump, 2020 election ahead of Michigan shows",
+          "ogType": "article",
+          "articleTag": "lifeandculture,things-to-do,@mlive-river,@gr-river,@aa-river,@jx-river,@sa-river,@fl-river,@kz-river,@mlive-app",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "jgonzale",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "John Gonzalez | gonzo@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/news/2019/12/comedian-alonzo-bodden-riffs-on-trump-2020-election-ahead-of-michigan-shows.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2019-12-20T13:34:15.324Z",
+          "twitterImage": "https://www.mlive.com/resizer/hROPg4tobSNn8LMXw0Ccre8sKj8=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/22F3ONU3VZB3THS3MYGULH65W4.jpg",
+          "sailthruDate": "Friday, December 20, 2019, 08:34 AM",
+          "ogDescription": "The popular comedian of public radio's \"Wait, Wait...Don't Tell Me!\" said President Trump doesn't seem to have any serious challengers in the next presidential election.",
+          "ogImage": "https://www.mlive.com/resizer/hROPg4tobSNn8LMXw0Ccre8sKj8=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/22F3ONU3VZB3THS3MYGULH65W4.jpg",
+          "sections": "news/ann-arbor,news/flint,news/grand-rapids,news/jackson,news/kalamazoo,news/muskegon,news/saginaw-bay-city,news",
+          "articleDateOriginal": "Friday, December 20, 2019, 08:34 AM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "The popular comedian of public radio's \"Wait, Wait...Don't Tell Me!\" said President Trump doesn't seem to have any serious challengers in the next presidential election.",
+          "ogUrl": "https://www.mlive.com/news/2019/12/comedian-alonzo-bodden-riffs-on-trump-2020-election-ahead-of-michigan-shows.html",
+          "articleModifiedTime": "2019-12-20T13:34:15.324Z",
+          "articleSection": "News",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "Comedian Alonzo Bodden riffs on Trump, 2020 election ahead of Michigan shows",
+          "machineTags": "@mlive-river,@gr-river,@aa-river,@jx-river,@sa-river,@fl-river,@kz-river,@mlive-app",
+          "articleAuthor": "https://www.facebook.com/GRGonzo"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ10elrVdZa5HF48RaUm4uT5F24VXIGWCxNpsc_Cht1E0ccDX8uch18o22R",
+          "width": "246",
+          "height": "205"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "news",
+          "2019/12",
+          "comedian-alonzo-bodden-riffs-..."
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:NUUtnSGOlHAJ:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/sports/grand-rapids/2020/08/some-kent-county-races-too-close-to-call-with-absentee-ballots-yet-to-be-counted.html&sa=U&ved=2ahUKEwi7tpfUjI3rAhUCBKYKHSIADNo4WhAWMAN6BAgJEAI&usg=AOvVaw1wrRdb6qhkk-8etW_GOGtB",
+      "content": "3 days ago \u003cb\u003e...\u003c/b\u003e ... Michigan voters head to the polls in primary \u003cb\u003eelection\u003c/b\u003e on Aug. 4, \u003cb\u003e2020\u003c/b\u003e ... of \nabsentee ballots being verified and tallied the day of the \u003cb\u003eelection\u003c/b\u003e.",
+      "contentNoFormatting": "3 days ago ... ... Michigan voters head to the polls in primary election on Aug. 4, 2020 ... of \nabsentee ballots being verified and tallied the day of the election.",
+      "title": "Some Kent County races too close to call with absentee ballots yet ...",
+      "titleNoFormatting": "Some Kent County races too close to call with absentee ballots yet ...",
+      "formattedUrl": "https://www.mlive.com/.../\u003cb\u003e2020\u003c/b\u003e/.../some-kent-county-races-too-close-to-call- with-absentee-ballots-yet-to-be-counted.html",
+      "unescapedUrl": "https://www.mlive.com/sports/grand-rapids/2020/08/some-kent-county-races-too-close-to-call-with-absentee-ballots-yet-to-be-counted.html",
+      "url": "https://www.mlive.com/sports/grand-rapids/2020/08/some-kent-county-races-too-close-to-call-with-absentee-ballots-yet-to-be-counted.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/x1HAiFyQzjhjPWvT-gfjauZuTe4=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ED37Y2YKZRBEZNKGVXL6KARDJ4.JPG"
+        },
+        "metatags": {
+          "sailthruDescription": "Peter Meijer secured the Republican nomination for the U.S. 3rd Congressional District.",
+          "twitterTitle": "Some Kent County races too close to call with absentee ballots yet to be counted",
+          "ogImageWidth": "1280",
+          "sailthruTags": "grand rapids,state and local elections,local governments,election-2020,muskegon county,ionia,calhoun,courtland",
+          "articleDateUpdated": "Wednesday, August 05, 2020, 06:52 AM",
+          "ogTitle": "Some Kent County races too close to call with absentee ballots yet to be counted",
+          "title": "Some Kent County races too close to call with absentee ballots yet to be counted",
+          "ogType": "article",
+          "articleTag": "@gr-river,@mlive-river,@gr-app,election-2020",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "mkransz",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Michael Kransz | mkransz@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/sports/grand-rapids/2020/08/some-kent-county-races-too-close-to-call-with-absentee-ballots-yet-to-be-counted.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2020-08-05T10:00:00Z",
+          "twitterImage": "https://www.mlive.com/resizer/x1HAiFyQzjhjPWvT-gfjauZuTe4=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ED37Y2YKZRBEZNKGVXL6KARDJ4.JPG",
+          "sailthruDate": "Wednesday, August 05, 2020, 06:00 AM",
+          "ogDescription": "Peter Meijer secured the Republican nomination for the U.S. 3rd Congressional District.",
+          "ogImage": "https://www.mlive.com/resizer/x1HAiFyQzjhjPWvT-gfjauZuTe4=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ED37Y2YKZRBEZNKGVXL6KARDJ4.JPG",
+          "sections": "news,news/grand-rapids",
+          "articleDateOriginal": "Wednesday, August 05, 2020, 06:00 AM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "Peter Meijer secured the Republican nomination for the U.S. 3rd Congressional District.",
+          "ogUrl": "https://www.mlive.com/sports/grand-rapids/2020/08/some-kent-county-races-too-close-to-call-with-absentee-ballots-yet-to-be-counted.html",
+          "articleModifiedTime": "2020-08-05T10:52:48.105Z",
+          "articleSection": "Grand Rapids",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "Some Kent County races too close to call with absentee ballots yet to be counted",
+          "machineTags": "@gr-river,@mlive-river,@gr-app",
+          "articleAuthor": "Michael Kransz | mkransz@mlive.com"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0TUe24rG8makqCSU2Fs0tibaYr6KpTTfhGM03BM-tY-lp2EY8emYjMc_D",
+          "width": "275",
+          "height": "183"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "sports",
+          "grand-rapids",
+          "2020/08",
+          "some-kent-cou..."
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:tjmlAxbch00J:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/news/2019/09/michigan-democrats-organizing-early-to-stop-trump-repeat-in-2020.html&sa=U&ved=2ahUKEwi7tpfUjI3rAhUCBKYKHSIADNo4WhAWMAR6BAgBEAI&usg=AOvVaw3F-QxJdKY99Ft6b7woNiTC",
+      "content": "1 Sep 2019 \u003cb\u003e...\u003c/b\u003e Michigan Republican Party Chairwoman Laura Cox said Trump started his re-\n\u003cb\u003eelection\u003c/b\u003e campaign “the moment” after being inaugurated in 2017,&nbsp;...",
+      "contentNoFormatting": "1 Sep 2019 ... Michigan Republican Party Chairwoman Laura Cox said Trump started his re-\nelection campaign “the moment” after being inaugurated in 2017, ...",
+      "title": "Michigan Democrats organizing early to stop Trump repeat in \u003cb\u003e2020\u003c/b\u003e ...",
+      "titleNoFormatting": "Michigan Democrats organizing early to stop Trump repeat in 2020 ...",
+      "formattedUrl": "https://www.mlive.com/.../michigan-democrats-organizing-early-to-stop- trump-repeat-in-\u003cb\u003e2020\u003c/b\u003e.html",
+      "unescapedUrl": "https://www.mlive.com/news/2019/09/michigan-democrats-organizing-early-to-stop-trump-repeat-in-2020.html",
+      "url": "https://www.mlive.com/news/2019/09/michigan-democrats-organizing-early-to-stop-trump-repeat-in-2020.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/eyQWNPH6_ckhBc3-I5SLi33spg8=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/CP5P7KJ4YJGWFALE6LDFEQK7OE.JPG"
+        },
+        "metatags": {
+          "sailthruDescription": "Democrats are organizing in Michigan earlier than ever to stop President Donald Trump from winning the state in 2020.",
+          "twitterTitle": "Michigan Democrats organizing early to stop Trump repeat in 2020",
+          "ogImageWidth": "1280",
+          "sailthruTags": "news,race and ethnicity,campaigns and campaign finance,presidential elections,communities and subcultures,congressional elections,independent,impact",
+          "articleDateUpdated": "Tuesday, September 03, 2019, 01:12 PM",
+          "ogTitle": "Michigan Democrats organizing early to stop Trump repeat in 2020",
+          "title": "Michigan Democrats organizing early to stop Trump repeat in 2020",
+          "ogType": "article",
+          "articleTag": "@mlive-river,@mlive-app,@jx-river,@sg-river,@aa-river,@fl-river,@sa-river,@gr-river,@kz-river,impact,@jx-app,@sg-app,@aa-app,@fl-app,@sa-app,@gr-app,@kz-app,how-we-got-here",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "mbarrett2",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Malachi Barrett | mbarret1@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/news/2019/09/michigan-democrats-organizing-early-to-stop-trump-repeat-in-2020.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2019-09-01T13:00:04.771Z",
+          "twitterImage": "https://www.mlive.com/resizer/eyQWNPH6_ckhBc3-I5SLi33spg8=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/CP5P7KJ4YJGWFALE6LDFEQK7OE.JPG",
+          "sailthruDate": "Sunday, September 01, 2019, 09:00 AM",
+          "ogDescription": "Democrats are organizing in Michigan earlier than ever to stop President Donald Trump from winning the state in 2020.",
+          "ogImage": "https://www.mlive.com/resizer/eyQWNPH6_ckhBc3-I5SLi33spg8=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/CP5P7KJ4YJGWFALE6LDFEQK7OE.JPG",
+          "sections": "public-interest,politics,news/saginaw-bay-city,news/muskegon,news/kalamazoo,news/jackson,news/flint,news/grand-rapids,news/ann-arbor,news,life",
+          "articleDateOriginal": "Sunday, September 01, 2019, 09:00 AM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "Democrats are organizing in Michigan earlier than ever to stop President Donald Trump from winning the state in 2020.",
+          "ogUrl": "https://www.mlive.com/news/2019/09/michigan-democrats-organizing-early-to-stop-trump-repeat-in-2020.html",
+          "articleModifiedTime": "2019-09-03T17:12:19.385Z",
+          "articleSection": "News",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "Michigan Democrats organizing early to stop Trump repeat in 2020",
+          "machineTags": "@mlive-river,@mlive-app,@jx-river,@sg-river,@aa-river,@fl-river,@sa-river,@gr-river,@kz-river,@jx-app,@sg-app,@aa-app,@fl-app,@sa-app,@gr-app,@kz-app",
+          "articleAuthor": "https://www.facebook.com/malachi.barrett"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR3mB_HrHuGDUaOIo0YZ0vvSbm8Jtw0TSZ9yauIinpNOKuq2WA_e3xWdwXx",
+          "width": "275",
+          "height": "183"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "news",
+          "2019/09",
+          "michigan-democrats-organizin..."
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:E3mN4XcUP9oJ:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/public-interest/2020/07/trumps-call-to-delay-election-more-about-politics-than-safety-whitmer-says.html&sa=U&ved=2ahUKEwi7tpfUjI3rAhUCBKYKHSIADNo4WhAWMAV6BAgCEAI&usg=AOvVaw28uEGKh6z3EWpKjgfzS6u8",
+      "content": "30 Jul 2020 \u003cb\u003e...\u003c/b\u003e Whitmer disagreed in her own statement, saying the president is “more focused \non his chances in the \u003cb\u003e2020 election\u003c/b\u003e” than providing voters with&nbsp;...",
+      "contentNoFormatting": "30 Jul 2020 ... Whitmer disagreed in her own statement, saying the president is “more focused \non his chances in the 2020 election” than providing voters with ...",
+      "title": "Trump&#39;s call to &#39;delay&#39; \u003cb\u003eelection\u003c/b\u003e more about politics than safety ...",
+      "titleNoFormatting": "Trump's call to 'delay' election more about politics than safety ...",
+      "formattedUrl": "https://www.mlive.com/.../\u003cb\u003e2020\u003c/b\u003e/.../trumps-call-to-delay-\u003cb\u003eelection\u003c/b\u003e-more-about- politics-than-safety-whitmer-says.html",
+      "unescapedUrl": "https://www.mlive.com/public-interest/2020/07/trumps-call-to-delay-election-more-about-politics-than-safety-whitmer-says.html",
+      "url": "https://www.mlive.com/public-interest/2020/07/trumps-call-to-delay-election-more-about-politics-than-safety-whitmer-says.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/Fbu5n0wOcNww7nXDT4zchbnoEEs=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/6HBM6BBLPFFZLNTOTWO3ZSVCHA.jpg"
+        },
+        "metatags": {
+          "sailthruDescription": "Whitmer said Trump’s call for a “delay” to the Nov. 3 presidential election is about protecting himself from losing.",
+          "twitterTitle": "Trump’s call to ‘delay’ election more about politics than safety, Whitmer says",
+          "ogImageWidth": "1280",
+          "sailthruTags": "public interest,congressional elections,communities and subcultures,race and ethnicity,presidential elections,impact,public-interest,election-2020",
+          "articleDateUpdated": "Thursday, July 30, 2020, 11:42 AM",
+          "ogTitle": "Trump’s call to ‘delay’ election more about politics than safety, Whitmer says",
+          "title": "Trump’s call to ‘delay’ election more about politics than safety, Whitmer says",
+          "ogType": "article",
+          "articleTag": "@mlive-river,@mlive-app,@jx-river,@sa-river,@gr-river,@fl-river,@aa-river,@kz-river,impact,public-interest,election-2020",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "mbarrett2",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Malachi Barrett | mbarret1@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/public-interest/2020/07/trumps-call-to-delay-election-more-about-politics-than-safety-whitmer-says.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2020-07-30T14:45:50.844Z",
+          "twitterImage": "https://www.mlive.com/resizer/Fbu5n0wOcNww7nXDT4zchbnoEEs=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/6HBM6BBLPFFZLNTOTWO3ZSVCHA.jpg",
+          "sailthruDate": "Thursday, July 30, 2020, 10:45 AM",
+          "ogDescription": "Whitmer said Trump’s call for a “delay” to the Nov. 3 presidential election is about protecting himself from losing.",
+          "ogImage": "https://www.mlive.com/resizer/Fbu5n0wOcNww7nXDT4zchbnoEEs=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/6HBM6BBLPFFZLNTOTWO3ZSVCHA.jpg",
+          "sections": "public-interest,politics,news/saginaw-bay-city,news/muskegon,news/kalamazoo,news/jackson,news/grand-rapids,news/flint,news/ann-arbor,news",
+          "articleDateOriginal": "Thursday, July 30, 2020, 10:45 AM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "Whitmer said Trump’s call for a “delay” to the Nov. 3 presidential election is about protecting himself from losing.",
+          "ogUrl": "https://www.mlive.com/public-interest/2020/07/trumps-call-to-delay-election-more-about-politics-than-safety-whitmer-says.html",
+          "articleModifiedTime": "2020-07-30T15:42:38.608Z",
+          "articleSection": "Public Interest",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "Trump’s call to ‘delay’ election more about politics than safety, Whitmer says",
+          "machineTags": "@mlive-river,@mlive-app,@jx-river,@sa-river,@gr-river,@fl-river,@aa-river,@kz-river",
+          "articleAuthor": "https://www.facebook.com/malachi.barrett"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRAHF7udSGYXbc7O3zKVcx4RRxHvUMo465945rfMYv8oizKHf6MgikR1dU",
+          "width": "285",
+          "height": "177"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "public-interest",
+          "2020/07",
+          "trumps-call-to-delay-e..."
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:-FVndyIiTFwJ:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/public-interest/2019/09/mike-pence-says-trump-earned-michigans-vote-in-2020.html&sa=U&ved=2ahUKEwi7tpfUjI3rAhUCBKYKHSIADNo4WhAWMAZ6BAgEEAI&usg=AOvVaw1Y-tnhOIhqZt29BKq-mPpM",
+      "content": "21 Sep 2019 \u003cb\u003e...\u003c/b\u003e MACKINAC ISLAND, MI -- Vice President Mike Pence said there&#39;s no doubt \nPresident Donald Trump earned the \u003cb\u003evote\u003c/b\u003e of Michiganders for a&nbsp;...",
+      "contentNoFormatting": "21 Sep 2019 ... MACKINAC ISLAND, MI -- Vice President Mike Pence said there's no doubt \nPresident Donald Trump earned the vote of Michiganders for a ...",
+      "title": "Mike Pence says Trump earned Michigan&#39;s \u003cb\u003evote\u003c/b\u003e in \u003cb\u003e2020\u003c/b\u003e - mlive.com",
+      "titleNoFormatting": "Mike Pence says Trump earned Michigan's vote in 2020 - mlive.com",
+      "formattedUrl": "https://www.mlive.com/.../mike-pence-says-trump-earned-michigans-\u003cb\u003evote\u003c/b\u003e-in- \u003cb\u003e2020\u003c/b\u003e.html",
+      "unescapedUrl": "https://www.mlive.com/public-interest/2019/09/mike-pence-says-trump-earned-michigans-vote-in-2020.html",
+      "url": "https://www.mlive.com/public-interest/2019/09/mike-pence-says-trump-earned-michigans-vote-in-2020.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/qiwstmzrtaaOsdTijpECpECQZ8U=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/QJYBO6DZE5G4ZIA5ECCFQSSVDQ.jpg"
+        },
+        "metatags": {
+          "sailthruDescription": "Vice President Mike Pence visited Mackinac Island Saturday to speak at a Republican leadership conference.",
+          "twitterTitle": "Mike Pence says Trump earned Michigan’s vote in 2020",
+          "ogImageWidth": "1280",
+          "sailthruTags": "public interest,congressional elections,race and ethnicity,communities and subcultures,impact,pence,d-minn,michigan republican party",
+          "articleDateUpdated": "Saturday, September 21, 2019, 02:14 PM",
+          "ogTitle": "Mike Pence says Trump earned Michigan’s vote in 2020",
+          "title": "Mike Pence says Trump earned Michigan’s vote in 2020",
+          "ogType": "article",
+          "articleTag": "@mlive-river,@mlive-app,@jx-river,@sa-river,@sg-river,@fl-river,@gr-river,@aa-river,impact,@kz-river",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "mbarrett2",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Malachi Barrett | mbarret1@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/public-interest/2019/09/mike-pence-says-trump-earned-michigans-vote-in-2020.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2019-09-21T18:14:31.556Z",
+          "twitterImage": "https://www.mlive.com/resizer/qiwstmzrtaaOsdTijpECpECQZ8U=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/QJYBO6DZE5G4ZIA5ECCFQSSVDQ.jpg",
+          "sailthruDate": "Saturday, September 21, 2019, 02:14 PM",
+          "ogDescription": "Vice President Mike Pence visited Mackinac Island Saturday to speak at a Republican leadership conference.",
+          "ogImage": "https://www.mlive.com/resizer/qiwstmzrtaaOsdTijpECpECQZ8U=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/QJYBO6DZE5G4ZIA5ECCFQSSVDQ.jpg",
+          "sections": "public-interest,politics,news/saginaw-bay-city,news/muskegon,news/kalamazoo,news/jackson,news/grand-rapids,news/flint,news/ann-arbor,news",
+          "articleDateOriginal": "Saturday, September 21, 2019, 02:14 PM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "Vice President Mike Pence visited Mackinac Island Saturday to speak at a Republican leadership conference.",
+          "ogUrl": "https://www.mlive.com/public-interest/2019/09/mike-pence-says-trump-earned-michigans-vote-in-2020.html",
+          "articleModifiedTime": "2019-09-21T18:14:31.556Z",
+          "articleSection": "Public Interest",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "Mike Pence says Trump earned Michigan’s vote in 2020",
+          "machineTags": "@mlive-river,@mlive-app,@jx-river,@sa-river,@sg-river,@fl-river,@gr-river,@aa-river,@kz-river",
+          "articleAuthor": "https://www.facebook.com/malachi.barrett"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQrkn5VWPnhVqUQRJu2iASHt9QvtNAXGzL6KCUG_oImk8lSiUWqvRwxLdK1",
+          "width": "275",
+          "height": "183"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "public-interest",
+          "2019/09",
+          "mike-pence-says-trum..."
+        ]
+      }
+    },
+    {
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/public-interest/2019/06/winning-michigan-will-be-harder-for-trump-in-2020-says-rnc-chairwoman.html&sa=U&ved=2ahUKEwi7tpfUjI3rAhUCBKYKHSIADNo4WhAWMAd6BAgFEAI&usg=AOvVaw3413wzMoVxg1hfUU7m2Mey",
+      "content": "10 Jun 2019 \u003cb\u003e...\u003c/b\u003e More than a year before the \u003cb\u003e2020 election\u003c/b\u003e, Trump and Democratic presidential \nhopefuls began holding campaign stops in Michigan, while&nbsp;...",
+      "contentNoFormatting": "10 Jun 2019 ... More than a year before the 2020 election, Trump and Democratic presidential \nhopefuls began holding campaign stops in Michigan, while ...",
+      "title": "Winning Michigan will be harder for Trump in \u003cb\u003e2020\u003c/b\u003e, says RNC ...",
+      "titleNoFormatting": "Winning Michigan will be harder for Trump in 2020, says RNC ...",
+      "formattedUrl": "https://www.mlive.com/.../winning-michigan-will-be-harder-for-trump-in- \u003cb\u003e2020\u003c/b\u003e-says-rnc-chairwoman.html",
+      "unescapedUrl": "https://www.mlive.com/public-interest/2019/06/winning-michigan-will-be-harder-for-trump-in-2020-says-rnc-chairwoman.html",
+      "url": "https://www.mlive.com/public-interest/2019/06/winning-michigan-will-be-harder-for-trump-in-2020-says-rnc-chairwoman.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/MvBT43Cs4fdr0PBRzSXdJAHjOIU=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/MBXOWWLKMRAFJCQDUSUPRLA2EA.jpg"
+        },
+        "metatags": {
+          "sailthruDescription": "RNC Chairwoman Ronna McDaniel said Michigan is “absolutely” a swing state.",
+          "twitterTitle": "Winning Michigan will be harder for Trump in 2020, says RNC chairwoman",
+          "ogImageWidth": "1280",
+          "sailthruTags": "public interest,race and ethnicity,presidential elections,republicans,congressional elections,communities and subcultures,independent,campaigns and campaign finance",
+          "articleDateUpdated": "Monday, June 10, 2019, 03:08 PM",
+          "ogTitle": "Winning Michigan will be harder for Trump in 2020, says RNC chairwoman",
+          "title": "Winning Michigan will be harder for Trump in 2020, says RNC chairwoman",
+          "ogType": "article",
+          "articleTag": "@mlive-river,@mlive-app,@kz-river,@gr-river,@aa-river,@jx-river,@fl-river,impact,@sg-river",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "mbarrett2",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Malachi Barrett | mbarret1@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/public-interest/2019/06/winning-michigan-will-be-harder-for-trump-in-2020-says-rnc-chairwoman.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2019-06-10T19:08:35.993Z",
+          "twitterImage": "https://www.mlive.com/resizer/MvBT43Cs4fdr0PBRzSXdJAHjOIU=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/MBXOWWLKMRAFJCQDUSUPRLA2EA.jpg",
+          "sailthruDate": "Monday, June 10, 2019, 03:08 PM",
+          "ogDescription": "RNC Chairwoman Ronna McDaniel said Michigan is “absolutely” a swing state.",
+          "ogImage": "https://www.mlive.com/resizer/MvBT43Cs4fdr0PBRzSXdJAHjOIU=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/MBXOWWLKMRAFJCQDUSUPRLA2EA.jpg",
+          "sections": "public-interest,politics,news/saginaw-bay-city,news/muskegon,news/kalamazoo,news/jackson,news/grand-rapids,news/flint,news/ann-arbor,news",
+          "articleDateOriginal": "Monday, June 10, 2019, 03:08 PM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "RNC Chairwoman Ronna McDaniel said Michigan is “absolutely” a swing state.",
+          "ogUrl": "https://www.mlive.com/public-interest/2019/06/winning-michigan-will-be-harder-for-trump-in-2020-says-rnc-chairwoman.html",
+          "articleModifiedTime": "2019-06-10T19:08:35.993Z",
+          "articleSection": "Public Interest",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "Winning Michigan will be harder for Trump in 2020, says RNC chairwoman",
+          "machineTags": "@mlive-river,@mlive-app,@kz-river,@gr-river,@aa-river,@jx-river,@fl-river,@sg-river",
+          "articleAuthor": "https://www.facebook.com/malachi.barrett"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTY_trPkqVyD_NXlV0MwI87UPmtrK4p2GyVjG03ogsAeUhChVXNZWD2sbE0",
+          "width": "275",
+          "height": "183"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "public-interest",
+          "2019/06",
+          "winning-michigan-wil..."
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:n64DYnrxtQsJ:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/news/muskegon/2020/08/fruitport-township-supervisor-defeated-in-primary-election.html&sa=U&ved=2ahUKEwi7tpfUjI3rAhUCBKYKHSIADNo4WhAWMAh6BAgDEAI&usg=AOvVaw3GiabzZ_Z125wfjOwN7U5r",
+      "content": "3 days ago \u003cb\u003e...\u003c/b\u003e 4, \u003cb\u003e2020\u003c/b\u003e, Democratic primary. Dunham faces no registered opposition in the \nNovember \u003cb\u003eelection\u003c/b\u003e. By Lynn Moore | lmoore8@mlive.com.",
+      "contentNoFormatting": "3 days ago ... 4, 2020, Democratic primary. Dunham faces no registered opposition in the \nNovember election. By Lynn Moore | lmoore8@mlive.com.",
+      "title": "Fruitport Township supervisor defeated in primary \u003cb\u003eelection\u003c/b\u003e - mlive.com",
+      "titleNoFormatting": "Fruitport Township supervisor defeated in primary election - mlive.com",
+      "formattedUrl": "https://www.mlive.com/.../\u003cb\u003e2020\u003c/b\u003e/.../fruitport-township-supervisor-defeated-in- primary-\u003cb\u003eelection\u003c/b\u003e.html",
+      "unescapedUrl": "https://www.mlive.com/news/muskegon/2020/08/fruitport-township-supervisor-defeated-in-primary-election.html",
+      "url": "https://www.mlive.com/news/muskegon/2020/08/fruitport-township-supervisor-defeated-in-primary-election.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/6jj1O_3Vd2xbwDBlUqiMSiff1-0=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/BAK44ZYS4JHIRI5EASTRC2WJKM.jpg"
+        },
+        "metatags": {
+          "sailthruDescription": "Heidi Tice lost to Todd Dunham, the presumed new supervisor.",
+          "twitterTitle": "Fruitport Township supervisor defeated in primary election",
+          "ogImageWidth": "1280",
+          "sailthruTags": "muskegon,township,dunham,business,todd dunham,heidi tice,fruitport township,muskegon county",
+          "articleDateUpdated": "Wednesday, August 05, 2020, 02:20 PM",
+          "ogTitle": "Fruitport Township supervisor defeated in primary election",
+          "title": "Fruitport Township supervisor defeated in primary election",
+          "ogType": "article",
+          "articleTag": "@mu-app,@mu-river,@gr-app,@gr-river",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "lwmoo",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Lynn Moore | lmoore8@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/news/muskegon/2020/08/fruitport-township-supervisor-defeated-in-primary-election.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2020-08-05T18:20:08.759Z",
+          "twitterImage": "https://www.mlive.com/resizer/6jj1O_3Vd2xbwDBlUqiMSiff1-0=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/BAK44ZYS4JHIRI5EASTRC2WJKM.jpg",
+          "sailthruDate": "Wednesday, August 05, 2020, 02:20 PM",
+          "ogDescription": "Heidi Tice lost to Todd Dunham, the presumed new supervisor.",
+          "ogImage": "https://www.mlive.com/resizer/6jj1O_3Vd2xbwDBlUqiMSiff1-0=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/BAK44ZYS4JHIRI5EASTRC2WJKM.jpg",
+          "sections": "news/muskegon,news/grand-rapids",
+          "articleDateOriginal": "Wednesday, August 05, 2020, 02:20 PM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "Heidi Tice lost to Todd Dunham, the presumed new supervisor.",
+          "ogUrl": "https://www.mlive.com/news/muskegon/2020/08/fruitport-township-supervisor-defeated-in-primary-election.html",
+          "articleModifiedTime": "2020-08-05T18:20:08.759Z",
+          "articleSection": "Muskegon",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "Fruitport Township supervisor defeated in primary election",
+          "machineTags": "@mu-app,@mu-river,@gr-app,@gr-river",
+          "articleAuthor": "https://www.facebook.com/lynn.moore.16"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSySJYs61yVveaQpNEjKJgDdmHIhyr8KKGDJ8HSDN5B-kt0PP72jQv8Hw",
+          "width": "150",
+          "height": "105"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "news",
+          "muskegon",
+          "2020/08",
+          "fruitport-township..."
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:-PJdR8CLU1MJ:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/news/grand-rapids/2020/08/6-races-to-watch-on-election-day-in-grand-rapids-area.html&sa=U&ved=2ahUKEwi7tpfUjI3rAhUCBKYKHSIADNo4WhAWMAl6BAgGEAI&usg=AOvVaw23RwKMSXMxGEv8nC5rfNvO",
+      "content": "5 days ago \u003cb\u003e...\u003c/b\u003e 4, \u003cb\u003e2020\u003c/b\u003e primary \u003cb\u003eelection\u003c/b\u003e for a chance at becoming Kent County&#39;s next Treasurer. \n(Photos of Reyna and White supplied to MLive.com).",
+      "contentNoFormatting": "5 days ago ... 4, 2020 primary election for a chance at becoming Kent County's next Treasurer. \n(Photos of Reyna and White supplied to MLive.com).",
+      "title": "6 races to watch on \u003cb\u003eElection\u003c/b\u003e Day in Grand Rapids area - mlive.com",
+      "titleNoFormatting": "6 races to watch on Election Day in Grand Rapids area - mlive.com",
+      "formattedUrl": "https://www.mlive.com/.../\u003cb\u003e2020\u003c/b\u003e/.../6-races-to-watch-on-\u003cb\u003eelection\u003c/b\u003e-day-in-grand -rapids-area.html",
+      "unescapedUrl": "https://www.mlive.com/news/grand-rapids/2020/08/6-races-to-watch-on-election-day-in-grand-rapids-area.html",
+      "url": "https://www.mlive.com/news/grand-rapids/2020/08/6-races-to-watch-on-election-day-in-grand-rapids-area.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/2-XdYbCpJ4dllsOAoalWAjbdtw0=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/JZCYZYUR45CFHIZPEVLH3NXWDE.jpg"
+        },
+        "metatags": {
+          "sailthruDescription": "Contested races include primaries for an area Congressional seat, five of 18 Kent County commissioner seats and more.",
+          "twitterTitle": "6 races to watch on Election Day in Grand Rapids area",
+          "ogImageWidth": "1280",
+          "sailthruTags": "grand rapids,state and local elections,local governments,county,muskegon county,ionia,calhoun,courtland",
+          "articleDateUpdated": "Monday, August 03, 2020, 04:37 PM",
+          "ogTitle": "6 races to watch on Election Day in Grand Rapids area",
+          "title": "6 races to watch on Election Day in Grand Rapids area",
+          "ogType": "article",
+          "articleTag": "@gr-river,@mlive-river,@gr-app",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "mkransz",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Michael Kransz | mkransz@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/news/grand-rapids/2020/08/6-races-to-watch-on-election-day-in-grand-rapids-area.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2020-08-03T20:37:12.159Z",
+          "twitterImage": "https://www.mlive.com/resizer/2-XdYbCpJ4dllsOAoalWAjbdtw0=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/JZCYZYUR45CFHIZPEVLH3NXWDE.jpg",
+          "sailthruDate": "Monday, August 03, 2020, 04:37 PM",
+          "ogDescription": "Contested races include primaries for an area Congressional seat, five of 18 Kent County commissioner seats and more.",
+          "ogImage": "https://www.mlive.com/resizer/2-XdYbCpJ4dllsOAoalWAjbdtw0=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/JZCYZYUR45CFHIZPEVLH3NXWDE.jpg",
+          "sections": "news/grand-rapids,news",
+          "articleDateOriginal": "Monday, August 03, 2020, 04:37 PM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "Contested races include primaries for an area Congressional seat, five of 18 Kent County commissioner seats and more.",
+          "ogUrl": "https://www.mlive.com/news/grand-rapids/2020/08/6-races-to-watch-on-election-day-in-grand-rapids-area.html",
+          "articleModifiedTime": "2020-08-03T20:37:12.159Z",
+          "articleSection": "Grand Rapids",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "6 races to watch on Election Day in Grand Rapids area",
+          "machineTags": "@gr-river,@mlive-river,@gr-app",
+          "articleAuthor": "Michael Kransz | mkransz@mlive.com"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZgXM1Om2i7geivFMDuFpISaw8v62GpDESwZQfli64WJkd8bNJz6U1vgIF",
+          "width": "275",
+          "height": "183"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "news",
+          "grand-rapids",
+          "2020/08",
+          "6-races-to-watc..."
+        ]
+      }
+    }
+  ],
+  "findMoreOnGoogle": {
+    "url": "https://www.google.com/search?client=ms-google-coop&q=2020+election&cx=017476104391584697148:yfiniwqwjp4"
+  }
+});

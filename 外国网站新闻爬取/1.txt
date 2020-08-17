@@ -1,0 +1,715 @@
+/*O_o*/
+google.search.cse.api2105({
+  "cursor": {
+    "currentPageIndex": 1,
+    "estimatedResultCount": "1500000",
+    "moreResultsUrl": "http://www.google.com/cse?oe=utf8&ie=utf8&source=uds&q=2020+election&safe=off&start=10&sort=&cx=017476104391584697148:yfiniwqwjp4",
+    "resultCount": "1,500,000",
+    "searchResultTime": "0.46",
+    "pages": [
+      {
+        "label": 1,
+        "start": "0"
+      },
+      {
+        "label": 2,
+        "start": "10"
+      },
+      {
+        "label": 3,
+        "start": "20"
+      },
+      {
+        "label": 4,
+        "start": "30"
+      },
+      {
+        "label": 5,
+        "start": "40"
+      },
+      {
+        "label": 6,
+        "start": "50"
+      },
+      {
+        "label": 7,
+        "start": "60"
+      },
+      {
+        "label": 8,
+        "start": "70"
+      },
+      {
+        "label": 9,
+        "start": "80"
+      },
+      {
+        "label": 10,
+        "start": "90"
+      }
+    ]
+  },
+  "context": {
+    "title": "*.mlive.com",
+    "total_results": "0"
+  },
+  "results": [
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:NTPmxFdjhyEJ:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/news/muskegon/2020/08/what-we-know-so-far-about-muskegon-countys-august-2020-primary-election.html&sa=U&ved=2ahUKEwj436K_jI3rAhV_yIsBHZmpD8M4ChAWMAB6BAgAEAI&usg=AOvVaw0qMpNJiQBJvQXmb9hdx8sm",
+      "content": "3 days ago \u003cb\u003e...\u003c/b\u003e 4 primary \u003cb\u003eelection\u003c/b\u003e. 60th District judge candidates. Running in the Aug. 4, \u003cb\u003e2020\u003c/b\u003e, \nprimary for 60th District judge in Muskegon County are,&nbsp;...",
+      "contentNoFormatting": "3 days ago ... 4 primary election. 60th District judge candidates. Running in the Aug. 4, 2020, \nprimary for 60th District judge in Muskegon County are, ...",
+      "title": "What we know so far about Muskegon County&#39;s August \u003cb\u003e2020\u003c/b\u003e ...",
+      "titleNoFormatting": "What we know so far about Muskegon County's August 2020 ...",
+      "formattedUrl": "https://www.mlive.com/.../\u003cb\u003e2020\u003c/b\u003e/.../what-we-know-so-far-about-muskegon- countys-august-\u003cb\u003e2020\u003c/b\u003e-primary-\u003cb\u003eelection\u003c/b\u003e.html",
+      "unescapedUrl": "https://www.mlive.com/news/muskegon/2020/08/what-we-know-so-far-about-muskegon-countys-august-2020-primary-election.html",
+      "url": "https://www.mlive.com/news/muskegon/2020/08/what-we-know-so-far-about-muskegon-countys-august-2020-primary-election.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/OyKlCOXM2PQe09AOUJbeknXhJew=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/TWXOUUSV4NGAZJHF3AOQJ2ALOQ.JPG"
+        },
+        "metatags": {
+          "sailthruDescription": "Results were slow to come in Tuesday night. Here's what we know, as of early Wednesday.",
+          "twitterTitle": "What we know so far about Muskegon County’s August 2020 primary election",
+          "ogImageWidth": "1280",
+          "sailthruTags": "muskegon,state and local elections,campaigns and campaign finance,local governments,election-2020,muskegon-election,vote,norton shores",
+          "articleDateUpdated": "Wednesday, August 05, 2020, 06:00 AM",
+          "ogTitle": "What we know so far about Muskegon County’s August 2020 primary election",
+          "title": "What we know so far about Muskegon County’s August 2020 primary election",
+          "ogType": "article",
+          "articleTag": "@mu-app,@mu-river,@gr-app,@gr-river,election-2020,muskegon-election",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "avanwagt",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Anya van Wagtendonk | avanwagtendonk@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/news/muskegon/2020/08/what-we-know-so-far-about-muskegon-countys-august-2020-primary-election.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2020-08-05T10:00:00Z",
+          "twitterImage": "https://www.mlive.com/resizer/OyKlCOXM2PQe09AOUJbeknXhJew=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/TWXOUUSV4NGAZJHF3AOQJ2ALOQ.JPG",
+          "sailthruDate": "Wednesday, August 05, 2020, 06:00 AM",
+          "ogDescription": "Results were slow to come in Tuesday night. Here's what we know, as of early Wednesday.",
+          "ogImage": "https://www.mlive.com/resizer/OyKlCOXM2PQe09AOUJbeknXhJew=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/TWXOUUSV4NGAZJHF3AOQJ2ALOQ.JPG",
+          "sections": "news/muskegon,news/grand-rapids",
+          "articleDateOriginal": "Wednesday, August 05, 2020, 06:00 AM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "Results were slow to come in Tuesday night. Here's what we know, as of early Wednesday.",
+          "ogUrl": "https://www.mlive.com/news/muskegon/2020/08/what-we-know-so-far-about-muskegon-countys-august-2020-primary-election.html",
+          "articleModifiedTime": "2020-08-05T10:00:00Z",
+          "articleSection": "Muskegon",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "What we know so far about Muskegon County’s August 2020 primary election",
+          "machineTags": "@mu-app,@mu-river,@gr-app,@gr-river",
+          "articleAuthor": "Anya van Wagtendonk | anya@mlive.com"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSBzhWh3Ayx-wiytRGcD1ZeBgYLX0Vcc4CPAUubP6dIZ5o0jS-79RAQjDg",
+          "width": "150",
+          "height": "105"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "news",
+          "muskegon",
+          "2020/08",
+          "what-we-know-so..."
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:HqfQCRgRuXMJ:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/public-interest/2019/12/pence-asks-west-michigan-to-help-trump-win-reelection-in-2020.html&sa=U&ved=2ahUKEwj436K_jI3rAhV_yIsBHZmpD8M4ChAWMAF6BAgBEAI&usg=AOvVaw2zu8qts9XBfiOzR2FWWy9a",
+      "content": "4 Dec 2019 \u003cb\u003e...\u003c/b\u003e Pence visited Portage and Holland for a busy day of campaigning for the \u003cb\u003e2020\u003c/b\u003e \n\u003cb\u003eelection\u003c/b\u003e. More than 300 people attended the evening Holland&nbsp;...",
+      "contentNoFormatting": "4 Dec 2019 ... Pence visited Portage and Holland for a busy day of campaigning for the 2020 \nelection. More than 300 people attended the evening Holland ...",
+      "title": "Pence asks West Michigan to help Trump win reelection in \u003cb\u003e2020\u003c/b\u003e ...",
+      "titleNoFormatting": "Pence asks West Michigan to help Trump win reelection in 2020 ...",
+      "formattedUrl": "https://www.mlive.com/.../pence-asks-west-michigan-to-help-trump-win- re\u003cb\u003eelection\u003c/b\u003e-in-\u003cb\u003e2020\u003c/b\u003e.html",
+      "unescapedUrl": "https://www.mlive.com/public-interest/2019/12/pence-asks-west-michigan-to-help-trump-win-reelection-in-2020.html",
+      "url": "https://www.mlive.com/public-interest/2019/12/pence-asks-west-michigan-to-help-trump-win-reelection-in-2020.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/vgZyw-Tc9macxi9zRFrlxWgmLbc=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/R4ZECG7LVBHR5LTML2A37GLYUA.JPG"
+        },
+        "metatags": {
+          "sailthruDescription": "Vice President Mike Pence toured cities in West Michigan on Wednesday.",
+          "twitterTitle": "Pence asks West Michigan to help Trump win reelection in 2020",
+          "ogImageWidth": "1280",
+          "sailthruTags": "public interest,congressional elections,communities and subcultures,culture and tradition,race and ethnicity,independent,federal courts and scotus,impact",
+          "articleDateUpdated": "Thursday, December 05, 2019, 11:51 AM",
+          "ogTitle": "Pence asks West Michigan to help Trump win reelection in 2020",
+          "title": "Pence asks West Michigan to help Trump win reelection in 2020",
+          "ogType": "article",
+          "articleTag": "@mlive-river,@mlive-app,@jx-river,@sa-river,@fl-river,@kz-river,@aa-river,@gr-river,impact",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "mbarrett2",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Malachi Barrett | mbarret1@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/public-interest/2019/12/pence-asks-west-michigan-to-help-trump-win-reelection-in-2020.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2019-12-04T23:09:54.444Z",
+          "twitterImage": "https://www.mlive.com/resizer/vgZyw-Tc9macxi9zRFrlxWgmLbc=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/R4ZECG7LVBHR5LTML2A37GLYUA.JPG",
+          "sailthruDate": "Wednesday, December 04, 2019, 06:09 PM",
+          "ogDescription": "Vice President Mike Pence toured cities in West Michigan on Wednesday.",
+          "ogImage": "https://www.mlive.com/resizer/vgZyw-Tc9macxi9zRFrlxWgmLbc=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/R4ZECG7LVBHR5LTML2A37GLYUA.JPG",
+          "sections": "public-interest,politics,news/saginaw-bay-city,news/muskegon,news/kalamazoo,news/jackson,news/grand-rapids,news/flint,news/ann-arbor,news",
+          "articleDateOriginal": "Wednesday, December 04, 2019, 06:09 PM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "Vice President Mike Pence toured cities in West Michigan on Wednesday.",
+          "ogUrl": "https://www.mlive.com/public-interest/2019/12/pence-asks-west-michigan-to-help-trump-win-reelection-in-2020.html",
+          "articleModifiedTime": "2019-12-05T16:51:27.071Z",
+          "articleSection": "Public Interest",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "Pence asks West Michigan to help Trump win reelection in 2020",
+          "machineTags": "@mlive-river,@mlive-app,@jx-river,@sa-river,@fl-river,@kz-river,@aa-river,@gr-river",
+          "articleAuthor": "https://www.facebook.com/malachi.barrett"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTPz5-RydYHKNZdU6xtWK5Uy7Xhw2Kg2WeYkVkn3KbsgnDV3D-JtZjAy5Q",
+          "width": "266",
+          "height": "190"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "public-interest",
+          "2019/12",
+          "pence-asks-west-mich..."
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:m_zDbgP2n7gJ:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/politics/2020/05/justin-amash-says-his-candidacy-wouldnt-tip-2020-election-to-donald-trump.html&sa=U&ved=2ahUKEwj436K_jI3rAhV_yIsBHZmpD8M4ChAWMAJ6BAgDEAI&usg=AOvVaw0w2OE2Rp4qvhDCIUy9YltQ",
+      "content": "3 May 2020 \u003cb\u003e...\u003c/b\u003e U.S. Rep. Justin Amash says he won&#39;t be a spoiler for Donald Trump in the \u003cb\u003e2020\u003c/b\u003e \n\u003cb\u003eelection\u003c/b\u003e. Amash, who announced last week an exploratory&nbsp;...",
+      "contentNoFormatting": "3 May 2020 ... U.S. Rep. Justin Amash says he won't be a spoiler for Donald Trump in the 2020 \nelection. Amash, who announced last week an exploratory ...",
+      "title": "Justin Amash says his candidacy wouldn&#39;t tip \u003cb\u003e2020 election\u003c/b\u003e to ...",
+      "titleNoFormatting": "Justin Amash says his candidacy wouldn't tip 2020 election to ...",
+      "formattedUrl": "https://www.mlive.com/.../\u003cb\u003e2020\u003c/b\u003e/.../justin-amash-says-his-candidacy-wouldnt- tip-\u003cb\u003e2020\u003c/b\u003e-\u003cb\u003eelection\u003c/b\u003e-to-donald-trump.html",
+      "unescapedUrl": "https://www.mlive.com/politics/2020/05/justin-amash-says-his-candidacy-wouldnt-tip-2020-election-to-donald-trump.html",
+      "url": "https://www.mlive.com/politics/2020/05/justin-amash-says-his-candidacy-wouldnt-tip-2020-election-to-donald-trump.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/N05snY27nEylIqUYjpWOwlUW4Y8=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/ITJFTT3BXFGWHL4CG4VJJ53ISY.jpg"
+        },
+        "metatags": {
+          "sailthruDescription": "The Michigan congressman appeared Sunday morning on CNN's \"State of the Union.\"",
+          "twitterTitle": "Justin Amash says his candidacy wouldn’t tip 2020 election to Donald Trump",
+          "ogImageWidth": "1280",
+          "sailthruTags": "politics & elections,independent,justin-amash,amash,michigan house,joe walsh,justin amash,gretchen whitmer",
+          "articleDateUpdated": "Sunday, May 03, 2020, 12:50 PM",
+          "ogTitle": "Justin Amash says his candidacy wouldn’t tip 2020 election to Donald Trump",
+          "title": "Justin Amash says his candidacy wouldn’t tip 2020 election to Donald Trump",
+          "ogType": "article",
+          "articleTag": "@mlive-river,@aa-river,@aa-app,@fl-river,@fl-app,@gr-river,@gr-app,@jx-river,@jx-app,@kz-river,@kz-app,@mu-river,@mu-app,@sa-river,@sa-app,@bc-river,@bc-app,justin-amash,@mlive-politics",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "LMoore",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Lindsay Moore | lmoore@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/politics/2020/05/justin-amash-says-his-candidacy-wouldnt-tip-2020-election-to-donald-trump.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2020-05-03T16:50:22.133Z",
+          "twitterImage": "https://www.mlive.com/resizer/N05snY27nEylIqUYjpWOwlUW4Y8=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/ITJFTT3BXFGWHL4CG4VJJ53ISY.jpg",
+          "sailthruDate": "Sunday, May 03, 2020, 12:50 PM",
+          "ogDescription": "The Michigan congressman appeared Sunday morning on CNN's \"State of the Union.\"",
+          "ogImage": "https://www.mlive.com/resizer/N05snY27nEylIqUYjpWOwlUW4Y8=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/ITJFTT3BXFGWHL4CG4VJJ53ISY.jpg",
+          "sections": "news,news/ann-arbor,news/flint,news/grand-rapids,news/jackson,news/kalamazoo,news/muskegon,news/saginaw-bay-city,politics,public-interest",
+          "articleDateOriginal": "Sunday, May 03, 2020, 12:50 PM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "The Michigan congressman appeared Sunday morning on CNN's \"State of the Union.\"",
+          "ogUrl": "https://www.mlive.com/politics/2020/05/justin-amash-says-his-candidacy-wouldnt-tip-2020-election-to-donald-trump.html",
+          "articleModifiedTime": "2020-05-03T16:50:22.133Z",
+          "articleSection": "Politics & Elections",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "Justin Amash says his candidacy wouldn’t tip 2020 election to Donald Trump",
+          "machineTags": "@mlive-river,@aa-river,@aa-app,@fl-river,@fl-app,@gr-river,@gr-app,@jx-river,@jx-app,@kz-river,@kz-app,@mu-river,@mu-app,@sa-river,@sa-app,@bc-river,@bc-app,@mlive-politics",
+          "articleAuthor": "https://www.facebook.com/lindsay.moore.33633344"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTyFgldWOPMUoynmDgM_ZIhRD76LCvoEZt4BjvaJtjS28ct_Rrf4XJV66c",
+          "width": "275",
+          "height": "183"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "politics",
+          "2020/05",
+          "justin-amash-says-his-candid..."
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:6iMvKnFb3gkJ:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/news/ann-arbor/2020/07/5-ann-arbor-council-races-13-candidates-heres-what-they-have-to-say.html&sa=U&ved=2ahUKEwj436K_jI3rAhV_yIsBHZmpD8M4ChAWMAN6BAgHEAI&usg=AOvVaw0w0qHCEIU-CjrbkFLNB1WX",
+      "content": "10 Jul 2020 \u003cb\u003e...\u003c/b\u003e Election 2020 logo. For the \u003cb\u003e2020 election\u003c/b\u003e in Michigan, the primary is Aug. 4 and \nthe general election is Nov. 3.Milt Klingensmith | MLive.com.",
+      "contentNoFormatting": "10 Jul 2020 ... Election 2020 logo. For the 2020 election in Michigan, the primary is Aug. 4 and \nthe general election is Nov. 3.Milt Klingensmith | MLive.com.",
+      "title": "5 Ann Arbor council races, 13 candidates: Here&#39;s what they have to ...",
+      "titleNoFormatting": "5 Ann Arbor council races, 13 candidates: Here's what they have to ...",
+      "formattedUrl": "https://www.mlive.com/.../\u003cb\u003e2020\u003c/b\u003e/.../5-ann-arbor-council-races-13-candidates- heres-what-they-have-to-say.html",
+      "unescapedUrl": "https://www.mlive.com/news/ann-arbor/2020/07/5-ann-arbor-council-races-13-candidates-heres-what-they-have-to-say.html",
+      "url": "https://www.mlive.com/news/ann-arbor/2020/07/5-ann-arbor-council-races-13-candidates-heres-what-they-have-to-say.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/-Nu7P1ypcgBbZcib4-zhmgR0T5w=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SVI3P57AGFAIFEVK5PK3Z6HHKY.jpeg"
+        },
+        "metatags": {
+          "sailthruDescription": "Voters in every Ann Arbor ward have a choice to make in the Aug. 4 primary.",
+          "twitterTitle": "5 Ann Arbor council races, 13 candidates: Here’s what they have to say",
+          "ogImageWidth": "1280",
+          "sailthruTags": "ann arbor,campaigns and campaign finance,election-2020,election-2020-a2,ann-arbor-city-council,tony brown,league of women voters,city council",
+          "articleDateUpdated": "Saturday, July 11, 2020, 09:23 AM",
+          "ogTitle": "5 Ann Arbor council races, 13 candidates: Here’s what they have to say",
+          "title": "5 Ann Arbor council races, 13 candidates: Here’s what they have to say",
+          "ogType": "article",
+          "articleTag": "election-2020,election-2020-a2,ann-arbor-city-council,@aa-app,@aa-river,@mlive-river,@mlive-app",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "ryanstanton",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Ryan Stanton | ryanstanton@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/news/ann-arbor/2020/07/5-ann-arbor-council-races-13-candidates-heres-what-they-have-to-say.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2020-07-10T20:33:42.853Z",
+          "twitterImage": "https://www.mlive.com/resizer/-Nu7P1ypcgBbZcib4-zhmgR0T5w=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SVI3P57AGFAIFEVK5PK3Z6HHKY.jpeg",
+          "sailthruDate": "Friday, July 10, 2020, 04:33 PM",
+          "ogDescription": "Voters in every Ann Arbor ward have a choice to make in the Aug. 4 primary.",
+          "ogImage": "https://www.mlive.com/resizer/-Nu7P1ypcgBbZcib4-zhmgR0T5w=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SVI3P57AGFAIFEVK5PK3Z6HHKY.jpeg",
+          "sections": "news/ann-arbor,news",
+          "articleDateOriginal": "Friday, July 10, 2020, 04:33 PM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "Voters in every Ann Arbor ward have a choice to make in the Aug. 4 primary.",
+          "ogUrl": "https://www.mlive.com/news/ann-arbor/2020/07/5-ann-arbor-council-races-13-candidates-heres-what-they-have-to-say.html",
+          "articleModifiedTime": "2020-07-11T13:23:13.481Z",
+          "articleSection": "Ann Arbor",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "5 Ann Arbor council races, 13 candidates: Here’s what they have to say",
+          "machineTags": "@aa-app,@aa-river,@mlive-river,@mlive-app",
+          "articleAuthor": "Ryan Stanton | ryanstanton@mlive.com"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRhnK2wR43ltlDqzuEd_rNO9LGeNE_Gp7Uo8b-mVXNxwFlyPryfAXccZZbT",
+          "width": "304",
+          "height": "166"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "news",
+          "ann-arbor",
+          "2020/07",
+          "5-ann-arbor-counc..."
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:UhtPshPYP0QJ:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/public-interest/2019/11/nbc-pegs-kent-county-as-most-important-2020-presidential-battleground.html&sa=U&ved=2ahUKEwj436K_jI3rAhV_yIsBHZmpD8M4ChAWMAR6BAgIEAI&usg=AOvVaw2ntHxV8DWptrlK0Q9YmueM",
+      "content": "18 Nov 2019 \u003cb\u003e...\u003c/b\u003e West Michigan&#39;s Kent County may be the most important presidential \nbattleground in the \u003cb\u003e2020 election\u003c/b\u003e. The county was once a reliable&nbsp;...",
+      "contentNoFormatting": "18 Nov 2019 ... West Michigan's Kent County may be the most important presidential \nbattleground in the 2020 election. The county was once a reliable ...",
+      "title": "NBC pegs Kent County as most important \u003cb\u003e2020\u003c/b\u003e presidential ...",
+      "titleNoFormatting": "NBC pegs Kent County as most important 2020 presidential ...",
+      "formattedUrl": "https://www.mlive.com/.../nbc-pegs-kent-county-as-most-important-\u003cb\u003e2020\u003c/b\u003e- presidential-battleground.html",
+      "unescapedUrl": "https://www.mlive.com/public-interest/2019/11/nbc-pegs-kent-county-as-most-important-2020-presidential-battleground.html",
+      "url": "https://www.mlive.com/public-interest/2019/11/nbc-pegs-kent-county-as-most-important-2020-presidential-battleground.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/5X3FZv1zm4WKBUPBu5q7yk2LtFU=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/YF3JJOWDINGJRFX34PSWY5LYZU.JPG"
+        },
+        "metatags": {
+          "sailthruDescription": "NBC is embedding reporters in Kent County ahead of the 2020 election.",
+          "twitterTitle": "NBC pegs Kent County as most important 2020 presidential battleground",
+          "ogImageWidth": "1280",
+          "sailthruTags": "public interest,communities and subcultures,campaigns and campaign finance,impact,county,michigan democratic party,oakland university,beaver county",
+          "articleDateUpdated": "Monday, November 18, 2019, 02:08 PM",
+          "ogTitle": "NBC pegs Kent County as most important 2020 presidential battleground",
+          "title": "NBC pegs Kent County as most important 2020 presidential battleground",
+          "ogType": "article",
+          "articleTag": "@mlive-river,@mlive-app,@jx-river,@sa-river,@kz-river,@gr-river,@aa-river,impact",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "mbarrett2",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Malachi Barrett | mbarret1@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/public-interest/2019/11/nbc-pegs-kent-county-as-most-important-2020-presidential-battleground.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2019-11-18T18:28:09.392Z",
+          "twitterImage": "https://www.mlive.com/resizer/5X3FZv1zm4WKBUPBu5q7yk2LtFU=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/YF3JJOWDINGJRFX34PSWY5LYZU.JPG",
+          "sailthruDate": "Monday, November 18, 2019, 01:28 PM",
+          "ogDescription": "NBC is embedding reporters in Kent County ahead of the 2020 election.",
+          "ogImage": "https://www.mlive.com/resizer/5X3FZv1zm4WKBUPBu5q7yk2LtFU=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/YF3JJOWDINGJRFX34PSWY5LYZU.JPG",
+          "sections": "public-interest,politics,news/saginaw,news/muskegon,news/kalamazoo,news/jackson,news/grand-rapids,news/flint,news/ann-arbor,news",
+          "articleDateOriginal": "Monday, November 18, 2019, 01:28 PM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "NBC is embedding reporters in Kent County ahead of the 2020 election.",
+          "ogUrl": "https://www.mlive.com/public-interest/2019/11/nbc-pegs-kent-county-as-most-important-2020-presidential-battleground.html",
+          "articleModifiedTime": "2019-11-18T19:08:52.738Z",
+          "articleSection": "Public Interest",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "NBC pegs Kent County as most important 2020 presidential battleground",
+          "machineTags": "@mlive-river,@mlive-app,@jx-river,@sa-river,@kz-river,@gr-river,@aa-river",
+          "articleAuthor": "https://www.facebook.com/malachi.barrett"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR_AfwBKW9vI_-uo2qnUyTiWjikBxrxU3lFUEKpocdb8AZQ6hkvLhaCGAQ",
+          "width": "275",
+          "height": "183"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "public-interest",
+          "2019/11",
+          "nbc-pegs-kent-county..."
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:q3Ys41UsBb4J:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/news/kalamazoo/2020/08/election-results-slowed-in-kalamazoo-with-increased-absentee-voting-amid-pandemic.html&sa=U&ved=2ahUKEwj436K_jI3rAhV_yIsBHZmpD8M4ChAWMAV6BAgJEAI&usg=AOvVaw2amTeSjCF94Vr_S_RbOEfG",
+      "content": "3 days ago \u003cb\u003e...\u003c/b\u003e In the weeks leading up to \u003cb\u003eElection\u003c/b\u003e Day, voters considered several ... Michigan \nvoters head to the polls in primary \u003cb\u003eelection\u003c/b\u003e on Aug. 4, \u003cb\u003e2020\u003c/b\u003e.",
+      "contentNoFormatting": "3 days ago ... In the weeks leading up to Election Day, voters considered several ... Michigan \nvoters head to the polls in primary election on Aug. 4, 2020.",
+      "title": "\u003cb\u003eElection\u003c/b\u003e results slowed in Kalamazoo with increased absentee ...",
+      "titleNoFormatting": "Election results slowed in Kalamazoo with increased absentee ...",
+      "formattedUrl": "https://www.mlive.com/.../\u003cb\u003e2020\u003c/b\u003e/.../\u003cb\u003eelection\u003c/b\u003e-results-slowed-in-kalamazoo-with -increased-absentee-voting-amid-pandemic.html",
+      "unescapedUrl": "https://www.mlive.com/news/kalamazoo/2020/08/election-results-slowed-in-kalamazoo-with-increased-absentee-voting-amid-pandemic.html",
+      "url": "https://www.mlive.com/news/kalamazoo/2020/08/election-results-slowed-in-kalamazoo-with-increased-absentee-voting-amid-pandemic.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/RNRF55qkiNac4iR27yw0FygoGBQ=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SGVTHCI5BRG67CK556YW4CDIYI.JPG"
+        },
+        "metatags": {
+          "sailthruDescription": "In the weeks leading up to Election Day, voters considered several contested primary races in Kalamazoo County.",
+          "twitterTitle": "Election results slowed in Kalamazoo with increased absentee voting amid pandemic",
+          "ogImageWidth": "1280",
+          "sailthruTags": "kalamazoo,state and local elections,campaigns and campaign finance,local governments,election-kalamazoo,kalamazoo-election,election-2020,john mcdonough",
+          "articleDateUpdated": "Wednesday, August 05, 2020, 10:07 AM",
+          "ogTitle": "Election results slowed in Kalamazoo with increased absentee voting amid pandemic",
+          "title": "Election results slowed in Kalamazoo with increased absentee voting amid pandemic",
+          "ogType": "article",
+          "articleTag": "@kz-river,@kz-app,election-kalamazoo,kalamazoo-election,election-2020",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "kmille17,rboldrey",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Kayla Miller | kmille17@mlive.com and Ryan Boldrey | rboldrey@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/news/kalamazoo/2020/08/election-results-slowed-in-kalamazoo-with-increased-absentee-voting-amid-pandemic.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2020-08-05T09:00:00Z",
+          "twitterImage": "https://www.mlive.com/resizer/RNRF55qkiNac4iR27yw0FygoGBQ=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SGVTHCI5BRG67CK556YW4CDIYI.JPG",
+          "sailthruDate": "Wednesday, August 05, 2020, 05:00 AM",
+          "ogDescription": "In the weeks leading up to Election Day, voters considered several contested primary races in Kalamazoo County.",
+          "ogImage": "https://www.mlive.com/resizer/RNRF55qkiNac4iR27yw0FygoGBQ=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SGVTHCI5BRG67CK556YW4CDIYI.JPG",
+          "sections": "news/kalamazoo",
+          "articleDateOriginal": "Wednesday, August 05, 2020, 05:00 AM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "In the weeks leading up to Election Day, voters considered several contested primary races in Kalamazoo County.",
+          "ogUrl": "https://www.mlive.com/news/kalamazoo/2020/08/election-results-slowed-in-kalamazoo-with-increased-absentee-voting-amid-pandemic.html",
+          "articleModifiedTime": "2020-08-05T14:07:18.899Z",
+          "articleSection": "Kalamazoo",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "Election results slowed in Kalamazoo with increased absentee voting amid pandemic",
+          "machineTags": "@kz-river,@kz-app",
+          "articleAuthor": "Kayla Miller | kmille17@mlive.com"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSXgN6Wwu45NZfoUt8V6_jvJJzIztAVSafKSO9Jp79J3LL2bv2G1tRn0-tG",
+          "width": "275",
+          "height": "183"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "news",
+          "kalamazoo",
+          "2020/08",
+          "election-results-sl..."
+        ]
+      }
+    },
+    {
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/public-interest/2020/01/who-is-running-for-congress-in-2020-michigans-top-races-to-watch.html&sa=U&ved=2ahUKEwj436K_jI3rAhV_yIsBHZmpD8M4ChAWMAZ6BAgFEAI&usg=AOvVaw1gUqS6kWBq66UTz9vxLmxQ",
+      "content": "15 Jan 2020 \u003cb\u003e...\u003c/b\u003e The \u003cb\u003eelections\u003c/b\u003e aren&#39;t staggered, so all of Michigan&#39;s representatives are up for re-\n\u003cb\u003eelection\u003c/b\u003e in \u003cb\u003e2020\u003c/b\u003e. Michigan&#39;s two senators represent the entire&nbsp;...",
+      "contentNoFormatting": "15 Jan 2020 ... The elections aren't staggered, so all of Michigan's representatives are up for re-\nelection in 2020. Michigan's two senators represent the entire ...",
+      "title": "Who is running for Congress in \u003cb\u003e2020\u003c/b\u003e? Michigan&#39;s top races to watch ...",
+      "titleNoFormatting": "Who is running for Congress in 2020? Michigan's top races to watch ...",
+      "formattedUrl": "https://www.mlive.com/.../\u003cb\u003e2020\u003c/b\u003e/.../who-is-running-for-congress-in-\u003cb\u003e2020\u003c/b\u003e- michigans-top-races-to-watch.html",
+      "unescapedUrl": "https://www.mlive.com/public-interest/2020/01/who-is-running-for-congress-in-2020-michigans-top-races-to-watch.html",
+      "url": "https://www.mlive.com/public-interest/2020/01/who-is-running-for-congress-in-2020-michigans-top-races-to-watch.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/fRLoQmo-H_PpOY0C_ThvAVFPK3Y=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/4YUQFO6FAZCP3BK2JCMDAECCN4.jpg"
+        },
+        "metatags": {
+          "sailthruDescription": "This year will be a big one for Michigan politics.",
+          "twitterTitle": "Who is running for Congress in 2020? Michigan’s top races to watch",
+          "ogImageWidth": "1280",
+          "sailthruTags": "public interest,campaigns and campaign finance,congressional elections,independent,veterans,impact,district,campaign",
+          "articleDateUpdated": "Friday, February 07, 2020, 10:01 AM",
+          "ogTitle": "Who is running for Congress in 2020? Michigan’s top races to watch",
+          "title": "Who is running for Congress in 2020? Michigan’s top races to watch",
+          "ogType": "article",
+          "articleTag": "@mlive-river,@mlive-app,@kz-river,@jx-river,@sa-river,@gr-river,@aa-river,@fl-river,impact",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "mbarrett2",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Malachi Barrett | mbarret1@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/public-interest/2020/01/who-is-running-for-congress-in-2020-michigans-top-races-to-watch.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2020-01-15T17:36:02.077Z",
+          "twitterImage": "https://www.mlive.com/resizer/fRLoQmo-H_PpOY0C_ThvAVFPK3Y=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/4YUQFO6FAZCP3BK2JCMDAECCN4.jpg",
+          "sailthruDate": "Wednesday, January 15, 2020, 12:36 PM",
+          "ogDescription": "This year will be a big one for Michigan politics.",
+          "ogImage": "https://www.mlive.com/resizer/fRLoQmo-H_PpOY0C_ThvAVFPK3Y=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/4YUQFO6FAZCP3BK2JCMDAECCN4.jpg",
+          "sections": "public-interest,politics,news/saginaw-bay-city,news/muskegon,news/kalamazoo,news/jackson,news/grand-rapids,news/flint,news/ann-arbor,news",
+          "articleDateOriginal": "Wednesday, January 15, 2020, 12:36 PM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "This year will be a big one for Michigan politics.",
+          "ogUrl": "https://www.mlive.com/public-interest/2020/01/who-is-running-for-congress-in-2020-michigans-top-races-to-watch.html",
+          "articleModifiedTime": "2020-02-07T15:01:12.726Z",
+          "articleSection": "Public Interest",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "Who is running for Congress in 2020? Michigan’s top races to watch",
+          "machineTags": "@mlive-river,@mlive-app,@kz-river,@jx-river,@sa-river,@gr-river,@aa-river,@fl-river",
+          "articleAuthor": "https://www.facebook.com/malachi.barrett"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhmRfqrDKAd-e6bQ-aLjUMumMfZM9899K0jPnmeyQO4nl3lWP_e7w-6C-d",
+          "width": "281",
+          "height": "180"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "public-interest",
+          "2020/01",
+          "who-is-running-for-c..."
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:n75bnINCB7AJ:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/news/kalamazoo/2020/05/all-candidates-and-issues-on-the-ballot-for-kalamazoo-countys-august-primary-election.html&sa=U&ved=2ahUKEwj436K_jI3rAhV_yIsBHZmpD8M4ChAWMAd6BAgGEAI&usg=AOvVaw1W-XB_HZBK-kCpcXI5SFau",
+      "content": "24 May 2020 \u003cb\u003e...\u003c/b\u003e 4 primary \u003cb\u003eelection\u003c/b\u003e ballot for Kalamazoo County voters. ... &quot;Dog House&quot; Multi-\nPurpose Gym in Portage, Michigan on Tuesday, March 10, \u003cb\u003e2020\u003c/b\u003e.",
+      "contentNoFormatting": "24 May 2020 ... 4 primary election ballot for Kalamazoo County voters. ... \"Dog House\" Multi-\nPurpose Gym in Portage, Michigan on Tuesday, March 10, 2020.",
+      "title": "All candidates and issues on the ballot for Kalamazoo County&#39;s ...",
+      "titleNoFormatting": "All candidates and issues on the ballot for Kalamazoo County's ...",
+      "formattedUrl": "https://www.mlive.com/.../\u003cb\u003e2020\u003c/b\u003e/.../all-candidates-and-issues-on-the-ballot-for -kalamazoo-countys-august-primary-\u003cb\u003eelection\u003c/b\u003e.html",
+      "unescapedUrl": "https://www.mlive.com/news/kalamazoo/2020/05/all-candidates-and-issues-on-the-ballot-for-kalamazoo-countys-august-primary-election.html",
+      "url": "https://www.mlive.com/news/kalamazoo/2020/05/all-candidates-and-issues-on-the-ballot-for-kalamazoo-countys-august-primary-election.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/Tjcj2d-2h15W5phH_-ct89QFm7s=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/TTIOXTTO6ZCSHDHGEXRYHALIIA.JPG"
+        },
+        "metatags": {
+          "sailthruDescription": "The candidates and proposals that will appear on the the Aug. 4 primary election ballot for Kalamazoo County voters.",
+          "twitterTitle": "All candidates and issues on the ballot for Kalamazoo County’s August primary election",
+          "ogImageWidth": "1280",
+          "sailthruTags": "kalamazoo,election-2020,2020-election,election-kalamazoo,d-kalamazoo,r-kalamazoo,tom wagner,calhoun",
+          "articleDateUpdated": "Tuesday, May 26, 2020, 09:55 AM",
+          "ogTitle": "All candidates and issues on the ballot for Kalamazoo County’s August primary election",
+          "title": "All candidates and issues on the ballot for Kalamazoo County’s August primary election",
+          "ogType": "article",
+          "articleTag": "@kz-river,@kz-app,election-2020,2020-election,election-kalamazoo,kalamazoo-election",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "LMoore",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Lindsay Moore | lmoore@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/news/kalamazoo/2020/05/all-candidates-and-issues-on-the-ballot-for-kalamazoo-countys-august-primary-election.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2020-05-24T14:30:43.822Z",
+          "twitterImage": "https://www.mlive.com/resizer/Tjcj2d-2h15W5phH_-ct89QFm7s=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/TTIOXTTO6ZCSHDHGEXRYHALIIA.JPG",
+          "sailthruDate": "Sunday, May 24, 2020, 10:30 AM",
+          "ogDescription": "The candidates and proposals that will appear on the the Aug. 4 primary election ballot for Kalamazoo County voters.",
+          "ogImage": "https://www.mlive.com/resizer/Tjcj2d-2h15W5phH_-ct89QFm7s=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/TTIOXTTO6ZCSHDHGEXRYHALIIA.JPG",
+          "sections": "news/kalamazoo",
+          "articleDateOriginal": "Sunday, May 24, 2020, 10:30 AM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "The candidates and proposals that will appear on the the Aug. 4 primary election ballot for Kalamazoo County voters.",
+          "ogUrl": "https://www.mlive.com/news/kalamazoo/2020/05/all-candidates-and-issues-on-the-ballot-for-kalamazoo-countys-august-primary-election.html",
+          "articleModifiedTime": "2020-05-26T13:55:26.951Z",
+          "articleSection": "Kalamazoo",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "All candidates and issues on the ballot for Kalamazoo County’s August primary election",
+          "machineTags": "@kz-river,@kz-app",
+          "articleAuthor": "https://www.facebook.com/lindsay.moore.33633344"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQlSUeNzRU2Pse7gQOWqBJoJdDWLYmpudT58_KTuNeGz9dOu9qsxb_MCCU",
+          "width": "275",
+          "height": "183"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "news",
+          "kalamazoo",
+          "2020/05",
+          "all-candidates-and..."
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:XyhtmYZA8dUJ:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/public-interest/2020/03/2020-michigan-presidential-primary-election-results.html&sa=U&ved=2ahUKEwj436K_jI3rAhV_yIsBHZmpD8M4ChAWMAh6BAgEEAI&usg=AOvVaw28cZJUVFD3V32ZQG9OtDAn",
+      "content": "10 Mar 2020 \u003cb\u003e...\u003c/b\u003e Bernie Sanders was slowly emerging as the leading candidate to receive the \nDemocratic nomination for President in \u003cb\u003e2020 Election\u003c/b\u003e.",
+      "contentNoFormatting": "10 Mar 2020 ... Bernie Sanders was slowly emerging as the leading candidate to receive the \nDemocratic nomination for President in 2020 Election.",
+      "title": "\u003cb\u003e2020\u003c/b\u003e Michigan Presidential Primary \u003cb\u003eelection\u003c/b\u003e results - mlive.com",
+      "titleNoFormatting": "2020 Michigan Presidential Primary election results - mlive.com",
+      "formattedUrl": "https://www.mlive.com/.../\u003cb\u003e2020\u003c/b\u003e/.../\u003cb\u003e2020\u003c/b\u003e-michigan-presidential-primary- \u003cb\u003eelection\u003c/b\u003e-results.html",
+      "unescapedUrl": "https://www.mlive.com/public-interest/2020/03/2020-michigan-presidential-primary-election-results.html",
+      "url": "https://www.mlive.com/public-interest/2020/03/2020-michigan-presidential-primary-election-results.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/yVs1tmLs6XnFZd0WnY6fb7We2Ts=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/BYQ3TKAAHBDS7IZ5JFDEQXOHBQ.jpg"
+        },
+        "metatags": {
+          "sailthruDescription": "It's down to Joe Biden and Bernie Sanders, for control of 125 delegates.",
+          "twitterTitle": "2020 Michigan Presidential Primary election results",
+          "ogImageWidth": "1280",
+          "sailthruTags": "public interest,campaigns and campaign finance,presidential elections,election-2020,ann arbor,joe biden,michigan,bernie sanders",
+          "articleDateUpdated": "Tuesday, March 10, 2020, 08:20 PM",
+          "ogTitle": "2020 Michigan Presidential Primary election results",
+          "title": "2020 Michigan Presidential Primary election results",
+          "ogType": "article",
+          "articleTag": "@mlive-river,@jx-river,@sa-river,@kz-river,@fl-river,@gr-river,@impact,election-2020,@aa-river",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "scottwlevin",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "Scott Levin | slevin@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/public-interest/2020/03/2020-michigan-presidential-primary-election-results.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2020-03-10T21:00:23.315Z",
+          "twitterImage": "https://www.mlive.com/resizer/yVs1tmLs6XnFZd0WnY6fb7We2Ts=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/BYQ3TKAAHBDS7IZ5JFDEQXOHBQ.jpg",
+          "sailthruDate": "Tuesday, March 10, 2020, 05:00 PM",
+          "ogDescription": "It's down to Joe Biden and Bernie Sanders, for control of 125 delegates.",
+          "ogImage": "https://www.mlive.com/resizer/yVs1tmLs6XnFZd0WnY6fb7We2Ts=/1280x0/smart/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/BYQ3TKAAHBDS7IZ5JFDEQXOHBQ.jpg",
+          "sections": "news,news/ann-arbor,news/flint,news/grand-rapids,news/jackson,news/kalamazoo,news/saginaw-bay-city,news/muskegon,politics,public-interest",
+          "articleDateOriginal": "Tuesday, March 10, 2020, 05:00 PM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "It's down to Joe Biden and Bernie Sanders, for control of 125 delegates.",
+          "ogUrl": "https://www.mlive.com/public-interest/2020/03/2020-michigan-presidential-primary-election-results.html",
+          "articleModifiedTime": "2020-03-11T00:20:16.517Z",
+          "articleSection": "Public Interest",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "2020 Michigan Presidential Primary election results",
+          "machineTags": "@mlive-river,@jx-river,@sa-river,@kz-river,@fl-river,@gr-river,@impact,@aa-river",
+          "articleAuthor": "Scott Levin | slevin@mlive.com"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFSQandUYooYMN5QnaLjSiccIkyp_uS4myHQj1Q1XXszt_vkndOJktiqg",
+          "width": "275",
+          "height": "183"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "public-interest",
+          "2020/03",
+          "2020-michigan-presid..."
+        ]
+      }
+    },
+    {
+      "cacheUrl": "http://www.google.com/search?q=cache:vx75CaigHbYJ:www.mlive.com",
+      "clicktrackUrl": "https://www.google.com/url?client=internal-element-cse&cx=017476104391584697148:yfiniwqwjp4&q=https://www.mlive.com/news/jackson/2020/08/jackson-county-voters-head-to-the-polls-for-august-primary-election.html&sa=U&ved=2ahUKEwj436K_jI3rAhV_yIsBHZmpD8M4ChAWMAl6BAgCEAI&usg=AOvVaw2Ir16nhRwQUOBlzXmUwq_c",
+      "content": "4 days ago \u003cb\u003e...\u003c/b\u003e JACKSON, MI -- It&#39;s primary \u003cb\u003eelection\u003c/b\u003e day, with voters throughout ... Bookmark and \ncheck back to this story after the polls close at 8 p.m. for live \u003cb\u003eelection\u003c/b\u003e results as \nthe numbers come in. ... \u003cb\u003e2020\u003c/b\u003e Advance Local Media LLC.",
+      "contentNoFormatting": "4 days ago ... JACKSON, MI -- It's primary election day, with voters throughout ... Bookmark and \ncheck back to this story after the polls close at 8 p.m. for live election results as \nthe numbers come in. ... 2020 Advance Local Media LLC.",
+      "title": "Jackson County voters head to the polls in August primary \u003cb\u003eelection\u003c/b\u003e",
+      "titleNoFormatting": "Jackson County voters head to the polls in August primary election",
+      "formattedUrl": "https://www.mlive.com/.../\u003cb\u003e2020\u003c/b\u003e/.../jackson-county-\u003cb\u003evote\u003c/b\u003ers-head-to-the-polls- for-august-primary-\u003cb\u003eelection\u003c/b\u003e.html",
+      "unescapedUrl": "https://www.mlive.com/news/jackson/2020/08/jackson-county-voters-head-to-the-polls-for-august-primary-election.html",
+      "url": "https://www.mlive.com/news/jackson/2020/08/jackson-county-voters-head-to-the-polls-for-august-primary-election.html",
+      "visibleUrl": "www.mlive.com",
+      "richSnippet": {
+        "cseImage": {
+          "src": "https://www.mlive.com/resizer/-Nu7P1ypcgBbZcib4-zhmgR0T5w=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SVI3P57AGFAIFEVK5PK3Z6HHKY.jpeg"
+        },
+        "metatags": {
+          "sailthruDescription": "Polls close at 8 p.m. Tuesday.",
+          "twitterTitle": "Live results: Jackson County voters head to the polls in August primary election",
+          "ogImageWidth": "1280",
+          "sailthruTags": "jackson,jackson-election-2020,election-2020,craig dawson,election,michael hill,r,precinct",
+          "articleDateUpdated": "Wednesday, August 05, 2020, 12:15 PM",
+          "ogTitle": "Live results: Jackson County voters head to the polls in August primary election",
+          "title": "Live results: Jackson County voters head to the polls in August primary election",
+          "ogType": "article",
+          "articleTag": "@jx-river,@jx-app,@mlive-river,@mlive-app,jackson-election-2020,election-2020",
+          "subscriberOnly": "false",
+          "twitterCard": "summary_large_image",
+          "sailthruAuthor": "mckennaross",
+          "fbAdmins": "100000302287435",
+          "ogSiteName": "mlive",
+          "byline": "McKenna Ross | mross@mlive.com",
+          "articlePublicationName": "https://www.mlive.com/news/jackson/2020/08/jackson-county-voters-head-to-the-polls-for-august-primary-election.html",
+          "twitterSite": "@mlive",
+          "articlePublishedTime": "2020-08-04T11:00:00Z",
+          "twitterImage": "https://www.mlive.com/resizer/-Nu7P1ypcgBbZcib4-zhmgR0T5w=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SVI3P57AGFAIFEVK5PK3Z6HHKY.jpeg",
+          "sailthruDate": "Tuesday, August 04, 2020, 07:00 AM",
+          "ogDescription": "Polls close at 8 p.m. Tuesday.",
+          "ogImage": "https://www.mlive.com/resizer/-Nu7P1ypcgBbZcib4-zhmgR0T5w=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SVI3P57AGFAIFEVK5PK3Z6HHKY.jpeg",
+          "sections": "news/jackson,news",
+          "articleDateOriginal": "Tuesday, August 04, 2020, 07:00 AM",
+          "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+          "twitterDescription": "Polls close at 8 p.m. Tuesday.",
+          "ogUrl": "https://www.mlive.com/news/jackson/2020/08/jackson-county-voters-head-to-the-polls-for-august-primary-election.html",
+          "articleModifiedTime": "2020-08-05T16:15:35.246Z",
+          "articleSection": "Jackson",
+          "fbAppId": "132720883409479",
+          "sailthruTitle": "Live results: Jackson County voters head to the polls in August primary election",
+          "machineTags": "@jx-river,@jx-app,@mlive-river,@mlive-app",
+          "articleAuthor": "McKenna Ross | MRoss@mlive.com"
+        },
+        "cseThumbnail": {
+          "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRhnK2wR43ltlDqzuEd_rNO9LGeNE_Gp7Uo8b-mVXNxwFlyPryfAXccZZbT",
+          "width": "304",
+          "height": "166"
+        }
+      },
+      "breadcrumbUrl": {
+        "host": "https://www.mlive.com",
+        "crumbs": [
+          "news",
+          "jackson",
+          "2020/08",
+          "jackson-county-voter..."
+        ]
+      }
+    }
+  ],
+  "findMoreOnGoogle": {
+    "url": "https://www.google.com/search?client=ms-google-coop&q=2020+election&cx=017476104391584697148:yfiniwqwjp4"
+  }
+});
