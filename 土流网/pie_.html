@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Awesome-pyecharts</title>
+            <script type="text/javascript" src="https://assets.pyecharts.org/assets/echarts.min.js"></script>
+
+</head>
+<body>
+    <div id="ad7d63506e1446b7921e1d6ffb13429d" class="chart-container" style="width:1100px; height:500px;"></div>
+    <script>
+        var chart_ad7d63506e1446b7921e1d6ffb13429d = echarts.init(
+            document.getElementById('ad7d63506e1446b7921e1d6ffb13429d'), '成交方式占比图', {renderer: 'canvas'});
+        var option_ad7d63506e1446b7921e1d6ffb13429d = {
+    "animation": true,
+    "animationThreshold": 2000,
+    "animationDuration": 1000,
+    "animationEasing": "cubicOut",
+    "animationDelay": 0,
+    "animationDurationUpdate": 300,
+    "animationEasingUpdate": "cubicOut",
+    "animationDelayUpdate": 0,
+    "series": [
+        {
+            "type": "pie",
+            "name": "\u571f\u5730\u51fa\u8ba9\u5f62\u5f0f",
+            "clockwise": true,
+            "data": [
+                {
+                    "name": "\u6302\u724c",
+                    "value": 166
+                },
+                {
+                    "name": "\u62cd\u5356",
+                    "value": 141
+                },
+                {
+                    "name": "\u62db\u6807",
+                    "value": 2
+                }
+            ],
+            "radius": [
+                "0%",
+                "75%"
+            ],
+            "center": [
+                "25%",
+                "50%"
+            ],
+            "label": {
+                "show": true,
+                "position": "top",
+                "margin": 8
+            },
+            "tooltip": {
+                "show": true,
+                "trigger": "item",
+                "triggerOn": "mousemove|click",
+                "axisPointer": {
+                    "type": "line"
+                },
+                "showContent": true,
+                "alwaysShowContent": false,
+                "showDelay": 0,
+                "hideDelay": 100,
+                "formatter": "{a} <br/>{b}: {c} ({d}%)",
+                "textStyle": {
+                    "fontSize": 14
+                },
+                "borderWidth": 0,
+                "padding": 5
+            },
+            "rippleEffect": {
+                "show": true,
+                "brushType": "stroke",
+                "scale": 2.5,
+                "period": 4
+            }
+        },
+        {
+            "type": "pie",
+            "name": "\u571f\u5730\u6210\u4ea4\u72b6\u6001",
+            "clockwise": true,
+            "data": [
+                {
+                    "name": "\u672a\u6210\u4ea4",
+                    "value": 295
+                },
+                {
+                    "name": "\u6d41\u62cd",
+                    "value": 12
+                },
+                {
+                    "name": "\u5df2\u6210\u4ea4",
+                    "value": 2
+                }
+            ],
+            "radius": [
+                "0%",
+                "75%"
+            ],
+            "center": [
+                "70%",
+                "50%"
+            ],
+            "label": {
+                "show": true,
+                "position": "top",
+                "margin": 8
+            },
+            "tooltip": {
+                "show": true,
+                "trigger": "item",
+                "triggerOn": "mousemove|click",
+                "axisPointer": {
+                    "type": "line"
+                },
+                "showContent": true,
+                "alwaysShowContent": false,
+                "showDelay": 0,
+                "hideDelay": 100,
+                "formatter": "{a} <br/>{b}: {c} ({d}%)",
+                "textStyle": {
+                    "fontSize": 14
+                },
+                "borderWidth": 0,
+                "padding": 5
+            },
+            "rippleEffect": {
+                "show": true,
+                "brushType": "stroke",
+                "scale": 2.5,
+                "period": 4
+            }
+        }
+    ],
+    "legend": [
+        {
+            "data": [
+                "\u6302\u724c",
+                "\u62cd\u5356",
+                "\u62db\u6807",
+                "\u672a\u6210\u4ea4",
+                "\u6d41\u62cd",
+                "\u5df2\u6210\u4ea4"
+            ],
+            "selected": {},
+            "show": false,
+            "padding": 5,
+            "itemGap": 10,
+            "itemWidth": 25,
+            "itemHeight": 14
+        }
+    ],
+    "tooltip": {
+        "show": true,
+        "trigger": "item",
+        "triggerOn": "mousemove|click",
+        "axisPointer": {
+            "type": "line"
+        },
+        "showContent": true,
+        "alwaysShowContent": false,
+        "showDelay": 0,
+        "hideDelay": 100,
+        "textStyle": {
+            "fontSize": 14
+        },
+        "borderWidth": 0,
+        "padding": 5
+    },
+    "color": [
+        "red",
+        "blue",
+        "green"
+    ],
+    "title": [
+        {
+            "text": "\u571f\u5730\u51fa\u8ba9\u5f62\u5f0f&\u571f\u5730\u6210\u4ea4\u72b6\u6001\u5360\u6bd4",
+            "padding": 5,
+            "itemGap": 10
+        }
+    ]
+};
+        chart_ad7d63506e1446b7921e1d6ffb13429d.setOption(option_ad7d63506e1446b7921e1d6ffb13429d);
+    </script>
+</body>
+</html>
