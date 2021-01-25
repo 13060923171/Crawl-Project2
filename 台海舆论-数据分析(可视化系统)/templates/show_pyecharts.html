@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+    <script src="https://cdn.bootcss.com/jquery/3.0.0/jquery.min.js"></script>
+  <script type="text/javascript" src="https://assets.pyecharts.org/assets/echarts.min.js"></script>
+</head>
+<body>
+<h1>柱状图</h1>
+<div>
+  <!-- 为ECharts准备一个具备大小（宽高）的Dom -->
+  <div id="main" style="width: 600px;height:400px;"></div>
+  <script type="text/javascript">
+    // 基于准备好的dom，初始化echarts实例
+    var myChart = echarts.init(document.getElementById('main'));
+    // 使用刚指定的配置项和数据显示图表。
+    myChart.setOption({{ bar_data | safe }});
+  </script>
+
+  <!-- 为ECharts准备一个具备大小（宽高）的Dom -->
+  <div id="main2" style="width: 600px;height:400px;"></div>
+  <script type="text/javascript">
+    // 基于准备好的dom，初始化echarts实例
+    var myChart2 = echarts.init(document.getElementById('main2'));
+
+    // 指定图表的配置项和数据
+    var option2 = {{ bar_data1 | safe }};
+
+    // 使用刚指定的配置项和数据显示图表。
+    myChart2.setOption(option2);
+  </script>
+</div>
+<li>在疫情尚未大面积出现的前期，收集到的疫情相关主题词主要为2020、发烧、肺炎、穿山甲等等，疫情有关词语占主题词比例相对较少，主题词相对较为分散；其中也夹杂部分早期出现的如病毒性等描述；</li>
+<li>在1月12号左右，冠状病毒、肺炎等词语数量开始远大于其他非疫情相关词语；</li>
+<li>在1.23，随着武汉封城，武汉这一词汇提及次数也显著增大；</li>
+<li>在1月底二月初，疫情、新冠等词语也频繁被提及；加油这一词语也十分显著，表明了全国人民同疫情斗争的决心和对武汉的美好祝愿；</li>
+<li>该词云图也可以显著的反应出舆论热点，如2.6左右的李文亮医生去世事件就可以观察到李文亮一词在词云图中显著展示；</li>
+<li>肖战一词占比较少，但始终在词云图中出现，也许表明了在疫情期间仍然对于明星有一定的关注流量；</li>
+
+</body>
+</html>

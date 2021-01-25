@@ -1,0 +1,607 @@
+<!DOCTYPE html>
+<html lang="en">
+<body bgcolor="#FFEFD5">
+<head>
+  <meta charset="UTF-8">
+  <title>台海局势</title>
+    <style>
+/* https://github.com/microsoft/vscode/blob/master/extensions/markdown-language-features/media/markdown.css */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+body {
+	font-family: var(--vscode-markdown-font-family, -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif);
+	font-size: var(--vscode-markdown-font-size, 14px);
+	padding: 0 26px;
+	line-height: var(--vscode-markdown-line-height, 22px);
+	word-wrap: break-word;
+}
+
+#code-csp-warning {
+	position: fixed;
+	top: 0;
+	right: 0;
+	color: white;
+	margin: 16px;
+	text-align: center;
+	font-size: 12px;
+	font-family: sans-serif;
+	background-color:#444444;
+	cursor: pointer;
+	padding: 6px;
+	box-shadow: 1px 1px 1px rgba(0,0,0,.25);
+}
+
+#code-csp-warning:hover {
+	text-decoration: none;
+	background-color:#007acc;
+	box-shadow: 2px 2px 2px rgba(0,0,0,.25);
+}
+
+body.scrollBeyondLastLine {
+	margin-bottom: calc(100vh - 22px);
+}
+
+body.showEditorSelection .code-line {
+	position: relative;
+}
+
+body.showEditorSelection .code-active-line:before,
+body.showEditorSelection .code-line:hover:before {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 0;
+	left: -12px;
+	height: 100%;
+}
+
+body.showEditorSelection li.code-active-line:before,
+body.showEditorSelection li.code-line:hover:before {
+	left: -30px;
+}
+
+.vscode-light.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.15);
+}
+
+.vscode-light.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.40);
+}
+
+.vscode-light.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-dark.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.4);
+}
+
+.vscode-dark.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.60);
+}
+
+.vscode-dark.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-high-contrast.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 160, 0, 0.7);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 160, 0, 1);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+img {
+	max-width: 100%;
+	max-height: 100%;
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+	display: inline-block;
+	text-align: center;
+	text-decoration: none;
+	color: azure;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:focus,
+input:focus,
+select:focus,
+textarea:focus {
+	outline: 1px solid -webkit-focus-ring-color;
+	outline-offset: -1px;
+}
+
+hr {
+	border: 0;
+	height: 2px;
+	border-bottom: 2px solid;
+}
+
+h2, h3, h4 {
+	font-weight: normal;
+	text-align: center;
+	line-height: 1.2;
+	padding-bottom: 10px;
+	border-bottom-style: dashed;
+}
+
+h2 {
+	border-bottom-width: 2px;
+}
+
+h3 {
+	border-bottom-width: 1px;
+}
+
+h4 {
+	border-bottom-width: 0px;
+}
+
+h1 {
+	font-weight: normal;
+	text-align: center;
+	line-height: 1.2;
+	padding-bottom: 0.3em;
+	border-bottom-width: 2px;
+	border-bottom-style: solid;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table > thead > tr > th {
+	text-align: left;
+	border-bottom: 1px solid;
+}
+
+table > thead > tr > th,
+table > thead > tr > td,
+table > tbody > tr > th,
+table > tbody > tr > td {
+	padding: 5px 10px;
+}
+
+table > tbody > tr + tr > td {
+	border-top: 1px solid;
+}
+
+blockquote {
+	margin: 0 7px 0 5px;
+	padding: 0 16px 0 10px;
+	border-left-width: 5px;
+	border-left-style: solid;
+}
+
+code {
+	font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+	font-size: 1em;
+	line-height: 1.357em;
+}
+
+body.wordWrap pre {
+	white-space: pre-wrap;
+}
+
+pre:not(.hljs),
+pre.hljs code > div {
+	padding: 16px;
+	border-radius: 3px;
+	overflow: auto;
+}
+
+pre code {
+	color: var(--vscode-editor-foreground);
+	tab-size: 4;
+}
+
+/** Theming */
+
+.vscode-light pre {
+	background-color: rgba(220, 220, 220, 0.4);
+}
+
+.vscode-dark pre {
+	background-color: rgba(10, 10, 10, 0.4);
+}
+
+.vscode-high-contrast pre {
+	background-color: rgb(0, 0, 0);
+}
+
+.vscode-high-contrast h1 {
+	border-color: rgb(0, 0, 0);
+}
+
+.vscode-light table > thead > tr > th {
+	border-color: rgba(0, 0, 0, 0.69);
+}
+
+.vscode-dark table > thead > tr > th {
+	border-color: rgba(255, 255, 255, 0.69);
+}
+
+.vscode-light h1,
+.vscode-light hr,
+.vscode-light table > tbody > tr + tr > td {
+	border-color: rgba(0, 0, 0, 0.18);
+}
+
+.vscode-dark h1,
+.vscode-dark hr,
+.vscode-dark table > tbody > tr + tr > td {
+	border-color: rgba(255, 255, 255, 0.18);
+}
+
+</style>
+
+    <style>
+/* Tomorrow Theme */
+/* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
+/* Original theme - https://github.com/chriskempson/tomorrow-theme */
+
+/* Tomorrow Comment */
+.hljs-comment,
+.hljs-quote {
+	color: #8e908c;
+}
+
+/* Tomorrow Red */
+.hljs-variable,
+.hljs-template-variable,
+.hljs-tag,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class,
+.hljs-regexp,
+.hljs-deletion {
+	color: #c82829;
+}
+
+/* Tomorrow Orange */
+.hljs-number,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params,
+.hljs-meta,
+.hljs-link {
+	color: #f5871f;
+}
+
+/* Tomorrow Yellow */
+.hljs-attribute {
+	color: #eab700;
+}
+
+/* Tomorrow Green */
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-addition {
+	color: #718c00;
+}
+
+/* Tomorrow Blue */
+.hljs-title,
+.hljs-section {
+	color: #4271ae;
+}
+
+/* Tomorrow Purple */
+.hljs-keyword,
+.hljs-selector-tag {
+	color: #8959a8;
+}
+
+.hljs {
+	display: block;
+	overflow-x: auto;
+	color: #4d4d4c;
+	padding: 0.5em;
+}
+
+.hljs-emphasis {
+	font-style: italic;
+}
+
+.hljs-strong {
+	font-weight: bold;
+}
+</style>
+
+    <style>
+/*
+ * Markdown PDF CSS
+ */
+
+ body {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif, "Meiryo";
+	padding: 0 12px;
+}
+
+pre {
+	background-color: #f8f8f8;
+	border: 1px solid #cccccc;
+	border-radius: 3px;
+	overflow-x: auto;
+	white-space: pre-wrap;
+	overflow-wrap: break-word;
+}
+
+pre:not(.hljs) {
+	padding: 23px;
+	line-height: 19px;
+}
+
+blockquote {
+	background: rgba(127, 127, 127, 0.1);
+	border-color: rgba(0, 122, 204, 0.5);
+}
+
+.emoji {
+	height: 1.4em;
+}
+
+code {
+	font-size: 14px;
+	line-height: 19px;
+}
+
+/* for inline code */
+:not(pre):not(.hljs) > code {
+	color: #C9AE75; /* Change the old color so it seems less like an error */
+	font-size: inherit;
+}
+
+/* Page Break : use <div class="page"/> to insert page break
+-------------------------------------------------------- */
+.page {
+	page-break-after: always;
+}
+
+</style>
+
+  <script src="https://cdn.bootcss.com/jquery/3.0.0/jquery.min.js"></script>
+  <script type="text/javascript" src="https://assets.pyecharts.org/assets/echarts.min.js"></script>
+  <script type="text/javascript" src="https://assets.pyecharts.org/assets/echarts-wordcloud.min.js"></script>
+  <script type="text/javascript" src="https://assets.pyecharts.org/assets/echarts-wordcloud.min.js"></script>
+</head>
+<body>
+
+
+  <!-- 为ECharts准备一个具备大小（宽高）的Dom -->
+  <div style="margin-left: auto;margin-right:
+auto;max-width: 900px;background-color:ivory;padding-left: 15px;padding-right: 15px;">
+      <h1>台海局势可视化分析</h1>
+      <h2>台海局势-两岸关系军事防务时政分析报告</h2>
+      <p><font size="5">今年年初以来，两岸关系遭遇了数十年来前所未有的挑战，出现了许多复杂严峻情况，但在大陆方面积极识变应变，主动作为，在两岸同胞共同努力之下，两岸关系发展保持了总体稳定。纵观年初到年末，两岸关系发展取得了不少积极进展。</font></p>
+      <p><font size="3">一、是在世界百年未有之大变局加速演变之下，美国对中国发展进程的焦虑感、戒惧感更加凸显，利用手中的各种“牌”全面遏制中国的程度无以复加，尤其是特朗普政府不断“暴冲”、不惜代价地打“台湾牌”制造事端，民进党当局趁势全面贴靠美国、甘当棋子，图谋倚美抗陆，使得台海形势波涛汹涌、风高浪急。</font></p>
+      <p><font size="3">二、是全球新冠肺炎疫情突发并持续蔓延，给全球经济、人员交流造成了严重冲击，两岸之间交流往来受疫情影响，客观难度不断增加。</font></p>
+      <p><font size="3">三、是民进党当局以疫谋“独”，借疫情加紧同大陆所谓“脱钩”“断链”，操弄“渐进台独”“去中国化”，伺机进行“法理台独”冒险，加大干扰破坏两岸关系，煽动“反中、仇中、抗中”情绪，给两岸关系带来了严重的危害。</font></p>
+
+      <h2>所使用的数据集：</h2>
+      <ul>
+      <li><font size="3">微博 关键词：台海局势，1-12月所有内容文本。</font></li>
+      <li><font size="3">知乎 关键词：台海局势。</font></li>
+      <li><font size="3">中国台湾网：文化、经贸、媒体专栏、网友专栏、两岸专家、两岸、台商、部委、台海时事、网友、海峡时评、两岸快评等有关方面的报道。</font></li>
+      <li><font size="3">环球网 台海局势，1-12月以来的全部内容。</font></li>
+      <li><font size="3">中国日报网 台海局势，1-12月以来的全部内容。</font></li>
+      <li><font size="3">中新网 台海局势，1-12月以来的全部内容。</font></li>
+      <li><font size="3">今日头条 台海局势，1-12月以来的全部内容。</font></li>
+      <li><font size="3">光明网 台海局势，1-12月以来的全部内容。</font></li>
+      <li><font size="3">凤凰网 台海局势，1-12月以来的全部内容。</font></li>
+      <li><font size="3">新华网 台海局势，1-12月以来的全部内容。</font></li>
+      </ul>
+      <p><font size="3">部分数据经爬虫采集，部分数据采用公开数据集，可视化部分采用pyecharts+flask实现动态交互</font></p>
+
+      <h2>台海局势之趋势分析:</h2>
+
+      <h3>台海局势动态交互可视化折线图</h3>
+      <div id="main" style="width: 900px;height:600px;"></div>
+  <script type="text/javascript">
+    // 基于准备好的dom，初始化echarts实例
+    var myChart = echarts.init(document.getElementById('main'));
+    // 使用刚指定的配置项和数据显示图表。
+    myChart.setOption({{ line_data | safe }});
+  </script>
+      <p>通过交互分析可以发现:</p>
+      <ul>
+      <li>在这2020年这一整年里面,全网有关台海局势的讨论一直呈现出波动上升的趋势,并且在4月、9月、12月形成三段高峰</li>
+      <li>其中微博、中国台湾网、中新网波动起伏最大，这也是国家这些主流媒体所引导的趋势所导致而成的</li>
+      </ul>
+
+
+      <h3>全网台海局势分布占比图</h3>
+  <!-- 为ECharts准备一个具备大小（宽高）的Dom -->
+  <div id="main2" style="width: 900px;height:600px;"></div>
+  <script type="text/javascript">
+    // 基于准备好的dom，初始化echarts实例
+    var myChart2 = echarts.init(document.getElementById('main2'));
+
+    // 指定图表的配置项和数据
+    var option2 = {{ pie2_data | safe }};
+
+    // 使用刚指定的配置项和数据显示图表。
+    myChart2.setOption(option2);
+  </script>
+      <p>通过交互分析可以发现:</p>
+      <ul>
+      <li>中新网所占比例最高为17.54%，其次在知乎平台关于台湾局势的讨论最低，仅占0.5%</li>
+      <li>以中新网、中国台湾网为代表的主流媒体为人民梳理了台海局势的变化，让人民充分的了解到目前，中国和台湾的关系情况</li>
+      <li>微博、知乎、今日头条等平台广泛传播了台海局势的变化，让网友可以充分的发表自己的看法，去收集人民的意见。</li>
+      </ul>
+
+      <h3>台海局势情感柱状图</h3>
+  <!-- 为ECharts准备一个具备大小（宽高）的Dom -->
+  <div id="main3" style="width: 900px;height:600px;"></div>
+  <script type="text/javascript">
+    // 基于准备好的dom，初始化echarts实例
+    var myChart3 = echarts.init(document.getElementById('main3'));
+
+    // 指定图表的配置项和数据
+    var option3 = {{ bar_data | safe }};
+
+    // 使用刚指定的配置项和数据显示图表。
+    myChart3.setOption(option3);
+  </script>
+      <p>通过交互分析可以发现:</p>
+      <ul>
+      <li>全网舆论以正面情感为主</li>
+      <li>大家一致认为维护台海和平稳定是两岸共同的责任，都希望两岸关系能够融合发展，共创中华民族伟大复兴的美好未来</li>
+      <li>在当前中美关系形成战略竞争格局的背景下，两岸关系更应该着眼于提升规避风险的能力，在危机发生前进行主动地沟通和协商</li>
+      <li>希望两岸能在重建互信上多做努力。希望两岸人民以和平的方式解决两岸问题，为全球转型以及世界秩序的和平建立作出贡献</li>
+      </ul>
+
+
+      <h3>台海局势热词词云图</h3>
+  <!-- 为ECharts准备一个具备大小（宽高）的Dom -->
+  <div id="main4" style="width: 900px;height:600px;"></div>
+  <script type="text/javascript">
+    // 基于准备好的dom，初始化echarts实例
+    var myChart4 = echarts.init(document.getElementById('main4'));
+
+    // 指定图表的配置项和数据
+    var option4 = {{ word_data | safe }};
+
+    // 使用刚指定的配置项和数据显示图表。
+    myChart4.setOption(option4);
+  </script>
+      <p>通过交互分析可以发现:</p>
+      <ul>
+      <li>台湾，中国，大陆，美国，两岸，台独等词语较为突出，这也和当前的局势有关</li>
+      <li>对不同日期的文章集合分别渲染词云图，可以更直观的看出人民对台湾主观看法</li>
+      <li>在当前中美关系形成战略竞争格局的背景下，两岸关系更应该着眼于提升规避风险的能力，在危机发生前进行主动地沟通和协商</li>
+      <li>认为在新时代下国家安全治理必将进行战略转型，采取必要措施对台独形成有效威慑，对两岸关系影响最大的外部因素，第一个是美国，第二个一定是日本。并提出应该对台保持警觉、遏制日台官方政治方面实质性的升级与突破的因应之策</li>
+      </ul>
+
+
+      <h3>台海局势热度走向趋势折线图</h3>
+  <!-- 为ECharts准备一个具备大小（宽高）的Dom -->
+  <div id="main5" style="width: 900px;height:600px;"></div>
+  <script type="text/javascript">
+    // 基于准备好的dom，初始化echarts实例
+    var myChart5 = echarts.init(document.getElementById('main5'));
+
+    // 指定图表的配置项和数据
+    var option5 = {{ line2_data | safe }};
+
+    // 使用刚指定的配置项和数据显示图表。
+    myChart5.setOption(option5);
+  </script>
+      <p>通过交互分析可以发现:</p>
+      <ul>
+      <li>我们不难看出这个热度的走势，总体呈上升趋势，并且在4月，9月，12月，迎来三波高潮的趋势</li>
+      <li>回顾过去几十年，台海地区的总态势是，大陆高速发展，两岸实力格局出现历史性重塑，同时两岸交流井喷式增加，经济和文化融合成为一个大趋势</li>
+      <li>中国整个周边都对中国崛起有着复杂感受，台湾作为中国的一个“割据地区”，这个问题很容易变得更突出</li>
+      </ul>
+
+      <h3>中国台湾网各项占比图</h3>
+  <!-- 为ECharts准备一个具备大小（宽高）的Dom -->
+  <div id="main6" style="width: 900px;height:600px;"></div>
+  <script type="text/javascript">
+    // 基于准备好的dom，初始化echarts实例
+    var myChart6 = echarts.init(document.getElementById('main6'));
+
+    // 指定图表的配置项和数据
+    var option6 = {{ pie_data | safe }};
+
+    // 使用刚指定的配置项和数据显示图表。
+    myChart6.setOption(option6);
+  </script>
+      <p>通过交互分析可以发现:</p>
+      <ul>
+      <li>中国台湾网是中央台办和国台办管理的国家重点新闻网站，拥有庞大的涉台资源</li>
+      <li>面报道台湾事务和两岸关系的重要新闻资讯，致力于传播两岸亲情，沟通两岸民意，服务两岸交流</li>
+      <li>其中各方面分布比例均匀，同时也是台海局势讨论的重要重地</li>
+      </ul>
+
+            <h3>台海局势转发与评论关系条形图</h3>
+  <!-- 为ECharts准备一个具备大小（宽高）的Dom -->
+  <div id="main7" style="width: 900px;height:600px;"></div>
+  <script type="text/javascript">
+    // 基于准备好的dom，初始化echarts实例
+    var myChart7 = echarts.init(document.getElementById('main7'));
+
+    // 指定图表的配置项和数据
+    var option7 = {{ line3_data | safe }};
+
+    // 使用刚指定的配置项和数据显示图表。
+    myChart7.setOption(option7);
+    </script>
+      <p>通过交互分析可以发现:</p>
+      <ul>
+      <li>这里的主要数据来源于微博</li>
+      <li>我们可以知道关于台海局势的有关报道，转发的次数越多，那么所引起的讨论也就越多</li>
+      <li>转发和讨论呈现一个正比关系图</li>
+      <li>从自媒体的追捧，到地方媒体及地方官方的背书，再到国家级媒体（《人民日报》、新华网、人民网）的报道与背书</li>
+      <li>让人民逐渐关注台海局势的变化，也让人民一直赋予主人翁精神</li>
+      <li>目前来看，有关台海局势的搜索内容以及由其带来的话题，还具有较高热度。</li>
+      </ul>
+
+
+    <h3>台海局势点赞分析图</h3>
+  <!-- 为ECharts准备一个具备大小（宽高）的Dom -->
+  <div id="main8" style="width: 900px;height:600px;"></div>
+  <script type="text/javascript">
+    // 基于准备好的dom，初始化echarts实例
+    var myChart8 = echarts.init(document.getElementById('main8'));
+
+    // 指定图表的配置项和数据
+    var option8 = {{ radius_data | safe }};
+
+    // 使用刚指定的配置项和数据显示图表。
+    myChart8.setOption(option8);
+    </script>
+    <p>通过交互分析可以发现:</p>
+      <ul>
+      <li>这里的主要数据来源于知乎</li>
+      <li>我们可以知道关于台海局势的讨论，大家纷纷发表自己的意见，并且都获得了不同程度上的赞同</li>
+      <li>其中在3月、7月、9月分别迎来三次的爆发</li>
+      <li>但就目前来看，台海局势依旧复杂严峻，</li>
+      <li>在面对突如其来的新冠肺炎疫情，祖国大陆始终坚持人民至上、生命至上，真诚关心照顾台湾同胞，妥善安排滞留湖北台胞返台，全力支持台企尽快复工复产</li>
+      <li>广大台胞台企踊跃捐款捐物，台湾医护人员毅然投身抗疫一线，台湾青年积极参与志愿服务</li>
+      <li>两岸同胞亲望亲好、守望相助、同舟共济、共克时艰</li>
+      <li>事实证明，两岸同胞血浓于水、骨肉相连的天然情感，是任何人任何势力都无法改变的</li>
+      </ul>
+
+    <h2>台海局势-总结分析</h2>
+  <p><font size="5">(一、)大陆对有关台海局势的态度</font></p>
+        <p><font size="3">一方面，台湾是中国的一部分，大陆绝不会允许“台独”势力以任何名义、任何方式把台湾从中国分裂出去</font></p>
+        <p><font size="3">另一方面，大陆会以最大的诚意，尽最大的努力，推动和实现和平统一。</font></p>
+        <p><font size="3">并且明确表示，坚持一个中国原则和“九二共识”，坚决遏制“台独”活动和外部势力干涉，积极促进两岸关系和平发展与融合发展，推进祖国统一进程，以优异成绩庆祝建党100周年。</font></p>
+        <p><font size="5">(二、)中美关系对有关台海局势的影响</font></p>
+        <p><font size="3">过去4年，美中关系全面倒退，跌入中美建交41年来新低点。特朗普把“台独”势力当枪使，导致去年台海局势也陷入41年来最危急时刻</font></p>
+  <p><font size="3">但是在1月20日后，拜登政府即将在上台，世界舆论普遍认为，中美关系将趋向缓和</font></p>
+  <p><font size="3">之所以这么说是因为拜登是传统建制派政治人物，36年的参议员生涯，有34年是在参议院外交委员会，中美关系对美国有多重要，他非常清楚</font></p>
+  <p><font size="3">而且，拜登上台后首要任务是控制疫情、发展经济，重回《巴黎气候协定》，这些问题，他都想寻求与中国的合作。所以，未来相对缓和的中美关系是可以期待的</font></p>
+  <p><font size="3">具体到台湾问题上,美国很多学者认为，蓬佩奥取消美台官方交往限制，拜登不会全盘照收，甚至可能撤销这项决定</font></p>
+  <p><font size="3">还有一个观察点，就是负责拜登政府亚洲事务的坎贝尔对两岸问题的态度。坎贝尔最近多次谈话表示，希望看到两岸恢复对话，他还说，“美国‘挺台不反中</font></p>
+  <p><font size="3">美国是“台独”势力最大靠山，“台独”分子绝不敢违逆美国旨意</font></p>
+  <p><font size="3">从上面信息看，拜登政府未来大概率不会允许民进党当局升高对大陆的挑衅，升高两岸紧张</font></p>
+  <p><font size="5">(三、)就台湾内部来说</font></p>
+  <p><font size="3">2021年没有选举，民进党操弄两岸关系的政治需求相对降低，但民进党当局在“瘦肉精”美猪进口议题上，将面临国民党及民间团体的猛烈进攻，再加上国民党推动多个罢免案，民进党当局不得不腾出更多精力，面对内部排山倒海的政治压力。</font></p>
+  <p><font size="5">综上所述，民进党当局在新的一年里将内外交困，自顾不暇；再加上大陆强力威慑和有效管控，2021年台海局势有较大可能走向缓和。</font></p>
+</div>
+
+
+
+</body>
+</html>
